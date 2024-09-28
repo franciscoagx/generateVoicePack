@@ -1,2 +1,6 @@
-/*/
 .env
+/venv
+/utils
+/voice
+/history
+/examples
