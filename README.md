@@ -1,2 +1,60 @@
 # generateVoicePack
-Generate voice pack for CrewChief using ElevenLabs tts
+
+## Description
+
+Generate voice packs for CrewChief using ElevenLabs API
+
+## Requirements
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/franciscoagx/generateVoicePack.git
+    cd generateVoicePack
+    ```
+
+2. Create and activate a virtual environment:
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # For macOS/Linux
+    myenv\Scripts\activate     # For Windows
+    ```
+
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+
+# Generate spotter audios (generate_spotter.py)
+This script generates audio samples using the Eleven Labs API. It takes command-line arguments for the API key, voice ID, custom voice name, and a JSON file containing phrases. The script loads the phrases from the JSON file, organizes them into categories and phrases, and generates multiple audio variants for each phrase using the Eleven Labs text-to-speech API. It saves the audio files in a structured directory and generates corresponding CSV files for each set of audio samples. The script also converts the audio from MP3 to WAV format and removes the original MP3 files after conversion.
+
+Usage:
+  ```bash
+  python3 generate_spotter.py --eleven_labs_api_key XXXXX --voice_name 'name' --voice_id XXXXX
+
+  ```
+Optional args:
+
+**--subtitles_file** *file.json*
+
+default: *spotter_subtitles.json*
+
+# Increase gain (increase_gain.py)
+This script increases the gain (volume) of all .wav audio files in a specified folder. It takes two command-line arguments: --input_folder, which is the path to the folder containing the audio files, and --gain, the amount of gain in decibels to apply to each file. The modified audio files are saved in a new folder with the suffix _gain, maintaining the original folder structure.
+
+Usage:
+  ```bash
+  python3 increase_gain.py --input_folder spotter_name --gain 5
+  ```
+
+replace spotter_name
+
+# Radio filter (radio_filter.py)
+This script applies a "radio" effect to WAV audio files within a specified directory. The "radio" effect simulates the sound quality of audio transmitted over a radio by applying a low-pass filter to limit bandwidth and increasing the volume to mimic radio compression.
+
+Usage:
+  ```bash
+  python3 radio_filter.py --input_folder spotter_name
+  ```
+
+replace spotter_name

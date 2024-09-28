@@ -1,0 +1,99 @@
+{
+  "clear_left": [
+    "libre a la izquierda",
+    "todo despejado a la izquierda",
+    "izquierda despejada"
+  ],
+  "clear_inside": [
+    "interior despejado",
+    "todo despejado por dentro",
+    "libre por dentro"
+  ],
+  "in_the_middle": [
+    "estás en el medio",
+    "vas en el medio, tres en paralelo",
+    "tres en paralelo, estás en el medio"
+  ],
+  "car_left": [
+    "coche a la izquierda",
+    "a tu izquierda",
+    "coche por el lado izquierdo"
+  ],
+  "three_wide_on_left": [
+    "tres en paralelo, estás a la izquierda",
+    "estás a la izquierda, tres en paralelo",
+    "vamos tres en paralelo, estás en el lado izquierdo"
+  ],
+  "car_outside": [
+    "coche afuera",
+    "tienes un coche arriba",
+    "coche en el exterior",
+    "coche por fuera",
+    "coche en el lado alto"
+  ],
+  "hold_your_line": [
+    "mantén tu línea",
+    "sigue en tu línea",
+    "no te desvíes"
+  ],
+  "three_wide_on_inside": [
+    "tres en paralelo, estás por dentro",
+    "estás en el interior, tres en paralelo",
+    "vas por dentro, tres en paralelo",
+    "vamos tres en paralelo, estás abajo",
+    "tres en paralelo, estás abajo",
+    "estás en la parte baja, tres en paralelo"
+  ],
+  "clear_right": [
+    "derecha despejada",
+    "libre a la derecha",
+    "todo despejado a la derecha"
+  ],
+  "still_there": [
+    "sigue ahí",
+    "aún está ahí",
+    "mantén tu línea, sigue ahí"
+  ],
+  "clear_outside": [
+    "libre afuera",
+    "despejado por fuera",
+    "todo despejado arriba",
+    "estás libre por fuera"
+  ],
+  "car_inside": [
+    "coche por dentro",
+    "tienes un coche abajo",
+    "coche en el interior",
+    "coche por el lado bajo",
+    "coche por dentro"
+  ],
+  "clear": [
+    "todo despejado",
+    "libre",
+    "estás libre",
+    "despejado completamente",
+    "está todo despejado"
+  ],
+  "three_wide_on_outside": [
+    "tres en paralelo, estás arriba",
+    "tres en paralelo, vas en el exterior",
+    "vas por fuera, tres en paralelo",
+    "estás en el lado alto, tres en paralelo",
+    "estamos tres en paralelo, vas arriba"
+  ],
+  "clear_all_round": [
+    "todo despejado alrededor",
+    "despejado por todos lados",
+    "libre por todos lados"
+  ],
+  "three_wide_on_right": [
+    "tres en paralelo, estás a la derecha",
+    "estás a la derecha, tres en paralelo",
+    "vamos tres en paralelo, estás en la derecha"
+  ],
+  "car_right": [
+    "coche a la derecha",
+    "a tu derecha",
+    "coche por el lado derecho"
+  ]
+}

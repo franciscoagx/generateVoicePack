@@ -3,16 +3,17 @@ import random
 import subprocess
 import requests
 import json
+import csv
 from pathlib import Path
 import argparse
 
 def parse_arguments():
     # Parse command-line arguments
     parser = argparse.ArgumentParser(
-        description="Generate audio samples using elevenlabs.io API."
+        description="Generate audio samples using ElevenLabs API."
     )
     parser.add_argument(
-        "--eleven_labs_api_key", type=str, required=True, help="Eleven Labs API key"
+        "--eleven_labs_api_key", type=str, required=True, help="ElevenLabs API key"
     )
     parser.add_argument(
         "--voice_name", type=str, required=True, help="Your custom name for this voice"
@@ -21,7 +22,7 @@ def parse_arguments():
         "--voice_id",
         type=str,
         required=True,
-        help="ID of the voice from the elevenlabs 'Voices' page",
+        help="ID of the voice from the ElevenLabs 'Voices' page",
     )
     parser.add_argument(
         "--subtitles_file",
@@ -50,17 +51,19 @@ def generate_audio_samples(
             phrase_dir = output_base_dir / category / phrase_key
             phrase_dir.mkdir(parents=True, exist_ok=True)
             
-            subtitles = []  # List to store subtitle lines
+            csv_rows = []  # List to store rows for the CSV file
             audio_index = 1  # Counter for audio filenames
 
+            # Determinar cuántas versiones generar (2 si hay 5 o más variantes, 3 en caso contrario)
+            num_versions = 2 if len(variants) >= 5 else 3
+
             for variant in variants:
-                for idx in range(1, 4):  # 3 variations
-                    variant_with_quotes = f'"{variant}"'  # Add quotes
+                for idx in range(1, num_versions + 1):  # 2 o 3 variaciones según el tamaño
                     audio_filename = f"{phrase_key}_{audio_index}.wav"  # Audio filename
-                    subtitles.append(f"{audio_filename},{variant_with_quotes}")  # Add subtitle line
+                    csv_rows.append([audio_filename, variant])  # Add row for CSV file
                     generate_speech_elevenlabs(
                         eleven_labs_api_key=eleven_labs_api_key,
-                        text=variant_with_quotes,
+                        text=variant,
                         voice_name=voice_name,
                         voice_id=voice_id,
                         output_dir=phrase_dir,
@@ -68,10 +71,12 @@ def generate_audio_samples(
                     )
                     audio_index += 1  # Increment counter
 
-            # Create subtitle file
-            subtitles_file_path = phrase_dir / "subtitles.txt"
-            with open(subtitles_file_path, "w") as f:
-                f.write("\n".join(subtitles))
+            # Create CSV file in the same directory as the WAV files
+            csv_file_path = phrase_dir / "subtitles.csv"
+            with open(csv_file_path, "w", newline='') as csvfile:
+                csv_writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+                for row in csv_rows:
+                    csv_writer.writerow(row)
 
     print(f"Audio sample generation complete for {voice_name} in {output_base_dir}")
 
@@ -115,7 +120,7 @@ def generate_speech_elevenlabs(
         convert_mp3_to_wav(full_output_filename, f"{output_dir}/{output_filename}.wav")
         remove_file(full_output_filename)  # Cleanup MP3 file
     else:
-        print(f"Error from Eleven Labs API: {response.status_code} - {response.text}")
+        print(f"Error from ElevenLabs API: {response.status_code} - {response.text}")
 
 def convert_mp3_to_wav(input_file: str, output_file: str) -> None:
     ffmpeg_command = ["ffmpeg", "-y", "-i", input_file, output_file]
@@ -131,6 +136,6 @@ def remove_file(file_path: str) -> None:
 
 if __name__ == "__main__":
     args = parse_arguments()
-    print("Generating audio samples using Eleven Labs API...")
+    print("Generating audio samples using ElevenLabs API...")
     phrases = load_phrases(args.subtitles_file)
     generate_audio_samples(args.eleven_labs_api_key, args.voice_name, args.voice_id, phrases)
