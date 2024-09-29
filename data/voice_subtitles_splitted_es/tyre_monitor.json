@@ -1,0 +1,773 @@
+{
+  "tyre_monitor": {
+    "you_need_more_positive_camber_on_rears": [
+      "puede que necesites más camber positivo en las traseras"
+    ],
+    "cooking_left_front_tyre": [
+      "tu neumático delantero izquierdo se está sobrecalentando",
+      "el delantero izquierdo está realmente caliente",
+      "estás sobrecalentando el neumático delantero izquierdo"
+    ],
+    "alternates": [
+      "alternativas"
+    ],
+    "right_front_is_flat_spotted": [
+      "tu neumático delantero derecho tiene un plano"
+    ],
+    "compound_d": [
+      "compuesto D"
+    ],
+    "hot_left_front_tyre": [
+      "tu neumático delantero izquierdo está caliente",
+      "el delantero izquierdo está caliente",
+      "tu delantero izquierdo está demasiado caliente"
+    ],
+    "faster_than": [
+      "más rápido que",
+      "más veloz que"
+    ],
+    "spinning_left_front_lap_warning": [
+      "estás patinando el delantero izquierdo",
+      "estás haciendo patinar el neumático delantero izquierdo",
+      "el neumático delantero izquierdo está patinando"
+    ],
+    "front_pressures_low": [
+      "las presiones delanteras están un poco bajas"
+    ],
+    "cold_rear_tyres": [
+      "tus neumáticos traseros están fríos",
+      "vigila los neumáticos traseros, están bastante fríos",
+      "los traseros están fríos"
+    ],
+    "left_front_pressure_ok": [
+      "la presión del delantero izquierdo parece estar bien"
+    ],
+    "cooking_right_front_tyre": [
+      "estás sobrecalentando el neumático delantero derecho",
+      "el delantero derecho está realmente caliente",
+      "tu neumático delantero derecho se está sobrecalentando"
+    ],
+    "lf_inner_is_running": [
+      "la parte interior de tu neumático delantero izquierdo está",
+      "tu neumático delantero izquierdo interior está funcionando"
+    ],
+    "are_about": [
+      "están alrededor de"
+    ],
+    "rr_inner_is_running": [
+      "la parte interior de tu neumático trasero derecho está",
+      "tu neumático trasero derecho interior está funcionando"
+    ],
+    "cold_rear_brakes": [
+      "tus frenos traseros están fríos, ten cuidado",
+      "tus frenos traseros están fríos, amigo",
+      "tus frenos traseros están fríos"
+    ],
+    "compound_b": [
+      "compuesto B"
+    ],
+    "damage_to_left_rear_tyre": [
+      "has dañado tu neumático trasero izquierdo"
+    ],
+    "locking_left_front_corner_warning": [
+      "estás bloqueando el delantero izquierdo al frenar para",
+      "estás bloqueando el delantero izquierdo entrando en",
+      "estás bloqueando el delantero izquierdo al entrar en"
+    ],
+    "locking_rears_corner_warning": [
+      "vemos que estás bloqueando los traseros al entrar en",
+      "estás bloqueando los traseros al entrar en",
+      "estás bloqueando los traseros al frenar en"
+    ],
+    "right_front": [
+      "delantero derecho",
+      "derecho delantero"
+    ],
+    "left_rear_pressure_low": [
+      "la presión del trasero izquierdo parece un poco baja"
+    ],
+    "cold_brakes_all_round": [
+      "tienes los frenos fríos por completo",
+      "tus frenos están fríos, necesitamos calentarlos",
+      "tus frenos están fríos, ten cuidado",
+      "las temperaturas de tus frenos están bajas, necesitamos calentarlos",
+      "necesitamos calentar estos frenos",
+      "tus frenos están fríos, calentémoslos",
+      "necesitamos calentar estos frenos",
+      "tus frenos están fríos, ve con calma",
+      "tienes los frenos fríos por todas partes, ten cuidado",
+      "calentemos estos frenos"
+    ],
+    "worn_right_rear": [
+      "vemos algo de desgaste en tu trasero derecho",
+      "vigila tu neumático trasero derecho, amigo, parece bastante desgastado",
+      "tu neumático trasero derecho tiene algo de desgaste"
+    ],
+    "cooking_front_brakes": [
+      "tus frenos delanteros están realmente calientes",
+      "tus frenos delanteros están demasiado calientes",
+      "tus frenos delanteros están sobrecalentándose, amigo"
+    ],
+    "rf_inner_is_running": [
+      "la parte interior de tu neumático delantero derecho está funcionando",
+      "tu neumático delantero derecho interior está"
+    ],
+    "locking_right_front_lap_warning": [
+      "estás bloqueando tu rueda delantera derecha",
+      "estás bloqueando el delantero derecho",
+      "vemos mucho bloqueo del delantero derecho"
+    ],
+    "rf_inner_and_outer_are_same": [
+      "las temperaturas interior y exterior de tu neumático delantero derecho están casi iguales",
+      "las temperaturas interior y exterior del delantero derecho son aproximadamente las mismas",
+      "tu delantero derecho tiene temperaturas similares en el interior y exterior"
+    ],
+    "hot_right_front_tyre": [
+      "tu neumático delantero derecho está caliente",
+      "tu delantero derecho se está calentando",
+      "vigila la temperatura de tu delantero derecho, está caliente"
+    ],
+    "celsius_hotter_than_outers": [
+      "grados más caliente que los exteriores",
+      "grados más caliente que los exteriores"
+    ],
+    "worn_right_front": [
+      "vemos un desgaste significativo en tu delantero derecho",
+      "tu delantero derecho está bastante desgastado",
+      "tu neumático delantero derecho parece estar desgastándose"
+    ],
+    "left_tyres_dirty": [
+      "tienes suciedad acumulada en tus neumáticos del lado izquierdo"
+    ],
+    "spinning_left_rear_lap_warning": [
+      "vemos mucha patinada en la rueda trasera izquierda",
+      "vemos mucha patinada en la trasera izquierda",
+      "estás patinando la trasera izquierda"
+    ],
+    "left_rear_pressure_ok": [
+      "la presión del trasero izquierdo parece estar bien"
+    ],
+    "locking_left_rear_lap_warning": [
+      "estás bloqueando el trasero izquierdo",
+      "vemos mucho bloqueo del trasero izquierdo"
+    ],
+    "spinning_left_rear_corner_warning": [
+      "vemos que la trasera izquierda patina al salir de",
+      "estás patinando la trasera izquierda al salir de",
+      "vemos que la trasera izquierda patina en"
+    ],
+    "slicks": [
+      "slicks"
+    ],
+    "rear_pressures_low": [
+      "tus presiones traseras están un poco bajas"
+    ],
+    "cooking_right_rear_tyre": [
+      "estás sobrecalentando el trasero derecho, amigo",
+      "tu trasero derecho está muy, muy caliente",
+      "tu neumático trasero derecho se está sobrecalentando"
+    ],
+    "lr_inner_is_running": [
+      "la parte interior de tu neumático trasero izquierdo está",
+      "tu neumático trasero izquierdo interior está funcionando"
+    ],
+    "hot_front_brakes": [
+      "tus frenos delanteros se están calentando bastante",
+      "tus frenos delanteros están algo calientes",
+      "tus frenos delanteros están bastante calientes ahora"
+    ],
+    "minor_wear_rights": [
+      "hay algo de desgaste en tus neumáticos del lado derecho",
+      "vemos algo de desgaste en tus neumáticos del lado derecho",
+      "tus neumáticos del lado derecho tienen un desgaste leve"
+    ],
+    "damage_to_right_front_tyre": [
+      "has dañado tu neumático delantero derecho"
+    ],
+    "locking_rears_lap_warning": [
+      "estás bloqueando mucho los traseros",
+      "vemos mucho bloqueo trasero",
+      "vemos mucho bloqueo en los frenos traseros"
+    ],
+    "cooking_right_tyres": [
+      "tus neumáticos del lado derecho están muy calientes",
+      "estás sobrecalentando tus neumáticos del lado derecho, amigo",
+      "tus neumáticos del lado derecho están demasiado calientes"
+    ],
+    "right_rear_pressure_very_low": [
+      "la presión de tu trasero derecho está muy baja"
+    ],
+    "knackered_all_round": [
+      "tus neumáticos están todos desgastados",
+      "vas a necesitar neumáticos nuevos por todas partes",
+      "tus neumáticos están todos en mal estado, amigo"
+    ],
+    "compound_c": [
+      "compuesto C"
+    ],
+    "right_rear_pressure_ok": [
+      "la presión del trasero derecho parece estar bien"
+    ],
+    "left_rear_pressure_high": [
+      "la presión del trasero izquierdo está un poco alta"
+    ],
+    "spinning_fronts_lap_warning": [
+      "estás patinando mucho las ruedas delanteras",
+      "estás patinando mucho las ruedas delanteras",
+      "estás patinando las delanteras",
+      "vemos mucha patinada en las ruedas delanteras"
+    ],
+    "minor_wear_right_rear": [
+      "tu trasero derecho tiene algo de desgaste",
+      "vemos algo de desgaste en tu trasero derecho",
+      "tu trasero derecho tiene un desgaste leve"
+    ],
+    "minor_wear_lefts": [
+      "vemos desgaste leve en tus neumáticos del lado izquierdo",
+      "tus neumáticos del lado izquierdo tienen un desgaste leve",
+      "hay un poco de desgaste en tus neumáticos del lado izquierdo"
+    ],
+    "worn_rears": [
+      "vemos un desgaste significativo en los neumáticos traseros",
+      "tus neumáticos traseros estarán pasados pronto",
+      "vemos algo de desgaste en los neumáticos traseros, vigílalos"
+    ],
+    "spinning_rears_lap_warning": [
+      "vemos mucha patinada en las traseras",
+      "vemos mucha patinada en las ruedas traseras",
+      "estás patinando mucho las traseras",
+      "estás haciendo patinar las traseras",
+      "estás patinando las traseras"
+    ],
+    "you_need_more_negative_camber": [
+      "puede que necesites más camber negativo"
+    ],
+    "spinning_right_front_lap_warning": [
+      "estás patinando mucho la delantera derecha",
+      "tu delantera derecha está patinando",
+      "estás patinando la delantera derecha",
+      "estás patinando mucho la delantera derecha"
+    ],
+    "cold_right_tyres": [
+      "tus neumáticos del lado derecho están fríos",
+      "tus neumáticos derechos están fríos",
+      "tus neumáticos del lado derecho están fríos"
+    ],
+    "hot_left_tyres": [
+      "tus neumáticos del lado izquierdo están calientes",
+      "tus neumáticos del lado izquierdo están calientes",
+      "tus neumáticos del lado izquierdo están calientes",
+      "vigila las temperaturas de tus neumáticos del lado izquierdo"
+    ],
+    "ultra_softs": [
+      "ultra blandos"
+    ],
+    "hot_tyres_all_round": [
+      "tus neumáticos están todos bastante calientes",
+      "las temperaturas de los neumáticos están calientes por todas partes",
+      "tus neumáticos están bastante calientes ahora"
+    ],
+    "good_wear": [
+      "el desgaste de tus neumáticos parece bien, amigo",
+      "no vemos ningún desgaste significativo en los neumáticos",
+      "tus neumáticos están bien, amigo, sigue empujando"
+    ],
+    "left_front_pressure_very_high": [
+      "la presión del delantero izquierdo parece muy alta"
+    ],
+    "locking_fronts_corner_warning": [
+      "vemos bloqueo delantero al entrar en",
+      "estás bloqueando los delanteros al entrar en",
+      "estás bloqueando los delanteros al entrar en"
+    ],
+    "right_tyres_dirty": [
+      "tienes suciedad acumulada en tus neumáticos del lado derecho"
+    ],
+    "front_pressures_very_high": [
+      "las presiones delanteras están muy altas"
+    ],
+    "worn_lefts": [
+      "vemos desgaste significativo en ambos neumáticos del lado izquierdo",
+      "tus neumáticos del lado izquierdo están bastante desgastados ahora",
+      "tus neumáticos del lado izquierdo están pasados de su mejor momento"
+    ],
+    "worn_all_round": [
+      "tus neumáticos están bastante desgastados por todas partes",
+      "tienes desgaste significativo en todos los neumáticos",
+      "vemos desgaste en cada esquina"
+    ],
+    "left_rear": [
+      "trasero izquierdo",
+      "izquierdo trasero"
+    ],
+    "cold_left_tyres": [
+      "los neumáticos del lado izquierdo están fríos",
+      "tus neumáticos del lado izquierdo están fríos"
+    ],
+    "rears_are_flat_spotted": [
+      "tus neumáticos traseros tienen planos"
+    ],
+    "left_front_pressure_high": [
+      "la presión del delantero izquierdo parece bastante alta"
+    ],
+    "left_front_pressure_very_low": [
+      "la presión del delantero izquierdo parece muy baja"
+    ],
+    "right_front_pressure_low": [
+      "la presión del delantero derecho está bastante baja"
+    ],
+    "minor_wear_left_rear": [
+      "vemos desgaste leve en tu trasero izquierdo",
+      "tu trasero izquierdo tiene desgaste leve",
+      "vemos un poco de desgaste en tu trasero izquierdo"
+    ],
+    "locking_right_rear_lap_warning": [
+      "vemos mucho bloqueo en el trasero derecho",
+      "estás bloqueando el trasero derecho"
+    ],
+    "cold_front_tyres": [
+      "tus neumáticos delanteros están fríos",
+      "tienes los neumáticos delanteros fríos"
+    ],
+    "right_rear_pressure_very_high": [
+      "la presión de tu trasero derecho está muy alta"
+    ],
+    "celsius_hotter_than_outer": [
+      "grados más caliente que el exterior"
+    ],
+    "damage_to_right_rear_tyre": [
+      "has dañado tu neumático trasero derecho"
+    ],
+    "rr_inner_and_outer_are_same": [
+      "las temperaturas interior y exterior de tu trasero derecho son casi iguales",
+      "las temperaturas interior y exterior de tu trasero derecho son las mismas",
+      "las temperaturas interior y exterior del trasero derecho son las mismas"
+    ],
+    "good_tyre_temps": [
+      "las temperaturas de tus neumáticos están bien",
+      "las temperaturas de tus neumáticos parecen buenas",
+      "las temperaturas de tus neumáticos están todas bien",
+      "las temperaturas de tus neumáticos están bien",
+      "las temperaturas de tus neumáticos son buenas",
+      "las temperaturas de tus neumáticos están bien",
+      "las temperaturas de los neumáticos están bien",
+      "las temperaturas de los neumáticos están bien",
+      "las temperaturas de los neumáticos están todas bien",
+      "las temperaturas de los neumáticos están bien"
+    ],
+    "cooking_front_tyres": [
+      "tus neumáticos delanteros están muy calientes",
+      "estás sobrecalentando tus neumáticos delanteros, amigo",
+      "tus neumáticos delanteros están demasiado calientes"
+    ],
+    "right_rear_pressure_high": [
+      "la presión de tu trasero derecho está un poco alta"
+    ],
+    "hot_rear_tyres": [
+      "vigila las temperaturas de tus neumáticos traseros, están calientes",
+      "tus neumáticos traseros están calientes, tus neumáticos traseros se están calentando",
+      "tus neumáticos traseros se están calentando"
+    ],
+    "options": [
+      "neumáticos opcionales",
+      "opciones"
+    ],
+    "cooking_tyres_all_round": [
+      "afloja un poco, estos neumáticos no van a aguantar así",
+      "necesitamos enfriar estos neumáticos, amigo, están muy calientes",
+      "tus neumáticos están sobrecalentándose por completo, están muy calientes"
+    ],
+    "hot_right_rear_tyre": [
+      "el trasero derecho está caliente, tu trasero derecho está caliente",
+      "tu neumático trasero derecho está caliente",
+      "vigila la temperatura del trasero derecho, está calentándose"
+    ],
+    "you_need_more_negative_camber_on_rears": [
+      "puede que necesites más camber negativo en las traseras"
+    ],
+    "worn_rights": [
+      "tus neumáticos del lado derecho están bastante desgastados ahora",
+      "vemos un desgaste significativo en ambos neumáticos del lado derecho",
+      "tus neumáticos del lado derecho están envejeciendo"
+    ],
+    "laps_on_current_tyres_outro": [
+      "más vueltas con este juego de neumáticos",
+      "más vueltas con este juego de neumáticos",
+      "más vueltas con este juego de neumáticos"
+    ],
+    "damage_to_front_tyres": [
+      "has dañado ambos neumáticos delanteros"
+    ],
+    "knackered_right_rear": [
+      "creemos que el trasero derecho probablemente está terminado",
+      "ese trasero derecho está acabado",
+      "tu trasero derecho está completamente desgastado, amigo"
+    ],
+    "spinning_right_rear_lap_warning": [
+      "estás patinando mucho el trasero derecho",
+      "estás patinando el trasero derecho",
+      "vemos mucha patinada en la rueda trasera derecha"
+    ],
+    "super_softs": [
+      "super blandos"
+    ],
+    "front_pressures_high": [
+      "las presiones delanteras parecen estar un poco altas"
+    ],
+    "locking_fronts_lap_warning": [
+      "vemos mucho bloqueo en los delanteros",
+      "estás bloqueando mucho los delanteros",
+      "estás bloqueando los frenos delanteros"
+    ],
+    "all_tyres_dirty": [
+      "tienes suciedad acumulada en todos tus neumáticos"
+    ],
+    "worn_left_rear": [
+      "vemos un desgaste significativo en tu trasero izquierdo",
+      "tu trasero izquierdo muestra un desgaste significativo",
+      "tu trasero izquierdo tiene algo de desgaste, vigílalo"
+    ],
+    "good_wear_general": [
+      "el desgaste de tus neumáticos parece bien, amigo",
+      "no vemos ningún desgaste significativo en los neumáticos"
+    ],
+    "right_rear_is_flat_spotted": [
+      "tu neumático trasero derecho tiene un plano"
+    ],
+    "minor_wear_rears": [
+      "tus neumáticos traseros tienen algo de desgaste",
+      "vemos desgaste leve en tus neumáticos traseros"
+    ],
+    "cold_tyres_all_round": [
+      "neumáticos fríos por completo",
+      "tómalo con calma, tienes los neumáticos fríos",
+      "tus neumáticos están fríos, vigila"
+    ],
+    "cooking_brakes_all_round": [
+      "las temperaturas de tus frenos están todas muy altas, necesitamos enfriarlos",
+      "las temperaturas de tus frenos son demasiado altas",
+      "las temperaturas de tus frenos están muy altas, amigo, están sobrecalentándose"
+    ],
+    "worn_left_front": [
+      "ese delantero izquierdo pasará pronto su mejor momento",
+      "vemos un desgaste significativo en tu delantero izquierdo",
+      "tu delantero izquierdo muestra algo de desgaste, vigílalo"
+    ],
+    "cooking_rear_tyres": [
+      "estás sobrecalentando tus neumáticos traseros, amigo",
+      "tus neumáticos traseros están realmente calientes",
+      "tus neumáticos traseros están demasiado calientes, no van a durar"
+    ],
+    "knackered_rights": [
+      "tus neumáticos del lado derecho están acabados",
+      "tus neumáticos del lado derecho están destrozados, amigo",
+      "tus neumáticos del lado derecho están desgastados"
+    ],
+    "left_front_is_flat_spotted": [
+      "tu neumático delantero izquierdo tiene un plano"
+    ],
+    "hot_left_rear_tyre": [
+      "tu trasero izquierdo está caliente",
+      "el neumático trasero izquierdo está un poco caliente"
+    ],
+    "average_front_inner_temps_are": [
+      "las temperaturas interiores promedio de los delanteros son",
+      "las temperaturas interiores promedio de los delanteros son"
+    ],
+    "camber_ok": [
+      "probablemente está bien",
+      "parece estar bien",
+      "parece estar bien para nosotros",
+      "parece estar correcto",
+      "probablemente esté bien"
+    ],
+    "front_pressures_ok": [
+      "las presiones delanteras parecen estar bien"
+    ],
+    "you_need_more_positive_camber": [
+      "puede que necesites más camber positivo"
+    ],
+    "left_rear_pressure_very_high": [
+      "la presión del trasero izquierdo está muy alta"
+    ],
+    "laps_on_current_tyres_intro": [
+      "creemos que deberías poder hacer alrededor de",
+      "estimamos alrededor de",
+      "creemos que podrás hacer alrededor de"
+    ],
+    "minutes_on_current_tyres_outro": [
+      "más minutos con estos neumáticos",
+      "más minutos con este juego de neumáticos"
+    ],
+    "minor_wear_right_front": [
+      "tu delantero derecho tiene desgaste leve",
+      "vemos algo de desgaste en tu delantero derecho",
+      "tu delantero derecho tiene un poco de desgaste"
+    ],
+    "primaries": [
+      "neumáticos primarios"
+    ],
+    "knackered_rears": [
+      "tus neumáticos traseros parecen estar bastante mal",
+      "tus neumáticos traseros están desgastados, amigo",
+      "tus neumáticos traseros están desgastados"
+    ],
+    "good_brake_temps": [
+      "las temperaturas de tus frenos están bien",
+      "las temperaturas de tus frenos parecen buenas",
+      "tus frenos tienen buenas temperaturas",
+      "las temperaturas de tus frenos se ven bien",
+      "las temperaturas de tus frenos están bien",
+      "las temperaturas de tus frenos parecen estar bien",
+      "las temperaturas de tus frenos están bien, amigo"
+    ],
+    "mediums": [
+      "medios"
+    ],
+    "right_front_pressure_very_high": [
+      "la presión de tu delantero derecho está muy alta"
+    ],
+    "left_front": [
+      "delantero izquierdo",
+      "izquierdo delantero"
+    ],
+    "lr_inner_and_outer_are_same": [
+      "las temperaturas interior y exterior de tu trasero izquierdo son casi iguales",
+      "las temperaturas interior y exterior de tu trasero izquierdo son las mismas",
+      "las temperaturas interior y exterior de tu trasero izquierdo son similares"
+    ],
+    "cooking_left_tyres": [
+      "tus neumáticos del lado izquierdo están demasiado calientes",
+      "tus neumáticos del lado izquierdo están realmente calientes",
+      "estás sobrecalentando tus neumáticos del lado izquierdo"
+    ],
+    "damage_to_left_front_tyre": [
+      "has dañado tu neumático delantero izquierdo"
+    ],
+    "cooking_left_rear_tyre": [
+      "estás sobrecalentando tu trasero izquierdo, amigo",
+      "tu trasero izquierdo está realmente caliente",
+      "estás sobrecalentando el neumático trasero izquierdo"
+    ],
+    "hot_brakes_all_round": [
+      "tus frenos están calientes por todas partes",
+      "las temperaturas de tus frenos son bastante altas",
+      "tus frenos están calientes"
+    ],
+    "locking_right_front_corner_warning": [
+      "vemos bloqueo del delantero derecho al entrar en",
+      "estás bloqueando el delantero derecho al entrar en",
+      "estás bloqueando el delantero derecho en"
+    ],
+    "you_need_more_negative_camber_on_fronts": [
+      "puede que necesites más camber negativo en las delanteras"
+    ],
+    "rear_pressures_high": [
+      "las presiones traseras están un poco altas"
+    ],
+    "cold_front_brakes": [
+      "tus frenos delanteros están fríos, ten cuidado",
+      "ten cuidado, amigo, tus frenos delanteros están fríos",
+      "tus frenos delanteros están fríos"
+    ],
+    "compound_a": [
+      "compuesto A"
+    ],
+    "minor_wear_fronts": [
+      "tus neumáticos delanteros tienen desgaste leve",
+      "vemos algo de desgaste en tus neumáticos delanteros",
+      "vemos desgaste leve en los delanteros"
+    ],
+    "left_rear_pressure_very_low": [
+      "la presión de tu trasero izquierdo está muy baja"
+    ],
+    "average_rear_inner_and_outer_same": [
+      "las temperaturas interior y exterior promedio de los traseros son casi iguales",
+      "las temperaturas interior y exterior promedio de los traseros son las mismas"
+    ],
+    "minor_wear_left_front": [
+      "vemos desgaste leve en tu delantero izquierdo",
+      "tu delantero izquierdo tiene algo de desgaste",
+      "parece haber algo de desgaste en tu delantero izquierdo"
+    ],
+    "hot_right_tyres": [
+      "tus neumáticos del lado derecho se están calentando",
+      "los neumáticos del lado derecho están calientes",
+      "necesitas vigilar las temperaturas de tus neumáticos del lado derecho"
+    ],
+    "rear_pressures_ok": [
+      "las presiones traseras parecen estar bien"
+    ],
+    "spinning_right_rear_corner_warning": [
+      "estás patinando el trasero derecho al salir de",
+      "vemos patinada en la trasera derecha al salir de",
+      "estás patinando la trasera derecha en"
+    ],
+    "knackered_left_rear": [
+      "tu trasero izquierdo está acabado, amigo",
+      "ese neumático trasero izquierdo está terminado",
+      "tu trasero izquierdo parece desgastado"
+    ],
+    "left_rear_is_flat_spotted": [
+      "tu neumático trasero izquierdo tiene un plano"
+    ],
+    "wets": [
+      "lluvia"
+    ],
+    "spinning_rears_corner_warning": [
+      "estás patinando las traseras al salir de",
+      "estás patinando las traseras al salir de",
+      "vemos patinada en las traseras al salir de"
+    ],
+    "cooking_rear_brakes": [
+      "tus frenos traseros están muy calientes",
+      "tus frenos traseros están demasiado calientes, amigo",
+      "tus frenos traseros se han sobrecalentado, están muy calientes"
+    ],
+    "you_need_more_positive_camber_on_fronts": [
+      "puede que necesites más camber positivo en las delanteras"
+    ],
+    "softs": [
+      "blandos"
+    ],
+    "front_pressures_very_low": [
+      "tus presiones delanteras están muy bajas"
+    ],
+    "knackered_lefts": [
+      "parece que tus neumáticos del lado izquierdo están acabados, amigo",
+      "creemos que tus neumáticos del lado izquierdo han llegado a su fin",
+      "creo que tus neumáticos del lado izquierdo están desgastándose"
+    ],
+    "spinning_fronts_corner_warning": [
+      "estás patinando las delanteras al salir de",
+      "estás patinando las delanteras en",
+      "estás patinando las delanteras al salir de"
+    ],
+    "primes": [
+      "neumáticos primarios",
+      "primarios"
+    ],
+    "spinning_left_front_corner_warning": [
+      "estás patinando el delantero izquierdo al salir de",
+      "vemos patinada en la delantera izquierda al salir de",
+      "estás patinando el delantero izquierdo en"
+    ],
+    "minutes_on_current_tyres_intro": [
+      "creemos que deberías poder hacer alrededor de",
+      "estimamos que podrías tener unos",
+      "pensamos que conseguirás hacer alrededor de"
+    ],
+    "celsius_colder_than_outer": [
+      "grados más frío que el exterior"
+    ],
+    "average_front_inner_and_outer_same": [
+      "las temperaturas interior y exterior promedio de los delanteros son casi iguales",
+      "las temperaturas interior y exterior promedio de los delanteros son las mismas"
+    ],
+    "hards": [
+      "duros"
+    ],
+    "right_front_pressure_ok": [
+      "la presión del delantero derecho parece estar bien"
+    ],
+    "fronts_are_flat_spotted": [
+      "tus neumáticos delanteros tienen planos"
+    ],
+    "minor_wear_all_round": [
+      "vemos un poco de desgaste por todas partes",
+      "tienes un poco de desgaste en todos los neumáticos",
+      "vemos desgaste leve por todas partes"
+    ],
+    "right_rear_pressure_low": [
+      "la presión de tu trasero derecho está un poco baja"
+    ],
+    "lf_inner_and_outer_are_same": [
+      "las temperaturas interior y exterior de tu delantero izquierdo son casi iguales",
+      "las temperaturas interior y exterior de tu delantero izquierdo son las mismas",
+      "las temperaturas interior y exterior de tu delantero izquierdo son similares"
+    ],
+    "hot_rear_brakes": [
+      "tus frenos traseros se están calentando bastante",
+      "tus frenos traseros están calientes",
+      "tus frenos traseros están empezando a sobrecalentarse"
+    ],
+    "knackered_right_front": [
+      "ese delantero derecho ha llegado a su fin, amigo",
+      "ese neumático delantero derecho está destrozado",
+      "tu delantero derecho parece bastante desgastado"
+    ],
+    "hot_front_tyres": [
+      "tus neumáticos delanteros están calientes",
+      "tus neumáticos delanteros parecen un poco calientes",
+      "los delanteros están calientes, los delanteros están calientes"
+    ],
+    "right_front_pressure_high": [
+      "la presión de tu delantero derecho está bastante alta"
+    ],
+    "right_rear": [
+      "trasero derecho",
+      "derecho trasero"
+    ],
+    "left_front_pressure_low": [
+      "la presión del delantero izquierdo está bastante baja"
+    ],
+    "bar": [
+      "bar"
+    ],
+    "knackered_left_front": [
+      "creo que tu delantero izquierdo ha llegado a su fin",
+      "tu neumático delantero izquierdo parece estar en mal estado, amigo",
+      "ese delantero izquierdo parece estar muy desgastado"
+    ],
+    "rear_pressures_very_low": [
+      "las presiones traseras están muy bajas"
+    ],
+    "knackered_fronts": [
+      "tus neumáticos delanteros están bastante desgastados",
+      "tus neumáticos delanteros están desgastados, amigo",
+      "tus neumáticos delanteros han llegado a su fin"
+    ],
+    "damage_to_rear_tyres": [
+      "has dañado ambos neumáticos traseros"
+    ],
+    "celsius_colder_than_outers": [
+      "grados más frío que los exteriores",
+      "grados más frío que tus exteriores"
+    ],
+    "spinning_right_front_corner_warning": [
+      "estás patinando el delantero derecho al salir de",
+      "estás patinando el delantero derecho en",
+      "vemos patinada en la delantera derecha al salir de"
+    ],
+    "intermediates": [
+      "intermedios",
+      "inters"
+    ],
+    "worn_fronts": [
+      "tienes algo de desgaste en los neumáticos delanteros",
+      "vemos desgaste significativo en los delanteros",
+      "hay algo de desgaste en esos neumáticos delanteros, amigo"
+    ],
+    "psi": [
+      "psi"
+    ],
+    "right_front_pressure_very_low": [
+      "la presión de tu delantero derecho está muy baja"
+    ],
+    "rear_pressures_very_high": [
+      "las presiones traseras están muy altas"
+    ],
+    "hyper_softs": [
+      "hiper blandos"
+    ],
+    "average_rear_inner_temps_are": [
+      "las temperaturas interiores promedio de los traseros son",
+      "las temperaturas interiores promedio de los traseros son"
+    ],
+    "locking_left_front_lap_warning": [
+      "estás bloqueando el delantero izquierdo",
+      "estás bloqueando el neumático delantero izquierdo",
+      "estás bloqueando mucho el delantero izquierdo"
+    ]
+  }
+}

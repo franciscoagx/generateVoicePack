@@ -1,0 +1,174 @@
+{
+  "lap_counter": {
+    "minutes_you_need_to_get_on_with_it": [
+      "minutos, realmente necesitas ponerte en marcha",
+      "minutos, no tienes mucho tiempo para resolver esto",
+      "minutos, tienes que ponerte a ello"
+    ],
+    "finished_race_last": [
+      "ok, se acabó, resultado terrible, amigo",
+      "ok, eso es todo, vámonos y olvidemos esto",
+      "eso fue una pérdida de tiempo",
+      "se acabó, bandera a cuadros, decepcionante",
+      "mal resultado, amigo, mala suerte",
+      "ahí está la bandera a cuadros, mal día, amigo, mejor empacamos y nos vamos"
+    ],
+    "laps_make_them_count": [
+      "vueltas, hagamos que cuenten",
+      "vueltas, que cuenten",
+      "vueltas, asegúrate de que cuenten"
+    ],
+    "rejoin_at_back": [
+      "tendrás que esperar al pelotón y reincorporarte al final",
+      "tendrás que reincorporarte al final del pelotón",
+      "tendrás que reincorporarte al fondo"
+    ],
+    "manual_formation_lap_mode_disabled": [
+      "entendido, no hay salida en movimiento",
+      "entendido, sin vuelta de formación"
+    ],
+    "end_of_session": [
+      "se acabó la sesión"
+    ],
+    "last_lap": [
+      "queda una vuelta",
+      "última vuelta"
+    ],
+    "finished_race": [
+      "se acabó la carrera, mala suerte, amigo",
+      "listo, se acabó, tráelo de vuelta",
+      "ok, hemos terminado",
+      "eso es todo, hemos terminado",
+      "se acabó la carrera, la próxima vez será mejor",
+      "se acabó la carrera, no pasa nada",
+      "bandera a cuadros",
+      "ok, se terminó"
+    ],
+    "end_of_session_pole": [
+      "se acabó la sesión, pole position, bien hecho, amigo",
+      "se acabó la sesión, pole position, buen trabajo",
+      "se acabó la sesión, estás en la pole, bien hecho"
+    ],
+    "two_to_go_top_three": [
+      "quedan dos vueltas, vamos por el podio",
+      "dos vueltas más, vas bien para el podio",
+      "dos más, mantén el control, subiremos al podio"
+    ],
+    "two_to_go_leading": [
+      "dos vueltas restantes, estás en P1",
+      "dos más, mantén la concentración, podemos ganar esto",
+      "dos más, vas liderando",
+      "dos más, vamos, eres el mejor"
+    ],
+    "give_that_position_back": [
+      "devuelve esa posición",
+      "tenemos que devolver esa posición"
+    ],
+    "hold_this_position_until_start_line": [
+      "mantén esta posición hasta la línea de salida",
+      "mantén esta posición hasta la línea de salida"
+    ],
+    "starting_in_right_lane_behind": [
+      "estaremos en la columna derecha detrás",
+      "estaremos en el lado derecho detrás",
+      "estaremos en la fila derecha detrás"
+    ],
+    "leader_has_crossed_start_line": [
+      "los líderes ya están en verde",
+      "el líder ha cruzado la línea",
+      "el líder de la carrera ha cruzado la línea"
+    ],
+    "green_green_green": [
+      "vamos, vamos, vamos",
+      "verde, verde, verde",
+      "acelera",
+      "vamos, pisa a fondo",
+      "verde, ¡vamos!"
+    ],
+    "get_ready": [
+      "aquí vamos",
+      "ok, evita el caos en la primera curva",
+      "prepárate, es hora de acelerar",
+      "estate listo",
+      "ok, prepárate",
+      "aquí vamos, prepárate",
+      "estate listo, atento a las luces",
+      "relájate y prepárate",
+      "mantén la calma, concéntrate"
+    ],
+    "manual_formation_lap_mode_enabled": [
+      "ok, salida en movimiento",
+      "entendido, vuelta de formación manual",
+      "ok, vuelta de formación manual"
+    ],
+    "leader_has_gone": [
+      "el líder ha arrancado",
+      "el líder ha acelerado",
+      "el líder ha comenzado"
+    ],
+    "hold_your_position": [
+      "mantén tu posición",
+      "necesitas mantener tu posición"
+    ],
+    "white_flag_last_lap": [
+      "bandera blanca, una vuelta más",
+      "bandera blanca, última vuelta"
+    ],
+    "starting_in_left_lane_behind": [
+      "estaremos en el lado izquierdo detrás",
+      "estaremos en la columna izquierda detrás"
+    ],
+    "last_lap_leading": [
+      "una vuelta más para ganar, vamos",
+      "una vuelta más, mantén la concentración",
+      "última vuelta, mantén el control, aún no hemos terminado"
+    ],
+    "until_start_line": [
+      "hasta cruzar la línea",
+      "hasta la línea de salida"
+    ],
+    "last_lap_top_three": [
+      "una vuelta más, mantén el control, subiremos al podio",
+      "última vuelta, tráelo a casa",
+      "última vuelta, bien posicionados para el podio"
+    ],
+    "hold_position_behind": [
+      "mantén tu posición detrás",
+      "quédate detrás"
+    ],
+    "won_race": [
+      "¡ganamos, gran trabajo!",
+      "resultado increíble, ¡bien hecho!",
+      "ganaste, gran manejo",
+      "bien hecho, amigo, fue perfecto",
+      "¡perfecto, conducción impecable!",
+      "gran victoria, te lo mereces hoy"
+    ],
+    "finished_race_good_finish": [
+      "ok, se acabó, buena carrera",
+      "ahí está la meta, buen trabajo",
+      "se acabó, buen final, bien hecho",
+      "bien hecho, amigo, buen final",
+      "gran resultado, bien hecho"
+    ],
+    "ok_youre_in": [
+      "ok, comenzamos en",
+      "estás dentro",
+      "ok, estás dentro"
+    ],
+    "podium_finish": [
+      "gran manejo, eso es un podio",
+      "bien hecho, buena carrera",
+      "acabamos en el podio, buen manejo"
+    ],
+    "form_up_behind": [
+      "forma detrás",
+      "colócate detrás",
+      "alíñate detrás"
+    ],
+    "two_to_go": [
+      "quedan dos vueltas",
+      "dos vueltas restantes"
+    ]
+  }
+}

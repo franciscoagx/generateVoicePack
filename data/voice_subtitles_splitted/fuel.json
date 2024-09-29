@@ -1,0 +1,219 @@
+{
+  "fuel": {
+    "plenty_of_fuel": [
+      "you got plenty of fuel",
+      "it's fine, you got loads",
+      "you got loads of fuel"
+    ],
+    "for": [
+      "for"
+    ],
+    "four_laps_fuel": [
+      "we estimate 4 laps fuel remaining",
+      "you got about 4 laps of fuel left"
+    ],
+    "gallons_remaining": [
+      "gallons remaining"
+    ],
+    "and_will_close_on_lap": [
+      "it'll end on lap",
+      "it'll close on lap",
+      "and it'll close on lap",
+      "it will end on lap",
+      "and it should close on lap"
+    ],
+    "gallon": [
+      "gallon"
+    ],
+    "half_a_gallon_remaining": [
+      "that's half a gallon of fuel left",
+      "half a gallon of fuel remaining",
+      "you got half a gallon left",
+      "half a gallon remaining"
+    ],
+    "litres_to_get_to_the_end": [
+      "litres to get to the end of the race",
+      "litres to get to the end",
+      "litres to reach the end"
+    ],
+    "minutes_remaining": [
+      "minutes of fuel left",
+      "minutes of fuel remaining"
+    ],
+    "litres_remaining": [
+      "litres left",
+      "litres remaining"
+    ],
+    "litres_per_lap": [
+      "litres per lap"
+    ],
+    "litres": [
+      "litres"
+    ],
+    "five_minutes_fuel": [
+      "that's 5 minutes of fuel left",
+      "5 minutes of fuel remaining, 5 minutes",
+      "we estimate you got 5 minutes of fuel remaining"
+    ],
+    "ten_minutes_fuel": [
+      "you've got 10 minutes of fuel remaining",
+      "10 minutes of fuel remaining"
+    ],
+    "two_minutes_fuel": [
+      "2 minutes of fuel remaining",
+      "you've got 2 minutes of fuel remaining"
+    ],
+    "we_will_need_to_pit_for_fuel": [
+      "we'll need to pit for refueling",
+      "we'll need to refuel",
+      "we'll need to pit for fuel"
+    ],
+    "half_distance_good_fuel": [
+      "half-way home, we got plenty of fuel",
+      "half-distance, fuel looks good",
+      "that's half-distance, you're looking good for fuel",
+      "you're half-way home, got plenty of fuel",
+      "that's half-distance, fuel levels are fine",
+      "half-way home, fuel looks good",
+      "half-way home, fuel's good",
+      "that's half-distance, the fuel's okay",
+      "we're half-way home, fuel looks okay",
+      "we're half-way home, we're okay on fuel",
+      "you're half-way home, your fuel is fine"
+    ],
+    "we_will_need_to_add": [
+      "it looks like we'll need to add",
+      "we will need to add",
+      "we think we'll need to add",
+      "we'll need to add",
+      "we estimate we're gonna need to add"
+    ],
+    "need_to_add_one_gallon_to_get_to_the_end": [
+      "we'll need to add 1 gallon to get to the end",
+      "we'll need to 1 gallon to get to the end of the race",
+      "we'll need 1 gallon to get to the end",
+      "we'll need to 1 gallon to get to the end"
+    ],
+    "one_lap_fuel": [
+      "this is the last lap of fuel",
+      "you've only got enough fuel for this lap",
+      "we think you'll be out of fuel on the next lap"
+    ],
+    "two_laps_fuel": [
+      "only 2 more laps of fuel",
+      "2 laps of fuel remaining",
+      "only 2 laps of fuel left"
+    ],
+    "we_estimate_we_will_need": [
+      "we estimate that we'll need",
+      "we think we'll need",
+      "we estimate we'll need",
+      "we reckon we'll need about",
+      "we estimate we'll need about",
+      "we should need about",
+      "we should need"
+    ],
+    "gallons": [
+      "gallons"
+    ],
+    "one_gallon_remaining": [
+      "you've got 1 gallon left",
+      "1 gallon remaining"
+    ],
+    "pit_window_for_fuel_opens_on_lap": [
+      "the fuel window opens on lap",
+      "the pit window for refueling should open about lap",
+      "the pit window for fuel will open on lap",
+      "we predict the fuel window will open on lap",
+      "our fuel window opens on lap",
+      "your refuel window will open on lap",
+      "our refueling window opens on lap",
+      "we think the pit window for refueling will open on lap"
+    ],
+    "gallons_to_get_to_the_end": [
+      "gallons to reach the end of the race",
+      "gallons to get to the end",
+      "gallons to get to the end of the race"
+    ],
+    "laps_remaining": [
+      "laps remaining on this tank",
+      "laps of fuel left",
+      "laps of fuel remaining"
+    ],
+    "pit_window_for_fuel_opens_after": [
+      "our refueling window opens after",
+      "we think our refueling window will open after",
+      "we predict your refuel window will open after",
+      "we think your pit window for fuel should open after",
+      "we think your pit window for refuel will open after",
+      "our fuel window will open after",
+      "our refueling window will open after"
+    ],
+    "one_litre_remaining": [
+      "one litre remaining"
+    ],
+    "pit_window_for_fuel_closes_on_lap": [
+      "we'll need to pit to refuel by lap",
+      "we'll need to refuel by lap",
+      "we'll need to pit for fuel by lap"
+    ],
+    "gallons_per_lap": [
+      "gallons per lap"
+    ],
+    "half_tank_warning": [
+      "you've used half your fuel",
+      "that's half-fuel, you've used half your fuel",
+      "you've got half your fuel left"
+    ],
+    "half_distance_low_fuel": [
+      "that's half-distance, looks like you're gonna need to save some fuel",
+      "that's half-distance, you'll need to save some fuel",
+      "you're half-way home, but you will not make it to the end on fuel"
+    ],
+    "fuel_will_be_tight": [
+      "fuel's gonna be tight, we're not sure you'll make it to the end",
+      "fuel looks tight, you might make it to the end",
+      "the fuel will be tight, we think you'll get to the end but we're not sure",
+      "fuel is tight, you might need to save some fuel to get to the end",
+      "we think the fuel's gonna be tight, you might need to save some"
+    ],
+    "will_need_to_stop_again": [
+      "we think we'll need to stop again",
+      "we'll need to stop again to get to the end",
+      "we'll need to stop again"
+    ],
+    "we_estimate": [
+      "we estimate",
+      "should be about",
+      "we think about"
+    ],
+    "three_laps_fuel": [
+      "3 laps of fuel remaining",
+      "we estimate 3 laps of fuel left",
+      "you've got about 3 laps of fuel left"
+    ],
+    "into_the_race": [
+      "into the race"
+    ],
+    "and_closes_after": [
+      "and should close at about",
+      "and closes after",
+      "and closes at about"
+    ],
+    "about_to_run_out": [
+      "very little fuel left",
+      "we're running on fumes, mate"
+    ],
+    "fuel_should_be_ok": [
+      "we should have enough fuel to get to the end, but it'll be tight",
+      "we think you're okay for fuel, but there's not much to spare",
+      "we should have just enough fuel to get us to the end",
+      "your fuel should be okay if your consumption remains like it is",
+      "we should have just enough fuel to the end",
+      "we should have just enough to get us to the end"
+    ],
+    "litre": [
+      "litre"
+    ]
+  }
+}

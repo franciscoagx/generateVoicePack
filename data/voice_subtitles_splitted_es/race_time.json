@@ -1,0 +1,84 @@
+{
+  "race_time": {
+    "zero_minutes_left": [
+      "se muestra la bandera a cuadros",
+      "bandera a cuadros"
+    ],
+    "five_minutes_left_leading": [
+      "quedan 5 minutos, tráelo a casa, eres el mejor",
+      "quedan 5 minutos, P1, vamos, tráelo a casa",
+      "quedan 5 minutos, vamos, mantén la calma, podemos ganar esto",
+      "quedan 5 minutos, podemos ganar esto",
+      "solo 5 minutos, aguanta, podemos ganar"
+    ],
+    "last_lap": [
+      "última vuelta",
+      "queda una vuelta"
+    ],
+    "one_more_lap_after_this_one": [
+      "queda 1 vuelta después de esta",
+      "queda 1 más después de esta"
+    ],
+    "five_minutes_left": [
+      "quedan 5 minutos, 5 minutos restantes",
+      "5 minutos para el final"
+    ],
+    "remaining": [
+      "restante",
+      "por correr"
+    ],
+    "half_way": [
+      "estamos a mitad de camino",
+      "es la mitad del recorrido",
+      "mitad de carrera",
+      "hemos llegado al punto medio"
+    ],
+    "last_lap_leading": [
+      "queda 1 vuelta, mantén la concentración",
+      "queda 1 vuelta para ganar, vamos",
+      "queda 1 vuelta, mantén la calma, ganaremos esto"
+    ],
+    "five_minutes_left_podium": [
+      "quedan 5 minutos, vamos, mantén la calma, estaremos en el podio",
+      "quedan 5 minutos, estás bien posicionado para el podio",
+      "5 minutos más, mantén todo en control, subimos al podio"
+    ],
+    "one_minute_remaining": [
+      "queda 1 minuto",
+      "1 minuto restante"
+    ],
+    "less_than_one_minute": [
+      "menos de 1 minuto",
+      "queda menos de un minuto"
+    ],
+    "laps_remaining": [
+      "vueltas restantes",
+      "quedan vueltas"
+    ],
+    "last_lap_top_three": [
+      "última vuelta, tráelo a casa",
+      "última vuelta, buena posición para el podio",
+      "queda 1 vuelta, aseguramos el podio"
+    ],
+    "this_is_the_last_lap": [
+      "esta es la última vuelta",
+      "esta es tu última vuelta"
+    ],
+    "two_minutes_left": [
+      "quedan 2 minutos, 2 minutos restantes",
+      "solo quedan 2 minutos"
+    ],
+    "ten_minutes_left": [
+      "quedan 10 minutos",
+      "10 minutos para el final"
+    ],
+    "fifteen_minutes_left": [
+      "quedan 15 minutos",
+      "15 minutos restantes"
+    ],
+    "twenty_minutes_left": [
+      "quedan 20 minutos",
+      "20 minutos restantes"
+    ]
+  }
+}

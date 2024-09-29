@@ -1,0 +1,261 @@
+{
+  "damage_reporting": {
+    "busted_engine": [
+      "hemos perdido el motor, se acabó",
+      "el motor está destrozado, buen trabajo, amigo",
+      "mierda, el motor está completamente roto, no hay manera de arreglarlo, amigo",
+      "el motor está frito, amigo, vas a tener que esperar a que te remolquen"
+    ],
+    "busted_transmission": [
+      "apágalo, amigo, no queda nada de la transmisión, hemos terminado aquí",
+      "la transmisión está completamente rota, nuestra carrera ha terminado",
+      "no hay forma de volver a boxes con la transmisión en ese estado, amigo, la has jodido"
+    ],
+    "severe_transmission_damage": [
+      "la transmisión está muy mal, amigo, puede que no llegues al final",
+      "la transmisión está hecha polvo, no creo que llegues al final con eso",
+      "has destrozado la transmisión, amigo"
+    ],
+    "no_damage": [
+      "el coche se ve bien, no hay daños significativos",
+      "no hay daños significativos",
+      "el coche se ve bien, sin daños"
+    ],
+    "are_you_ok_first_try": [
+      "eso se vio mal, ¿puedes confirmar que estás bien?",
+      "pareció un golpe fuerte, ¿estás bien?",
+      "¿estás bien? fue un golpe grande",
+      "¿estás bien, amigo?",
+      "eso se vio mal, ¿estás bien?",
+      "¡joder! eso pareció doler, ¿estás bien?",
+      "¿estás bien, amigo?",
+      "¡mierda, amigo! eso fue grave, ¿estás bien?",
+      "ese fue un golpe grande, ¿estás bien?",
+      "¿puedes confirmar que estás bien?"
+    ],
+    "severe_suspension_damage": [
+      "tienes serios daños en la suspensión",
+      "tu suspensión necesita reparación, tendrás que entrar",
+      "la suspensión se ve bastante mal, amigo"
+    ],
+    "acknowledge_driver_is_ok_not_understood": [
+      "me alegra saber que estás bien",
+      "no tengo idea de lo que acabas de decir, pero al menos es algo",
+      "asumo que eso significa que estás bien, gracias, amigo",
+      "no entendí bien, pero al menos estás hablando",
+      "vale, parece que estás bien",
+      "parece que estás bien, gracias, amigo"
+    ],
+    "right_front_puncture": [
+      "tienes un pinchazo en la rueda delantera derecha",
+      "pinchazo en la delantera derecha"
+    ],
+    "trivial_aero_damage": [
+      "es solo un rasguño, ignóralo",
+      "un pequeño daño aerodinámico, probablemente ni lo sientas",
+      "es solo un rasguño, amigo, ignóralo",
+      "eso se pule fácil, amigo, olvídalo",
+      "olvídate de eso, probablemente se arregla con pulido",
+      "pequeño daño aerodinámico, ignóralo",
+      "ignora ese daño aerodinámico, no es nada",
+      "has tenido un pequeño daño en la carrocería, pero no lo notarás",
+      "está bien, amigo, solo es un rasguño",
+      "es solo un rasguño, ignóralo",
+      "tienes un pequeño daño en la carrocería, ignóralo"
+    ],
+    "severe_engine_damage": [
+      "ese motor está en muy mal estado, ve con calma, a ver si podemos llegar al final",
+      "el motor está en las últimas, amigo, trata de no forzarlo demasiado",
+      "el motor suena terrible, haz lo que puedas, amigo"
+    ],
+    "minor_engine_damage": [
+      "el motor no está funcionando del todo bien, amigo",
+      "ese motor no suena bien, amigo, lo vigilaremos",
+      "ve con cuidado con el motor o no va a llegar al final"
+    ],
+    "severe_brake_damage": [
+      "entra ahora, necesitamos arreglar esos frenos",
+      "tus frenos están muy mal, entra ya",
+      "tendremos que arreglar esos frenos, entra"
+    ],
+    "acknowledge_driver_is_ok": [
+      "mantente donde estás, la ayuda está en camino",
+      "me alegra saberlo, gracias, amigo",
+      "vale, quédate donde estás, el equipo está en camino",
+      "vale, amigo, quédate tranquilo, el equipo médico está en camino",
+      "vale, amigo, gracias por la actualización",
+      "gracias por el informe",
+      "qué alivio",
+      "me alegra saberlo"
+    ],
+    "are_you_ok_third_try": [
+      "¡mierda!, espero que solo sea la radio la que está rota",
+      "si puedes oírme, la ayuda está en camino",
+      "¡joder, hombre! espero que estés bien",
+      "si puedes oírme, la ayuda viene en camino",
+      "nos tienes a todos muy preocupados aquí, hombre",
+      "hay un equipo entero aquí poniéndose nervioso"
+    ],
+    "minor_suspension_damage_general": [
+      "has tenido un poco de daño en la suspensión",
+      "vemos algo de daño leve en la suspensión",
+      "tienes un daño leve en la suspensión",
+      "parece que tu suspensión está un poco afectada",
+      "hay un daño leve en la suspensión",
+      "tienes un pequeño daño en la suspensión",
+      "vemos un poco de daño en la suspensión",
+      "tienes un pequeño daño en la suspensión"
+    ],
+    "stopped_upside_down": [
+      "pareció un golpe fuerte, ¿estás bien?",
+      "eso se vio bastante mal, ¿estás bien?",
+      "¿estás bien?",
+      "¿estás bien ahí?",
+      "¿estás bien, amigo?",
+      "¿estás bien?",
+      "eso se vio mal, ¿estás bien?"
+    ],
+    "no_suspension_damage": [
+      "tu suspensión parece estar bien, amigo",
+      "no vemos daños en la suspensión",
+      "tu suspensión está bien"
+    ],
+    "minor_aero_damage_general": [
+      "vemos un poco de daño en la carrocería",
+      "tienes algo de daño aerodinámico leve",
+      "parece que tienes un pequeño daño en la carrocería",
+      "vemos un poco de daño aerodinámico",
+      "tienes un pequeño daño en la carrocería",
+      "has recibido un poco de daño en la carrocería",
+      "daño aerodinámico leve",
+      "vemos algo de daño aerodinámico leve",
+      "has sufrido un poco de daño aerodinámico",
+      "has tenido algo de daño en la carrocería"
+    ],
+    "minor_suspension_damage": [
+      "has sufrido un poco de daño en la suspensión",
+      "has tenido un poco de daño en la suspensión, pero probablemente esté bien",
+      "vemos algo de daño leve en la suspensión",
+      "tienes un poco de daño leve en la suspensión",
+      "has sufrido un daño en la suspensión, sigue adelante",
+      "parece que la suspensión está un poco afectada",
+      "hay un daño leve en la suspensión",
+      "tienes un pequeño daño en la suspensión",
+      "vemos un poco de daño en la suspensión",
+      "tienes un pequeño daño en la suspensión"
+    ],
+    "are_you_ok_second_try": [
+      "vamos, no hagas esto, dinos que estás bien",
+      "¿me puedes escuchar? ¿puedes responder?",
+      "¿me escuchas? Responde, por favor",
+      "¿estás bien? Respóndeme si puedes",
+      "vamos, estamos todos preocupados aquí, dinos que estás bien",
+      "vamos, ¿estás bien?",
+      "¿me escuchas? Responde, por favor, ¿estás bien?",
+      "¿puedes responder, por favor? ¿estás bien?",
+      "vamos, amigo, ¿estás bien? responde",
+      "vamos, responde, por favor"
+    ],
+    "left_front_puncture": [
+      "pinchazo en la delantera izquierda",
+      "delantera izquierda pinchada"
+    ],
+    "trivial_aero_damage_general": [
+      "un pequeño daño aerodinámico, probablemente ni lo sientas",
+      "un pequeño daño aerodinámico, ignóralo",
+      "ignora ese daño aerodinámico, no es nada",
+      "has sufrido un pequeño daño en la carrocería, pero no lo notarás",
+      "tienes un pequeño daño en la carrocería, ignóralo"
+    ],
+    "acknowledge_driver_is_ok_no_speech": [
+      "vale, amigo, creo que la radio se ha roto",
+      "creo que la radio está jodida",
+      "no escucho nada, amigo, creo que has roto la radio",
+      "no escucho nada, creo que la radio se ha roto",
+      "vale, no puedo oírte, quizá la radio esté rota"
+    ],
+    "minor_transmission_damage": [
+      "cuidado con esos cambios de marcha o la transmisión no va a aguantar la carrera",
+      "vigila los cambios descendentes, no maltrates la transmisión",
+      "cuida la transmisión"
+    ],
+    "no_brake_damage": [
+      "tus frenos están bien",
+      "los frenos se ven bien desde aquí",
+      "tus frenos están perfectamente, amigo"
+    ],
+    "no_aero_damage": [
+      "la carrocería está bien",
+      "la carrocería está en buen estado",
+      "la carrocería se ve bien"
+    ],
+    "busted_suspension": [
+      "tu suspensión está completamente destrozada, no hay nada que podamos hacer",
+      "no podemos arreglar la suspensión, amigo, tu día ha terminado",
+      "la suspensión está hecha polvo"
+    ],
+    "minor_brake_damage": [
+      "algo no va bien con esos frenos, amigo",
+      "vemos un poco de daño en los frenos",
+      "tienes algo de daño en los frenos"
+    ],
+    "left_rear_puncture": [
+      "pinchazo en la trasera izquierda",
+      "tu trasera izquierda está pinchada",
+      "trasera izquierda pinchada"
+    ],
+    "busted_brakes": [
+      "a ver si puedes traerlo de vuelta a boxes y haremos lo que podamos con esos frenos",
+      "esos frenos están jodidos, amigo",
+      "no queda nada de esos frenos, amigo, entra en boxes si puedes"
+    ],
+    "no_engine_damage": [
+      "el motor está bien",
+      "el motor se ve bien, amigo",
+      "el motor está en buen estado"
+    ],
+    "missing_wheel": [
+      "te falta una rueda, amigo, a ver si puedes volver a boxes",
+      "te falta una rueda, quizá puedas volver, pero no sé si podremos arreglarlo",
+      "has perdido una rueda, no pinta bien, amigo"
+    ],
+    "rolling": [
+      "intenta dar la vuelta",
+      "va más rápido cuando está sobre las ruedas, amigo",
+      "¡mierda! eso pareció doloroso, ¿cómo está tu cabeza?",
+      "eso se ve doloroso",
+      "no, ahora te has volcado",
+      "es más rápido del otro lado",
+      "qué mala suerte, amigo, eso se ve doloroso",
+      "eso no está bien, debería estar del otro lado, estoy seguro"
+    ],
+    "no_transmission_damage": [
+      "la transmisión está bien",
+      "la transmisión está en buen estado",
+      "la transmisión se ve bien, amigo"
+    ],
+    "right_rear_puncture": [
+      "pinchazo en la trasera derecha",
+      "tu trasera derecha está pinchada",
+      "tienes un pinchazo en la trasera derecha"
+    ],
+    "severe_aero_damage": [
+      "la carrocería está en muy mal estado, quizás tengamos que arreglarla",
+      "tienes bastante daño aerodinámico, quizás debas entrar a arreglarlo",
+      "tienes mucho daño aerodinámico, amigo, la carrocería está bastante destrozada"
+    ],
+    "minor_aero_damage": [
+      "has tenido algo de daño en la carrocería, sigue, no es muy grave",
+      "vemos un pequeño daño en la carrocería",
+      "tienes un pequeño daño aerodinámico",
+      "vemos un poco de daño aerodinámico",
+      "parece que tienes un pequeño daño en la carrocería",
+      "has sufrido un pequeño daño aerodinámico, sigue, no es grave",
+      "tienes un pequeño daño en la carrocería",
+      "daño aerodinámico leve",
+      "vemos un poco de daño aerodinámico",
+      "has tenido un pequeño daño en la carrocería",
+      "has tenido algo de daño en la carrocería"
+    ]
+  }
+}

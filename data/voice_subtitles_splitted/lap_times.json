@@ -1,0 +1,418 @@
+{
+  "lap_times": {
+    "sector1_and_3_two_tenths_off_pace": [
+      "sectors 1 and 3 are 2 tenths off the pace",
+      "you're 2 tenths down in sectors 1 and 3",
+      "you're 2 tenths off the pace in sectors 1 and 3"
+    ],
+    "sector2_fastest": [
+      "sector 2 is fastest",
+      "you're quickest in sector 2"
+    ],
+    "sector1_and_3_are": [
+      "sectors 1 and 3 are"
+    ],
+    "sector2_and_3_a_second_off_pace": [
+      "you're a second down in sectors 2 and 3",
+      "you're losing a second in sectors 2 and 3",
+      "sector 2 and 3 are a second off the pace"
+    ],
+    "sector2_two_tenths_off_self_pace": [
+      "sector 2 is 2 tenths off your best",
+      "you're 2 tenths off your best in sector 2"
+    ],
+    "best_lap_in_race_for_class": [
+      "that's the quickest lap for your class",
+      "that's the best lap in your class"
+    ],
+    "sector1_and_3_a_second_off_pace": [
+      "you're a second off the pace in sectors 1 and 3",
+      "sectors 1 and 3 are a second off the pace",
+      "you're a second down in sectors 1 and 3"
+    ],
+    "sector1_and_3_a_tenth_off_self_pace": [
+      "sectors 1 and 3 are a tenth off your best",
+      "sectors 1 and 3 are 1 tenth off your best"
+    ],
+    "gap_intro": [
+      "you're now",
+      "you're currently",
+      "that puts you"
+    ],
+    "quickest_in_class": [
+      "you're quickest in your class"
+    ],
+    "sector1_a_second_off_pace": [
+      "you're a second off in sector one",
+      "you're a second off the pace in sector one"
+    ],
+    "sector3_fast": [
+      "sector 3 time's okay",
+      "sector 3 time is quick",
+      "sector 3 time is fast"
+    ],
+    "sector1_is": [
+      "sector 1 is"
+    ],
+    "sector3_two_tenths_off_self_pace": [
+      "you're 2 tenths off your best in sector 3",
+      "sector 3 is 2 tenths off your best"
+    ],
+    "need_to_find_a_second": [
+      "we need to find a second",
+      "we need to shave off a second or so"
+    ],
+    "sector3_a_second_off_pace": [
+      "sector 3 is a second off the pace",
+      "you're a second down in sector 3",
+      "you're a second off the pace in sector 3"
+    ],
+    "sector1_and_2_a_second_off_pace": [
+      "you're a second down in sectors 1 and 2",
+      "you're a second off the pace in sectors 1 and 2",
+      "sectors 1 and 2 are a second off the pace"
+    ],
+    "sector2_a_second_off_pace": [
+      "sector 2 is a second off the pace",
+      "you're a second off the pace in sector 2"
+    ],
+    "sector2_fast": [
+      "your sector 2 time is quick",
+      "sector 2 time is okay",
+      "sector 2 time is good"
+    ],
+    "sector1_and_3_a_tenth_off_pace": [
+      "you're a tenth off the pace in sectors 1 and 3",
+      "sectors 1 and 3 are a tenth off the pace",
+      "you're a tenth down in sectors 1 and 3"
+    ],
+    "sector1_a_tenth_off_pace": [
+      "you're a tenth off the pace in sector 1",
+      "you're a tenth off in sector 1"
+    ],
+    "consistent": [
+      "your lap times are pretty consistent",
+      "good consistency, keep 'em coming",
+      "that's good consistency, keep it up"
+    ],
+    "need_to_find_one_more_tenth": [
+      "we need to find just one more tenth",
+      "just one more tenth, that's all we need",
+      "we need one more tenth a lap"
+    ],
+    "sector3_two_tenths_off_pace": [
+      "sector 3 is 2 tenths off the pace",
+      "you're 2 tenths off the pace in sector 3"
+    ],
+    "sector1_two_tenths_off_pace": [
+      "you're 2 tenths off the pace in sector 1"
+    ],
+    "need_to_find_a_few_more_tenths": [
+      "we need to find a few more tenths",
+      "we need to find a few tenths",
+      "we need to shave off a few tenths"
+    ],
+    "sector3_fastest": [
+      "you're fastest in sector 3",
+      "quickest in sector 3",
+      "you're quickest in sector 3"
+    ],
+    "sector1_and_2_are": [
+      "sectors 1 and 2 are"
+    ],
+    "sector2_a_tenth_off_pace": [
+      "you're a tenth off the pace in sector 2",
+      "we need to find a tenth in sector 2"
+    ],
+    "less_than_a_tenth_off_the_pace": [
+      "you're less than a tenth off the pace"
+    ],
+    "sector1_and_2_fast": [
+      "sectors 1 and 2 are fast",
+      "your pace is good in sectors 1 and 2",
+      "sectors 1 and 2 are quick"
+    ],
+    "sector2_and_3_two_tenths_off_self_pace": [
+      "you're 2 tenths off your best in sectors 2 and 3",
+      "sectors 2 and 3 are 2 tenths off your best"
+    ],
+    "sector_all_fast": [
+      "all 3 sectors are pretty quick",
+      "you're times are good in all 3 sectors"
+    ],
+    "pace_good": [
+      "pace is great",
+      "pace is perfect",
+      "pace is good",
+      "pace is really good"
+    ],
+    "sector1_and_2_a_tenth_off_self_pace": [
+      "sectors 1 and 2 are a tenth off your best",
+      "sectors 1 and 2 are 1 tenth off your best"
+    ],
+    "need_to_find_more_than_a_second": [
+      "we need to improve by more than a second a lap",
+      "we need to find more than a second a lap",
+      "we need more than a second a lap here"
+    ],
+    "sector2_is": [
+      "sector 2 is"
+    ],
+    "gap_outro_off_pace": [
+      "off the pace",
+      "off the leader's pace"
+    ],
+    "sector1_and_3_fastest": [
+      "sectors 1 and 3 are purple",
+      "sectors 1 and 3 are fastest",
+      "you're fastest overall in sectors 1 and 3"
+    ],
+    "sector1_and_2_two_tenths_off_self_pace": [
+      "you're 2 tenths off your best in sectors 1 and 2",
+      "sectors 1 and 2 are 2 tenths off your best"
+    ],
+    "sector1_and_3_two_tenths_off_self_pace": [
+      "you're 2 tenths off your best in sectors 1 and 3",
+      "sectors 1 and 3 are 2 tenths off your best"
+    ],
+    "sector1_a_tenth_off_self_pace": [
+      "sector 1 is a tenth off your pace",
+      "sector 1 is a tenth off your best"
+    ],
+    "sector2_a_tenth_off_self_pace": [
+      "sector 2 is 1 tenth off your best",
+      "sector 2 is a tenth off your best"
+    ],
+    "sector2_and_3_fast": [
+      "sector 2 and 3 are fast",
+      "sector 2 and 3 are pretty good",
+      "your sector 2 and 3 times are good"
+    ],
+    "matching_race_pace": [
+      "we're matching race pace",
+      "you're matching race pace, this is good",
+      "you're matching race pace"
+    ],
+    "sector1_fast": [
+      "sector 1 time is quick",
+      "sector 1 time is good",
+      "sector 1 time's okay"
+    ],
+    "fastest_in_your_class": [
+      "that's the quickest lap for your class",
+      "that's the best lap in your class"
+    ],
+    "sector_all_a_few_tenths_off_pace": [
+      "you're a few tenths off the pace in all sectors",
+      "all 3 sectors are a few tenths off",
+      "you're a few tenths off the pace in all 3 sectors"
+    ],
+    "sector_all_a_second_off_pace": [
+      "all 3 sectors are a about a second off the pace",
+      "all 3 sectors are a second off the pace",
+      "you're a second down in all 3 sectors"
+    ],
+    "good_lap": [
+      "nice lap",
+      "that's a decent lap",
+      "decent lap, but you can go quicker",
+      "good lap"
+    ],
+    "quicker_than_second_place": [
+      "quicker than second place",
+      "quicker than second",
+      "ahead of P2"
+    ],
+    "sector1_two_tenths_off_self_pace": [
+      "you're 2 tenths off your best in sector 1",
+      "sector 1 is two tenths off your best"
+    ],
+    "less_than_a_tenth_off_self_pace": [
+      "you're less than a tenth off your own pace",
+      "you're less than a tenth off your best",
+      "you're less than a tenth off a second off your best"
+    ],
+    "sector2_and_3_a_second_off_self_pace": [
+      "you're a second off your best in sectors 2 and 3",
+      "sectors 2 and 3 are a second off your best"
+    ],
+    "sector1_and_2_fastest": [
+      "sectors 1 and 2 are the quickest",
+      "sectors 1 and 2 are fastest",
+      "you're purple in sectors 1 and 2"
+    ],
+    "time_intro": [
+      "your lap time was a",
+      "that lap was a",
+      "that lap time was",
+      "your lap time was",
+      "your last lap time was a",
+      "that last lap was a",
+      "that was a",
+      "you've just done a"
+    ],
+    "quickest_overall": [
+      "you're quickest overall"
+    ],
+    "sector2_and_3_fastest": [
+      "you're quickest in sector 2 and 3",
+      "sectors 2 and 3 are fastest",
+      "you've gone purple in sectors 2 and 3"
+    ],
+    "sector2_and_3_a_tenth_off_pace": [
+      "you're losing a tenth in sectors 2 and 3",
+      "sectors 2 and 3 are a tenth down",
+      "sectors 2 and 3 are a tenth off the pace"
+    ],
+    "setting_current_race_pace": [
+      "we're quickest right now",
+      "we're quickest at the moment",
+      "we're setting the pace",
+      "we're current setting the pace"
+    ],
+    "personal_best": [
+      "good lap, that's your quickest today",
+      "that's your fastest lap today",
+      "good lap, that's your quickest so far",
+      "that's your quickest lap in this session",
+      "that's your quickest lap",
+      "that's your best lap in this session",
+      "good lap, that's your best in the session",
+      "that's your fastest lap"
+    ],
+    "sector2_and_3_are": [
+      "sectors 2 and 3 are"
+    ],
+    "sector2_and_3_two_tenths_off_pace": [
+      "sectors 2 and 3 are 2 tenths down",
+      "you're losing 2 tenths in sectors 2 and 3",
+      "sectors 2 and 3 are 2 tenths off the pace"
+    ],
+    "sector2_and_3_a_tenth_off_self_pace": [
+      "sectors 2 and 3 are 1 tenth off your best",
+      "sectors 2 and 3 are a tenth off your best"
+    ],
+    "sector_all_a_tenth_off_pace": [
+      "you're a tenth off the pace in all 3 sectors",
+      "all 3 sectors are a tenth off the pace"
+    ],
+    "worsening": [
+      "your lap times are increasing, come on, get back on it",
+      "your lap times have gone to crap, come on, sort it out",
+      "your lap times are dropping off, come on, you can do better than this",
+      "your lap times are increasing, come on, keep your focus",
+      "your lap times are dropping off, come on, stay focused"
+    ],
+    "sector_all_a_tenth_off_self_pace": [
+      "you're one tenth off your best in all 3 sectors",
+      "you're a tenth off your best in all 3 sectors",
+      "all 3 sectors are a tenth off your best"
+    ],
+    "off_the_self_pace": [
+      "off your best",
+      "slower than your best"
+    ],
+    "sector3_a_second_off_self_pace": [
+      "sector 3 is a second off your best",
+      "you're a second off your best in sector 3"
+    ],
+    "sector3_a_tenth_off_self_pace": [
+      "sector 3 is a tenth off your best"
+    ],
+    "sector_all_are": [
+      "all 3 sectors are"
+    ],
+    "sector3_is": [
+      "sector 3 is"
+    ],
+    "sector_all_fastest": [
+      "you've gone purple in all 3 sectors",
+      "all 3 sectors are the quickest",
+      "all 3 sectors are fastest"
+    ],
+    "improving": [
+      "your lap times are improving",
+      "your lap times are improving, this is good",
+      "your lap times are improving, this is exactly what we need"
+    ],
+    "sector2_two_tenths_off_pace": [
+      "sector 2 is 2 tenths off the pace",
+      "you're 2 tenths off the pace in sector 2"
+    ],
+    "sector1_fastest": [
+      "you're fastest in sector 1"
+    ],
+    "sector1_and_2_two_tenths_off_pace": [
+      "you're losing 2 tenths in sectors 1 and 2",
+      "you're 2 tenths off the pace in sectors 1 and 2",
+      "sectors 1 and 2 are 2 tenths off the pace"
+    ],
+    "pace_bad": [
+      "we really need to pick it up",
+      "it's not good at the moment",
+      "you need to get back on it"
+    ],
+    "sector1_and_2_a_tenth_off_pace": [
+      "you're a tenth down in sectors 1 and 2",
+      "sectors 1 and 2 are a tenth off the pace",
+      "sectors 1 and 2 are a tenth down"
+    ],
+    "sector1_and_3_a_second_off_self_pace": [
+      "you're a second off your best in sectors 1 and 3",
+      "sectors 1 and 3 are a second off your best"
+    ],
+    "sector2_a_second_off_self_pace": [
+      "sector 2 is a second off your best",
+      "you're a second off your best in sector 2"
+    ],
+    "sector1_a_second_off_self_pace": [
+      "sector 1 is a second off your own best",
+      "sector 1 is a second off your best",
+      "you're a second off your best in sector 1"
+    ],
+    "sector_all_a_second_off_self_pace": [
+      "all 3 sectors are a second off your best",
+      "you're a second down on your best in all 3 sectors",
+      "you're a second off your best in all 3 sectors"
+    ],
+    "best_lap_in_race": [
+      "fastest lap",
+      "that's the fastest lap of the race",
+      "that's the fastest lap"
+    ],
+    "sector_all_two_tenths_off_pace": [
+      "all 3 sectors are 2 tenths off the pace",
+      "you're 2 tenths down in all 3 sectors"
+    ],
+    "sector3_a_tenth_off_pace": [
+      "you need to find a tenth in sector 3",
+      "you're a tenth off the pace in sector 3",
+      "sector 3 is a tenth off the pace"
+    ],
+    "sector1_and_3_fast": [
+      "sectors 1 and 3 are fast",
+      "sectors 1 and 3 are looking quick",
+      "sectors 1 and 3 are good"
+    ],
+    "sector_all_more_than_a_second_off_pace": [
+      "you're more than a second off the pace in all 3 sectors",
+      "you're more than a second down in all 3 sectors",
+      "all 3 sectors are more than a second off the pace"
+    ],
+    "sector1_and_2_a_second_off_self_pace": [
+      "sectors 1 and 2 are a second off your best",
+      "you're a second off your best in sectors 1 and 2"
+    ],
+    "off_the_pace": [
+      "off the pace"
+    ],
+    "sector_all_two_tenths_off_self_pace": [
+      "all 3 sectors are 2 tenths off your best",
+      "you're 2 tenths off your best in all 3 sectors"
+    ],
+    "pace_ok": [
+      "your pace is all right",
+      "pace is okay"
+    ]
+  }
+}

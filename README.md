@@ -37,24 +37,34 @@ Optional args:
 
 **--subtitles_file** *file.json*
 
-default: *spotter_subtitles.json*
+default: *data/spotter_subtitles.json*
+
+# Radio filter (radio_filter.py)
+This script applies a "radio" effect to WAV audio files within a specified directory. The "radio" effect simulates the sound quality of audio transmitted over a radio by applying a low-pass filter to limit bandwidth and increasing the volume to mimic radio compression. This script increase gain 5 dB
+
+Usage:
+  ```bash
+  python3 radio_filter.py --input_folder voice
+  ```
+
+replace folder name if need
+
+# Reduce wav size (reduce_wav_size.py)
+This Python script processes all .wav files within a given directory and its subdirectories, reducing their sample rate and bit depth to create smaller audio files. The script preserves the directory structure by creating a new output folder with the prefix reduced_, where all processed audio files are saved with the same filenames and folder hierarchy.
+
+Usage:
+  ```bash
+  python3 reduce_wav_size.py --input_folder voice
+  ```
+
+replace folder name if need
 
 # Increase gain (increase_gain.py)
 This script increases the gain (volume) of all .wav audio files in a specified folder. It takes two command-line arguments: --input_folder, which is the path to the folder containing the audio files, and --gain, the amount of gain in decibels to apply to each file. The modified audio files are saved in a new folder with the suffix _gain, maintaining the original folder structure.
 
 Usage:
   ```bash
-  python3 increase_gain.py --input_folder spotter_name --gain 5
+  python3 increase_gain.py --input_folder voice --gain 5
   ```
 
-replace spotter_name
-
-# Radio filter (radio_filter.py)
-This script applies a "radio" effect to WAV audio files within a specified directory. The "radio" effect simulates the sound quality of audio transmitted over a radio by applying a low-pass filter to limit bandwidth and increasing the volume to mimic radio compression.
-
-Usage:
-  ```bash
-  python3 radio_filter.py --input_folder spotter_name
-  ```
-
-replace spotter_name
+replace folder name if need

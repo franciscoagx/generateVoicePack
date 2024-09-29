@@ -1,0 +1,773 @@
+{
+  "tyre_monitor": {
+    "you_need_more_positive_camber_on_rears": [
+      "you might need more positive camber on the rears"
+    ],
+    "cooking_left_front_tyre": [
+      "your left front's cooking",
+      "your left front tyre is really hot",
+      "you're cooking your left front tyre"
+    ],
+    "alternates": [
+      "alternates"
+    ],
+    "right_front_is_flat_spotted": [
+      "your right front tyre is flat spotted"
+    ],
+    "compound_d": [
+      "D's"
+    ],
+    "hot_left_front_tyre": [
+      "your left front tyre is running hot",
+      "your left front's hot",
+      "your left front is hot"
+    ],
+    "faster_than": [
+      "quicker than",
+      "faster than"
+    ],
+    "spinning_left_front_lap_warning": [
+      "you're spinning up your left front",
+      "you're spinning your left front",
+      "you're spinning your left front wheel"
+    ],
+    "front_pressures_low": [
+      "your front pressures are a bit low"
+    ],
+    "cold_rear_tyres": [
+      "your rear tyres are cold",
+      "watch your rear tyres, they're pretty cold",
+      "your rears are cold"
+    ],
+    "left_front_pressure_ok": [
+      "your left front pressure looks okay"
+    ],
+    "cooking_right_front_tyre": [
+      "you're cooking your right front tyre",
+      "your right front's really hot",
+      "your right front tyre is cooking"
+    ],
+    "lf_inner_is_running": [
+      "your left front inner is running",
+      "your left front inner is"
+    ],
+    "are_about": [
+      "are about"
+    ],
+    "rr_inner_is_running": [
+      "your right rear inner is",
+      "your right rear inner is running"
+    ],
+    "cold_rear_brakes": [
+      "your rear brakes are cold, be careful",
+      "your rear brakes are cold, mate",
+      "your rear brakes are cold"
+    ],
+    "compound_b": [
+      "B's"
+    ],
+    "damage_to_left_rear_tyre": [
+      "you've damaged your left rear tyre"
+    ],
+    "locking_left_front_corner_warning": [
+      "you're locking your left front braking for",
+      "you're locking your left front going into",
+      "you're locking your left front into"
+    ],
+    "locking_rears_corner_warning": [
+      "we're seeing rear locking into",
+      "you're locking your rears going into",
+      "you're locking your rears into"
+    ],
+    "right_front": [
+      "right front",
+      "front right"
+    ],
+    "left_rear_pressure_low": [
+      "your left rear pressure looks a bit low"
+    ],
+    "cold_brakes_all_round": [
+      "you've got cold brakes all around",
+      "your brakes are cold, we need to get some heat into them",
+      "your brakes are cold, be careful",
+      "your brake temperatures are low, we need to get some heat into them",
+      "we need to get some heat into these brakes",
+      "your brakes are cold, let's get some heat into them",
+      "we need to get some head into these brakes",
+      "your brakes are cold, take it easy",
+      "you got cold brakes all around, be careful",
+      "let's get some heat into these brakes"
+    ],
+    "worn_right_rear": [
+      "we're seeing some wear on your right rear",
+      "lookout for your right rear tyre, mate, it's looking pretty worn",
+      "your right rear tyre's got some wear now"
+    ],
+    "cooking_front_brakes": [
+      "your front brakes are really hot",
+      "your front brakes are far too hot",
+      "your front brakes are cooking, mate"
+    ],
+    "rf_inner_is_running": [
+      "your right front inner is running",
+      "your right front inner is"
+    ],
+    "locking_right_front_lap_warning": [
+      "you're locking your front right wheel",
+      "you're locking your front right",
+      "we're seeing lots of front right locking"
+    ],
+    "rf_inner_and_outer_are_same": [
+      "the inner and outer temps of your right front are about the same",
+      "your right front inner and outer temps are about the same",
+      "your right front inner and outer temperatures are about the same"
+    ],
+    "hot_right_front_tyre": [
+      "your right front tyre is hot, right front is hot",
+      "your right front tyre's getting hot",
+      "watch your right front temperature, it's hot"
+    ],
+    "celsius_hotter_than_outers": [
+      "celsius hotter than your outers",
+      "celsius hotter than the outers"
+    ],
+    "worn_right_front": [
+      "we're seeing significant wear on your right front",
+      "your right front's carrying some wear now",
+      "your right front tyre looks like it's wearing out"
+    ],
+    "left_tyres_dirty": [
+      "you have dirt pick on your left side tyres"
+    ],
+    "spinning_left_rear_lap_warning": [
+      "we're seeing loads of rear left wheel spin",
+      "we're seeing lots of rear left wheel spin",
+      "you're spinning your rear left"
+    ],
+    "left_rear_pressure_ok": [
+      "your left rear pressure looks okay"
+    ],
+    "locking_left_rear_lap_warning": [
+      "you're locking your left rear",
+      "we're seeing lots of left rear locking"
+    ],
+    "spinning_left_rear_corner_warning": [
+      "we're seeing left rear wheel spin on the exit of",
+      "you're spinning your left rear coming out of",
+      "we're seeing left rear wheel spin in"
+    ],
+    "slicks": [
+      "slicks"
+    ],
+    "rear_pressures_low": [
+      "your rear pressures are a bit low"
+    ],
+    "cooking_right_rear_tyre": [
+      "you're cooking your right rear tyre, mate",
+      "your right rear's really, really hot",
+      "your right rear tyre is cooking"
+    ],
+    "lr_inner_is_running": [
+      "your left rear inner is",
+      "your left rear inner is running"
+    ],
+    "hot_front_brakes": [
+      "your front brakes are getting pretty hot",
+      "your front brakes are getting a bit hot",
+      "your front brakes are pretty hot now"
+    ],
+    "minor_wear_rights": [
+      "there's a bit of wear on your right side tyres",
+      "we're seeing a bit of wear on your right side tyres",
+      "you're carrying minor wear on your right side tyres"
+    ],
+    "damage_to_right_front_tyre": [
+      "you've damaged your right front tyre"
+    ],
+    "locking_rears_lap_warning": [
+      "you're locking your rears a lot",
+      "we're seeing lots of rear locking",
+      "we're seeing lots of rear brake locking"
+    ],
+    "cooking_right_tyres": [
+      "your right side tyres are really hot",
+      "you're cooking your right side tyres, mate",
+      "your right side tyres are far too hot"
+    ],
+    "right_rear_pressure_very_low": [
+      "your right rear pressure is very low"
+    ],
+    "knackered_all_round": [
+      "your tyres are all worn out",
+      "you're gonna need new tyres all around",
+      "your tyres all look pretty bad, mate"
+    ],
+    "compound_c": [
+      "C's"
+    ],
+    "right_rear_pressure_ok": [
+      "your right rear pressure looks okay"
+    ],
+    "left_rear_pressure_high": [
+      "your left rear pressure is a bit high"
+    ],
+    "spinning_fronts_lap_warning": [
+      "you're getting lots of wheel spin",
+      "you're getting a lot of front wheel spin",
+      "you're spinning up your fronts",
+      "we're seeing loads of wheel spin"
+    ],
+    "minor_wear_right_rear": [
+      "your right rear is carrying a bit of wear",
+      "we're seeing a bit of wear on your right rear",
+      "your right rear has got minor wear"
+    ],
+    "minor_wear_lefts": [
+      "we're seeing minor wear on your left side tyres",
+      "your left side tyres are carrying minor wear",
+      "there's a bit of wear on your left side tyres"
+    ],
+    "worn_rears": [
+      "we're looking at significant wear on those rear tyres",
+      "your rear tyres will be past their best soon",
+      "we can see some wear on those rear tyres, keep and eye out"
+    ],
+    "spinning_rears_lap_warning": [
+      "we're seeing loads of wheelspin",
+      "we're seeing lots of rear wheel spin",
+      "you're getting lots of wheel spin",
+      "you're spinning up your rears",
+      "you're spinning your rears"
+    ],
+    "you_need_more_negative_camber": [
+      "you might need more negative camber"
+    ],
+    "spinning_right_front_lap_warning": [
+      "you're getting lots of right front wheel spin",
+      "your right front is spinning",
+      "you're spinning up your right front",
+      "you're getting a lot of right front wheel spin"
+    ],
+    "cold_right_tyres": [
+      "your right side tyres are cold",
+      "your right tyres are cold",
+      "your right sides are cold"
+    ],
+    "hot_left_tyres": [
+      "your left sides are running hot",
+      "your left side tyres are running hot",
+      "your left side tyres hot",
+      "you need to watch your left side tyre temperatures"
+    ],
+    "ultra_softs": [
+      "ultra softs"
+    ],
+    "hot_tyres_all_round": [
+      "all your tyres are looking hot",
+      "your tyre temperatures are hot all around",
+      "your tyres are looking pretty hot now"
+    ],
+    "good_wear": [
+      "your tyre wear looks fine, mate",
+      "we're not seeing any significant tyre wear",
+      "your tyres are fine, mate, just push"
+    ],
+    "left_front_pressure_very_high": [
+      "your left front pressure looks very high"
+    ],
+    "locking_fronts_corner_warning": [
+      "we're seeing front locking going into",
+      "you're locking your fronts into",
+      "you're locking your fronts going into"
+    ],
+    "right_tyres_dirty": [
+      "you have dirt pick on your right side tyres"
+    ],
+    "front_pressures_very_high": [
+      "your front pressures are very high"
+    ],
+    "worn_lefts": [
+      "we're seeing significant wear on both left side tyres",
+      "your left side tyres are looking pretty worn now",
+      "your left side tyres are both past their best"
+    ],
+    "worn_all_round": [
+      "your tyres are all looking a bit worn",
+      "you got significant tyre wear all around",
+      "we're seeing some wear on each corner"
+    ],
+    "left_rear": [
+      "left rear",
+      "rear left"
+    ],
+    "cold_left_tyres": [
+      "left side tyres are cold",
+      "your left side tyres are cold"
+    ],
+    "rears_are_flat_spotted": [
+      "your rear tyres are flat spotted"
+    ],
+    "left_front_pressure_high": [
+      "your left front pressure looks quite high"
+    ],
+    "left_front_pressure_very_low": [
+      "your left front pressure looks very low"
+    ],
+    "right_front_pressure_low": [
+      "your right front pressure is quite low"
+    ],
+    "minor_wear_left_rear": [
+      "we're seeing minor wear on your left rear",
+      "your left rear has minor wear",
+      "we're seeing a bit of wear on your left rear"
+    ],
+    "locking_right_rear_lap_warning": [
+      "we're seeing lots of right rear locking",
+      "you're locking your right rear"
+    ],
+    "cold_front_tyres": [
+      "your front tyres are cold",
+      "you got cold front tyres"
+    ],
+    "right_rear_pressure_very_high": [
+      "your right rear pressure is very high"
+    ],
+    "celsius_hotter_than_outer": [
+      "celsius hotter than the outer"
+    ],
+    "damage_to_right_rear_tyre": [
+      "you've damaged your right rear tyre"
+    ],
+    "rr_inner_and_outer_are_same": [
+      "your right rear inner and outer temps are about the same",
+      "your right rear inner and outer temperatures are about the same",
+      "your inner and outer temps are about the same for your right rear"
+    ],
+    "good_tyre_temps": [
+      "your tyre temperatures are fine",
+      "your tyre temps are looking good",
+      "your tyre temps are all good",
+      "your tyre temperatures look good",
+      "your tyre temps are good",
+      "your tyre temperatures are okay",
+      "tyre temps are good",
+      "tyre temperatures are good",
+      "your tyre temps are all fine",
+      "your tyre temperatures are good"
+    ],
+    "cooking_front_tyres": [
+      "your front tyres are really hot",
+      "you're cooking your front tyres, mate",
+      "your front tyres are far too hot"
+    ],
+    "right_rear_pressure_high": [
+      "your right rear pressure looks a bit high"
+    ],
+    "hot_rear_tyres": [
+      "watch your rear tyre temperatures, they're getting hot",
+      "rear tyres are hot, your rear tyres are getting hot",
+      "your rear tyres are getting hot"
+    ],
+    "options": [
+      "option tyres",
+      "options"
+    ],
+    "cooking_tyres_all_round": [
+      "back off a bit, these tyres are not gonna last like this",
+      "we need to cool these tyres down, mate, they're really hot",
+      "your tyres are cooking all around, they're really hot"
+    ],
+    "hot_right_rear_tyre": [
+      "right rear is hot, your right rear is hot",
+      "your right rear tyre is hot",
+      "watch your right rear temperature, it's getting hot"
+    ],
+    "you_need_more_negative_camber_on_rears": [
+      "you might need more negative camber on the rears"
+    ],
+    "worn_rights": [
+      "your right side tyres are looking quite worn now",
+      "we're seeing significant wear on both tyres on the right side",
+      "your right side tyres are getting old"
+    ],
+    "laps_on_current_tyres_outro": [
+      "more laps on this set of tyres",
+      "more laps from this set of tyres",
+      "more laps out of this set of tyres"
+    ],
+    "damage_to_front_tyres": [
+      "you've damaged both front tyres"
+    ],
+    "knackered_right_rear": [
+      "we think that right rear is probably gone",
+      "that right rear's had it",
+      "your right rear's completely worn out, mate"
+    ],
+    "spinning_right_rear_lap_warning": [
+      "you're spinning up your rear right",
+      "you're spinning your rear right tyre",
+      "we're seeing lots of rear right wheel spin"
+    ],
+    "super_softs": [
+      "super softs"
+    ],
+    "front_pressures_high": [
+      "your front pressures look a bit high"
+    ],
+    "locking_fronts_lap_warning": [
+      "we're seeing lots of front locking",
+      "you're locking up your fronts a lot",
+      "you're locking your front brakes"
+    ],
+    "all_tyres_dirty": [
+      "you have dirt pick on all your tyres"
+    ],
+    "worn_left_rear": [
+      "we're seeing significant wear on your left rear",
+      "your left rear's showing some significant wear",
+      "your left rear has got some wear on it mate, keep an eye out"
+    ],
+    "good_wear_general": [
+      "your tyre wear looks fine, mate",
+      "we're not seeing any significant tyre wear"
+    ],
+    "right_rear_is_flat_spotted": [
+      "your right rear tyre is flat spotted"
+    ],
+    "minor_wear_rears": [
+      "your rear tyres have got a bit of wear",
+      "we're seeing minor wear on your rear tyres"
+    ],
+    "cold_tyres_all_round": [
+      "cold tyres all around",
+      "take it easy, you got cold tyres",
+      "your tyres are cold, watch out"
+    ],
+    "cooking_brakes_all_round": [
+      "your brake temperatures are all really high, we're gonna have to cool them",
+      "your brake temperatures are far too high",
+      "your brake temperatures are really high, mate, they're cooking"
+    ],
+    "worn_left_front": [
+      "that left front will be past its best soon",
+      "we're seeing significant wear on your left front",
+      "your left front's showing some wear, keep an eye on it"
+    ],
+    "cooking_rear_tyres": [
+      "you're cooking your rear tyres, mate",
+      "your rear tyres are really hot",
+      "your rear tyres are too hot, they're not gonna last"
+    ],
+    "knackered_rights": [
+      "your right side tyres have had it",
+      "your right sides are knackered, mate",
+      "your right side tyres are worn out"
+    ],
+    "left_front_is_flat_spotted": [
+      "your front left tyre is flat spotted"
+    ],
+    "hot_left_rear_tyre": [
+      "your left rear is hot",
+      "left rear tyre looks a little hot"
+    ],
+    "average_front_inner_temps_are": [
+      "your average front inner temps are",
+      "your average front inner temperatures are"
+    ],
+    "camber_ok": [
+      "it's probably fine",
+      "it looks okay",
+      "it looks okay to us",
+      "it looks about right",
+      "it's probably okay"
+    ],
+    "front_pressures_ok": [
+      "your front pressures look okay"
+    ],
+    "you_need_more_positive_camber": [
+      "you might need more positive camber"
+    ],
+    "left_rear_pressure_very_high": [
+      "your left rear pressure is very high"
+    ],
+    "laps_on_current_tyres_intro": [
+      "we think you should get about",
+      "we estimate about",
+      "we think you'll get about"
+    ],
+    "minutes_on_current_tyres_outro": [
+      "more minutes on these tyres",
+      "more minutes for this set of tyres"
+    ],
+    "minor_wear_right_front": [
+      "your right front has got minor wear",
+      "we're seeing a bit of wear on your right front",
+      "your right front's carrying a bit of wear"
+    ],
+    "primaries": [
+      "primaries"
+    ],
+    "knackered_rears": [
+      "your rear tyres look pretty shot",
+      "your rear tyres are knackered, mate",
+      "your rear tyres are worn out"
+    ],
+    "good_brake_temps": [
+      "your brake temperatures are fine",
+      "your brake temperatures look good",
+      "your brake temps are good",
+      "your brake temps look good",
+      "your brake temperatures are okay",
+      "your brake temperatures are looking good",
+      "your brake temperatures are fine, mate"
+    ],
+    "mediums": [
+      "mediums"
+    ],
+    "right_front_pressure_very_high": [
+      "your right front pressure is very high"
+    ],
+    "left_front": [
+      "left front",
+      "front left"
+    ],
+    "lr_inner_and_outer_are_same": [
+      "your left rear inner and outer temperatures are about the same",
+      "your inner and outer temps are about the same for your left rear",
+      "your left rear inner and outer temps are about the same"
+    ],
+    "cooking_left_tyres": [
+      "your left side tyres are far too hot",
+      "your left side tyres are really hot",
+      "you're cooking your left side tyres"
+    ],
+    "damage_to_left_front_tyre": [
+      "you've damaged your left front tyre"
+    ],
+    "cooking_left_rear_tyre": [
+      "your left rear's cooking, mate",
+      "your left rear is really hot",
+      "you're cooking your left rear tyre"
+    ],
+    "hot_brakes_all_round": [
+      "your brakes are hot all around",
+      "your brake temperatures are pretty high",
+      "your brakes are hot"
+    ],
+    "locking_right_front_corner_warning": [
+      "we're seeing right front locking into",
+      "you're locking your right front going into",
+      "you're locking your right front into"
+    ],
+    "you_need_more_negative_camber_on_fronts": [
+      "you might need more negative camber on the fronts"
+    ],
+    "rear_pressures_high": [
+      "your rear pressures are a bit high"
+    ],
+    "cold_front_brakes": [
+      "your front brakes are cold, take care",
+      "be careful, mate, your front brakes are cold",
+      "your front brakes are cold"
+    ],
+    "compound_a": [
+      "A's"
+    ],
+    "minor_wear_fronts": [
+      "your front tyres have got minor wear",
+      "we're seeing a bit of wear on your front tyres",
+      "we're seeing minor wear on the fronts"
+    ],
+    "left_rear_pressure_very_low": [
+      "your left rear pressure is very low"
+    ],
+    "average_rear_inner_and_outer_same": [
+      "your average rear inner and outer temperatures are about the same",
+      "your average rear inner and outer temps are about the same"
+    ],
+    "minor_wear_left_front": [
+      "we're seeing minor wear on your left front",
+      "your left front has a bit of wear",
+      "looks like a bit of wear on your left front"
+    ],
+    "hot_right_tyres": [
+      "your right side tyres are getting hot",
+      "right side tyres are hot",
+      "you need to watch your right side tyre temperatures"
+    ],
+    "rear_pressures_ok": [
+      "your rear pressures look okay"
+    ],
+    "spinning_right_rear_corner_warning": [
+      "you're spinning your right rear coming out of",
+      "we're seeing right rear wheel spin on the exit of",
+      "you're spinning your right rear in"
+    ],
+    "knackered_left_rear": [
+      "your left rear's had it, mate",
+      "that left rear tyre's shot",
+      "your left rear looks worn out to us"
+    ],
+    "left_rear_is_flat_spotted": [
+      "your rear left tyre is flat spotted"
+    ],
+    "wets": [
+      "wets"
+    ],
+    "spinning_rears_corner_warning": [
+      "you're spinning your rear tyres coming out of",
+      "you're spinning your rears on the exit of",
+      "we're seeing rear wheel spin on the exit of"
+    ],
+    "cooking_rear_brakes": [
+      "your rear brakes are really hot",
+      "your rear brakes are too hot, mate",
+      "your rear brakes have overheated, they're really hot"
+    ],
+    "you_need_more_positive_camber_on_fronts": [
+      "you might need more positive camber on the fronts"
+    ],
+    "softs": [
+      "softs"
+    ],
+    "front_pressures_very_low": [
+      "your front pressures are very low"
+    ],
+    "knackered_lefts": [
+      "it looks like your left side tyres are knackered, mate",
+      "we think your left side tyres have had it",
+      "I think your left side tyres will be wearing out now"
+    ],
+    "spinning_fronts_corner_warning": [
+      "you're spinning your fronts on the exit of",
+      "you're spinning your fronts in",
+      "you're spinning your fronts coming out of"
+    ],
+    "primes": [
+      "prime tyres",
+      "primes"
+    ],
+    "spinning_left_front_corner_warning": [
+      "you're spinning your left front coming out of",
+      "we're seeing left front wheel spin on the exit of",
+      "you're spinning your left front in"
+    ],
+    "minutes_on_current_tyres_intro": [
+      "we think you should get about",
+      "we estimate about",
+      "we think you'll get about"
+    ],
+    "celsius_colder_than_outer": [
+      "celsius colder than the outer"
+    ],
+    "average_front_inner_and_outer_same": [
+      "your average front inner and outer temperatures are about the same",
+      "your average front inner and outer temps are about the same"
+    ],
+    "hards": [
+      "hards"
+    ],
+    "right_front_pressure_ok": [
+      "your right front pressure looks okay"
+    ],
+    "fronts_are_flat_spotted": [
+      "your front tyres are flat spotted"
+    ],
+    "minor_wear_all_round": [
+      "we're seeing a bit of wear all around",
+      "you've got a bit of tyre wear on all your tyres",
+      "we're seeing minor wear all around"
+    ],
+    "right_rear_pressure_low": [
+      "your right rear pressure is a bit low"
+    ],
+    "lf_inner_and_outer_are_same": [
+      "your left front inner and outer temperatures are about the same",
+      "the inner and outer temperatures on your left front are about the same",
+      "your left front inner and outer temps are about the same"
+    ],
+    "hot_rear_brakes": [
+      "your rear brakes are getting pretty hot",
+      "your rear brakes are hot",
+      "your rear brakes are starting to overheat"
+    ],
+    "knackered_right_front": [
+      "that right front's gone, mate",
+      "that right front tyre looks knackered",
+      "your right front looks pretty worn out"
+    ],
+    "hot_front_tyres": [
+      "your front tyres are hot",
+      "your front tyres are looking a little hot",
+      "front tyres are hot, fronts are hot"
+    ],
+    "right_front_pressure_high": [
+      "your right front pressure is quite high"
+    ],
+    "right_rear": [
+      "rear right",
+      "right rear"
+    ],
+    "left_front_pressure_low": [
+      "your left front pressure looks quite low"
+    ],
+    "bar": [
+      "bar"
+    ],
+    "knackered_left_front": [
+      "I think your left front's gone",
+      "your left front tyre looks knackered, mate",
+      "that left front's looking heavily worn"
+    ],
+    "rear_pressures_very_low": [
+      "your rear pressures are very low"
+    ],
+    "knackered_fronts": [
+      "your front tyres are pretty knackered",
+      "your front tyres are worn out, mate",
+      "your front tyres have gone"
+    ],
+    "damage_to_rear_tyres": [
+      "you've damaged both rear tyres"
+    ],
+    "celsius_colder_than_outers": [
+      "celsius colder than the outers",
+      "celsius colder than your outers"
+    ],
+    "spinning_right_front_corner_warning": [
+      "you're spinning your right front coming out of",
+      "you're spinning your right front in",
+      "we're seeing right front wheel spin coming out of"
+    ],
+    "intermediates": [
+      "intermediates",
+      "inters"
+    ],
+    "worn_fronts": [
+      "you got some wear on your front tyres",
+      "we're seeing significant wear on the fronts",
+      "there's some wear on those front tyres, mate"
+    ],
+    "psi": [
+      "psi"
+    ],
+    "right_front_pressure_very_low": [
+      "your right front pressure is very low"
+    ],
+    "rear_pressures_very_high": [
+      "your rear pressures are very high"
+    ],
+    "hyper_softs": [
+      "hyper softs"
+    ],
+    "average_rear_inner_temps_are": [
+      "your average rear inner temps are",
+      "your average rear inner temperatures are"
+    ],
+    "locking_left_front_lap_warning": [
+      "you're locking your front left",
+      "you're locking your front left wheel",
+      "you're locking your front left tyre a lot"
+    ]
+  }
+}

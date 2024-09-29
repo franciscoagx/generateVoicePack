@@ -1,0 +1,96 @@
+{
+  "race_time": {
+    "zero_minutes_left": [
+      "checkered flag's out",
+      "checkered flag"
+    ],
+    "five_minutes_left_leading": [
+      "5 minutes remaining, bring it on home, you're the man",
+      "that's 5 minutes remaining, P1, come on, bring it home",
+      "5 minutes left, come on, keep your shit together, we can win this",
+      "that's 5 minutes remaining, we can win this",
+      "just 5 minutes left, hold your nerve, we can win this"
+    ],
+    "last_lap": [
+      "last lap",
+      "1 more lap to go"
+    ],
+    "one_more_lap_after_this_one": [
+      "1 more remaining after this one",
+      "1 more to go after this",
+      "1 more lap after this one"
+    ],
+    "five_minutes_left": [
+      "5 minutes remaining, 5 minutes left",
+      "5 minutes to go, 5 minutes left",
+      "that's 5 minutes to go, 5 minutes"
+    ],
+    "remaining": [
+      "remaining",
+      "to go"
+    ],
+    "half_way": [
+      "we're half-way home",
+      "we're at the half-way point",
+      "we're half-way through",
+      "you're half-way home",
+      "that's half-way",
+      "half-distance",
+      "that's half-distance"
+    ],
+    "last_lap_leading": [
+      "1 more lap to go, stay focused",
+      "1 more lap, you're P1",
+      "1 more lap for the win, come on",
+      "1 more lap, keep it together, we'll win this"
+    ],
+    "five_minutes_left_podium": [
+      "that's 5 minutes to go, come on, keep it together, we'll be on the podium here",
+      "5 minutes to go, you're looking good for a podium",
+      "5 minutes to go, this is good, we'll be on the podium if we can keep it together"
+    ],
+    "one_minute_remaining": [
+      "1 minute left",
+      "1 minute remaining",
+      "1 minute left, 1 minute"
+    ],
+    "less_than_one_minute": [
+      "less than 1 minute",
+      "less than a minute"
+    ],
+    "laps_remaining": [
+      "laps remaining",
+      "laps to go",
+      "laps left"
+    ],
+    "last_lap_top_three": [
+      "1 more to go, keep it together, we'll be on the podium",
+      "last lap, bring it on home",
+      "last lap, looking good for a podium"
+    ],
+    "this_is_the_last_lap": [
+      "this is your last lap",
+      "this is the last lap"
+    ],
+    "two_minutes_left": [
+      "2 minutes to go, 2 minutes",
+      "that's 2 minutes left, 2 minutes",
+      "just 2 minutes left, 2 minutes to go"
+    ],
+    "ten_minutes_left": [
+      "10 minutes to go, that's 10 minutes left",
+      "you got 10 minutes left, 10 minutes to go",
+      "10 minutes remaining, 10 minutes"
+    ],
+    "fifteen_minutes_left": [
+      "15 minutes left, that's 15 minutes",
+      "15 minutes left",
+      "15 minutes remaining, 15 minutes to go"
+    ],
+    "twenty_minutes_left": [
+      "that's 20 minutes to go",
+      "20 minutes remaining, you got 20 minutes left",
+      "that's 20 minutes to go, 20 minutes"
+    ]
+  }
+}

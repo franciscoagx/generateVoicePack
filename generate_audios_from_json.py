@@ -16,9 +16,6 @@ def parse_arguments():
         "--eleven_labs_api_key", type=str, required=True, help="ElevenLabs API key"
     )
     parser.add_argument(
-        "--voice_name", type=str, required=True, help="Your custom name for this voice"
-    )
-    parser.add_argument(
         "--voice_id",
         type=str,
         required=True,
@@ -27,8 +24,7 @@ def parse_arguments():
     parser.add_argument(
         "--subtitles_file",
         type=str,
-        default="data/spotter_subtitles.json",  # Default filename
-        help="Path to the spotter_subtitles.json file (default: spotter_subtitles.json)",
+        help="Path to the json file containing the phrases",
     )
     parser.add_argument(
         "--single_version",
@@ -46,65 +42,44 @@ def load_phrases(subtitles_file: str) -> dict:
     return data
 
 def generate_audio_samples(
-    eleven_labs_api_key: str, voice_name: str, voice_id: str, phrases: dict, single_version: bool
+    eleven_labs_api_key: str, voice_id: str, phrases: dict, single_version: bool
 ) -> None:
-    # Create base directory
-    base_dir = Path("voice")
-    base_dir.mkdir(parents=True, exist_ok=True)
+    for category, phrases_list in phrases.items():
+        for phrase_key, variants in phrases_list.items():
+            phrase_dir = Path(f"{category}") / phrase_key
+            phrase_dir.mkdir(parents=True, exist_ok=True)
+            
+            csv_rows = []  # List to store rows for the CSV file
+            audio_index = 1  # Counter for audio filenames
 
-    # Create directories for spotter and radio_check
-    spotter_dir = base_dir / f"spotter_{voice_name}"
-    radio_check_dir = base_dir / f"radio_check_{voice_name}"
-    
-    spotter_dir.mkdir(parents=True, exist_ok=True)
-    radio_check_dir.mkdir(parents=True, exist_ok=True)
+            # Determine number of versions to generate based on the --single_version flag
+            num_versions = 1 if single_version else (2 if len(variants) >= 5 else 3)
 
-    # Process spotter phrases
-    process_phrases(eleven_labs_api_key, voice_name, voice_id, phrases.get("spotter", {}), single_version, spotter_dir)
+            for variant in variants:
+                for idx in range(1, num_versions + 1):  # 1, 2, or 3 versions depending on the flag
+                    audio_filename = f"{phrase_key}_{audio_index}.wav"  # Audio filename
+                    csv_rows.append([audio_filename, variant])  # Add row for CSV file
+                    generate_speech_elevenlabs(
+                        eleven_labs_api_key=eleven_labs_api_key,
+                        text=variant,
+                        voice_id=voice_id,
+                        output_dir=phrase_dir,
+                        output_filename=f"{phrase_key}_{audio_index}",
+                    )
+                    audio_index += 1  # Increment counter
 
-    # Process radio_check phrases
-    process_phrases(eleven_labs_api_key, voice_name, voice_id, phrases.get("radio_check", {}), single_version, radio_check_dir)
+            # Create CSV file in the same directory as the WAV files
+            csv_file_path = phrase_dir / "subtitles.csv"
+            with open(csv_file_path, "w", newline='') as csvfile:
+                csv_writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+                for row in csv_rows:
+                    csv_writer.writerow(row)
 
-    print(f"Audio sample generation complete for {voice_name} in {base_dir}")
-
-def process_phrases(
-    eleven_labs_api_key: str, voice_name: str, voice_id: str, phrases: dict, single_version: bool, output_base_dir: Path
-) -> None:
-    for phrase_key, variants in phrases.items():  # Accedemos a las frases directamente
-        phrase_dir = output_base_dir / phrase_key
-        phrase_dir.mkdir(parents=True, exist_ok=True)
-
-        csv_rows = []  # List to store rows for the CSV file
-        audio_index = 1  # Counter for audio filenames
-
-        # Determine number of versions to generate based on the --single_version flag
-        num_versions = 1 if single_version else (2 if len(variants) >= 5 else 3)
-
-        for variant in variants:  # Iteramos sobre las variantes de cada frase
-            for idx in range(1, num_versions + 1):  # 1, 2, or 3 versions depending on the flag
-                audio_filename = f"{phrase_key}_{audio_index}.wav"  # Audio filename
-                csv_rows.append([audio_filename, variant])  # Add row for CSV file
-                generate_speech_elevenlabs(
-                    eleven_labs_api_key=eleven_labs_api_key,
-                    text=variant,
-                    voice_name=voice_name,
-                    voice_id=voice_id,
-                    output_dir=phrase_dir,
-                    output_filename=f"{phrase_key}_{audio_index}",
-                )
-                audio_index += 1  # Increment counter
-
-        # Create CSV file in the same directory as the WAV files
-        csv_file_path = phrase_dir / "subtitles.csv"
-        with open(csv_file_path, "w", newline='') as csvfile:
-            csv_writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
-            for row in csv_rows:
-                csv_writer.writerow(row)
+    print(f"Audio sample generation complete for the phrases in {Path().resolve()}")
 
 def generate_speech_elevenlabs(
     eleven_labs_api_key: str,
     text: str,
-    voice_name: str,
     voice_id: str,
     output_dir: Path,
     output_filename: str,
@@ -159,4 +134,4 @@ if __name__ == "__main__":
     args = parse_arguments()
     print("Generating audio samples using ElevenLabs API...")
     phrases = load_phrases(args.subtitles_file)
-    generate_audio_samples(args.eleven_labs_api_key, args.voice_name, args.voice_id, phrases, args.single_version)
+    generate_audio_samples(args.eleven_labs_api_key, args.voice_id, phrases, args.single_version)

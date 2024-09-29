@@ -1,0 +1,36 @@
+{
+  "composite_personalisation_stubs": {
+    "bad_luck": [
+      "mala suerte",
+      "qué lástima",
+      "no tuvimos suerte esta vez",
+      "qué mal, no fue nuestro día"
+    ],
+    "come_on": [
+      "vamos",
+      "dale, podemos hacerlo",
+      "venga, no te rindas"
+    ],
+    "oh_dear": [
+      "oh, qué mal",
+      "vaya, qué desastre",
+      "uff, eso no salió bien",
+      "oh no, qué pena"
+    ],
+    "ok": [
+      "ok, entendido",
+      "vale, estamos bien",
+      "ok, todo claro",
+      "entendido, seguimos adelante"
+    ],
+    "please": [
+      "por favor"
+    ],
+    "well_done": [
+      "bien hecho",
+      "gran trabajo",
+      "excelente, lo hiciste genial",
+      "buen trabajo, sigue así"
+    ]
+  }
+}

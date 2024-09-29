@@ -1,0 +1,564 @@
+{
+  "penalties": {
+    "stop_go_penalty_speeding_in_pit_lane": [
+      "we've got had a stop-go penalty for speeding in the pit lane",
+      "we've just had a stop-go penalty for speeding in the pit lane"
+    ],
+    "penalty_one_lap_left_stopgo": [
+      "box for your stop-go penalty on this lap",
+      "we need to serve this stop-go penalty on this lap",
+      "come in for your stop-go on this lap",
+      "come in for your stop-go penalty at the end of this lap"
+    ],
+    "points_will_be_awarded_this_lap": [
+      "penalty points will be awarded this lap"
+    ],
+    "drive_through_overtaking_under_yellow": [
+      "we've just had a drive-through penalty for passing under yellow",
+      "we've just had a drive-through for overtaking under yellow",
+      "we've just had a drive-through for passing under yellow"
+    ],
+    "drive_through_speeding_in_pit_lane": [
+      "we've just been given a drive-through for speeding in the pit lane",
+      "we just had a drive-through for speeding in the pit lane",
+      "we've just had a drive-through penalty for speeding in the pit lane"
+    ],
+    "cut_track_in_prac_or_qual": [
+      "come on, keep it between the lines, they'll delete this lap",
+      "keep it between the white lines",
+      "track limits, come on, this lap will be deleted",
+      "track limits, come on, keep it between the white lines",
+      "this lap will be deleted, watch the track limits",
+      "this lap won't count, you've cut the track",
+      "come on, man, watch them track limits, this lap won't count",
+      "this lap won't count, track limits",
+      "this lap will be invalidated, watch the track limits",
+      "track limits, they'll invalidate this lap",
+      "track limits, the lap won't count",
+      "come on, watch those track limits, this lap will be deleted",
+      "they'll delete this lap, you've cut the track",
+      "come on, keep it between the white lines, this lap won't count",
+      "track limits, this lap will be deleted",
+      "you've gone outside of track limits there",
+      "this lap won't count, watch those track limits",
+      "track limits, come on, this lap won't count",
+      "watch those track limits",
+      "watch those track limits, they'll delete this lap",
+      "the stewards have warned us for cutting the track, they'll delete this lap"
+    ],
+    "stop_go_penalty_cutting_track": [
+      "we've just had a stop-go penalty for cutting the track"
+    ],
+    "lap_deleted": [
+      "they'll delete this lap, you cut the track",
+      "you've just gone outside of track limits, this lap will be deleted",
+      "you've cut the track, they'll delete the lap",
+      "come on, track limits, this lap won't count",
+      "keep it between the white lines, this lap's been invalidated",
+      "this lap's been invalidated, watch those track limits",
+      "this lap won't count, you've cut the track",
+      "this lap won't count, you're cutting the track"
+    ],
+    "time_penalty": [
+      "we've just been given a time penalty",
+      "we've just been handed a time penalty",
+      "bollocks, we've just had a time penalty",
+      "we've just had a time penalty"
+    ],
+    "drive_through_ignored_blue": [
+      "we've had a drive-through for ignoring blue flags",
+      "we've had a drive-through for ignoring the blue flags",
+      "we've just had a drive-through for ignoring blue flags"
+    ],
+    "one_lap_to_serve_drive_through": [
+      "we got 1 lap to serve this drive-through penalty",
+      "1 lap to serve the drive-through penalty",
+      "we've got 1 lap to serve this drive-through penalty",
+      "we've got 1 lap left to serve this drive-through penalty"
+    ],
+    "cut_track_in_race": [
+      "track limits, come on",
+      "we've been warned about track limits",
+      "come on, track limits, keep it between the lines",
+      "we just had a warning for cutting the track",
+      "keep it within the track limits",
+      "keep it between the lines, track limits",
+      "you've gone outside track limits, come on, keep it between the lines",
+      "the stewards have warned us for cutting the track, keep it between the white lines",
+      "the stewards have warned us about track limits",
+      "keep it between the white lines or we'll get a penalty",
+      "watch those track limits or we'll get a penalty",
+      "watch those track limits, we don't want a penalty",
+      "watch the track limits, we'll get a penalty if we don't",
+      "watch those track limits",
+      "track limits, come on, keep it between the white lines",
+      "watch the track limits",
+      "come on, track limits",
+      "the stewards have warned us about track limits, keep it between the lines"
+    ],
+    "warning_unsportsmanlike_driving": [
+      "we've had a warning for unsportsmanlike driving",
+      "stay calm, mate, we've had a warning for unsportsmanlike driving",
+      "we've just had a warning for unsportsmanlike driving, come on, calm it down",
+      "we've just had a warning for unsportsmanlike driving, come on, keep cool",
+      "step it down a bit, mate, we've had a warning for unsportsmanlike driving",
+      "we've had a warning for unsportsmanlike driving, come on, get your act together",
+      "we've just had a warning for unsportsmanlike driving"
+    ],
+    "too_many_car_to_car_collisions": [
+      "come on mate, this ain't banger racing",
+      "be careful, you're not racing bangers",
+      "come on, stop driving into people",
+      "come on, this ain't bumper-cars"
+    ],
+    "new_penalty_stopgo": [
+      "we've just been handed a stop-go penalty",
+      "we've just been given a stop-go penalty",
+      "aw, crap, we've just had a stop-go penalty",
+      "we've just had a stop-go penalty",
+      "bollocks, we've had a stop-go"
+    ],
+    "car_to_car_collision": [
+      "be careful please",
+      "come on, wake up",
+      "be careful",
+      "take care please",
+      "come on, be careful"
+    ],
+    "cut_track_race_1": [
+      "we've been warned about track limits",
+      "track limits",
+      "we've just cut the track",
+      "we just had a warning for cutting the track",
+      "we've gone out of track limits, keep it between the white lines",
+      "keep it within the track limits",
+      "track limits, watch those lines",
+      "the stewards have warned us for cutting the track, keep it between the white lines",
+      "we've had a cut warning, keep it tidy",
+      "stay between the lines",
+      "pay attention to track limits",
+      "the stewards have warned us about track limits, keep it between the lines",
+      "you cut the track, keep it nice and tidy"
+    ],
+    "drive_through_cutting_track": [
+      "we've had a drive-through for track limits violations",
+      "we've just had a drive-through penalty for cutting the track",
+      "we've had a drive-through penalty for cutting the track",
+      "we've had a drive-through for cutting the track",
+      "we've had a drive-through penalty for track limits violations",
+      "we've just had a drive-through for cutting the track"
+    ],
+    "disqualified_exceeded_allowed_lap_count": [
+      "you've exceeded your allotted laps, you've been disqualified",
+      "we've exceeded our allotted laps, we've been disqualified",
+      "we've done more laps than we're allowed here, we've been disqualified",
+      "we've been disqualified for exceeding the maximum number of laps allowed",
+      "you've been disqualified for exceeding the number of qualification laps allowed"
+    ],
+    "cut_track_prac_or_qual_3": [
+      "track limits, come on",
+      "come on, watch those track limits, this lap will be deleted",
+      "that's another deleted lap, track limits",
+      "this lap will be deleted, watch those track limits",
+      "ah shit, man, that's another lap deleted, track limits",
+      "just watch these fucking track limits",
+      "come on, track limits, you're starting to take the piss now",
+      "track limits, come on, this lap won't count",
+      "watch those track limits",
+      "come on, keep it between the white lines, this lap won't count",
+      "we've got to pay attention to the track limits",
+      "track limits, come on, keep it between the white lines",
+      "watch those track limits, they'll delete this lap",
+      "come on, watch these fucking track limits",
+      "you keep cutting, come on, track limits"
+    ],
+    "stop_go_penalty_overtaking_on_formation_lap": [
+      "we've just had a stop-go penalty for passing on the formation lap",
+      "we've just had a stop-go penalty for overtaking on the formation lap"
+    ],
+    "cut_track_race_4": [
+      "track limits, come on",
+      "start respecting the track limits",
+      "can you even see the track? stop cutting",
+      "track fucking limits",
+      "are you even trying to keep it on the track",
+      "come on, track limits, they're there for a reason, stop taking the piss",
+      "track limits, for fuck's sake, come on, track limits",
+      "that's another cut, come on, pay attention",
+      "track limits again, come on",
+      "shit, I'm sick of saying this, track limits",
+      "pay some attention to the track limits"
+    ],
+    "penalty_one_lap_left_to_pit": [
+      "we need to come and serve our penalty on this lap"
+    ],
+    "still_have_to_serve_drive_through": [
+      "you still have to serve this drive-through penalty",
+      "we've still got to serve this drive-through penalty",
+      "we still need to serve our drive-through penalty",
+      "you still need to serve your drive-through penalty",
+      "we still got to serve this drive-through penalty"
+    ],
+    "you_dont_have_a_penalty": [
+      "you don't have a penalty"
+    ],
+    "drive_through_exceeding_single_stint_time": [
+      "we've had a drive-through penalty for exceeding the maximum driver stint time",
+      "you've exceeding the driver stint time, you got a drive-through penalty",
+      "we've exceeding the maximum driver stint time, you've got a drive-through penalty",
+      "we've had a drive-through penalty, you've exceeded the maximum driver stint time"
+    ],
+    "you_still_have_a_penalty": [
+      "You still have a penalty",
+      "you've still got a penalty"
+    ],
+    "penalty_two_laps_left": [
+      "we got 2 laps left to come in and serve this penalty",
+      "come in to serve this penalty in the next 2 laps",
+      "we need to come in for this penalty in the next 2 laps",
+      "we got 2 laps to come in for this penalty"
+    ],
+    "cut_track_race_3": [
+      "start taking these track limits seriously",
+      "track limits, please, we don't want a penalty",
+      "you've cut again, stop taking the piss",
+      "track limits, come on, keep it between the white lines",
+      "the stewards have warned us again, track limits",
+      "pay more attention to track limits",
+      "please watch the track limits",
+      "we've had another track limits warning",
+      "track limits, again",
+      "you've cut the track again, concentrate",
+      "we've had another warning about track limits",
+      "come on, track limits",
+      "shit, man, that's another cut, come on, track limits",
+      "we're still cutting, get on top of it, please",
+      "come on, get it together, you keep cutting",
+      "if you don't stop cutting we will get a penalty",
+      "you've really gotta pay attention to these track limits",
+      "come on, stop cutting",
+      "watch those track limits",
+      "watch the track limits",
+      "stop this persistent cutting",
+      "come on I'm sick of telling you, watch the bloody track limits"
+    ],
+    "still_have_to_serve_stop_go": [
+      "you've still got to serve your stop-go penalty",
+      "we've still got to serve our stop-go penalty",
+      "we still need to serve this stop-go penalty",
+      "you still have to serve your stop-go penalty"
+    ],
+    "warning_enter_pits_to_serve_penalty": [
+      "we've just been warned, we've got to enter the pits to serve this penalty",
+      "we've just had a warning, we need to enter the pits now to serve our penalty",
+      "we've just had a warning, we've got to enter the pits to serve our penalty",
+      "we've had a warning, we need to enter the pits now to serve this penalty",
+      "we need to enter the pits now to serve this penalty, we've just had a warning"
+    ],
+    "warning_headlights_required": [
+      "headlights are required, turn them on, please",
+      "headlights are now required",
+      "you need to turn your headlights on, headlights are required now"
+    ],
+    "warning_enter_pits_to_avoid_exceeding_laps": [
+      "enter the pits to avoid exceeding the lap allowance",
+      "we've done as many laps as we're allowed, box this lap",
+      "enter the pits to avoid exceeding your lap allowance",
+      "box this lap to avoid exceeding your lap allowance",
+      "we've used our lap allowance, we need to pit this lap",
+      "we've used our lap allowance, pit this lap"
+    ],
+    "penalty_disqualified": [
+      "we've been disqualified",
+      "the bastards have just disqualified us, missed that stupid penalty",
+      "looks like we've been disqualified"
+    ],
+    "disqualified_ignored_drive_through": [
+      "you've ignored your drive-through penalty, they've just disqualified you",
+      "they've just disqualified us, we've ignored a drive-through penalty",
+      "we've just been disqualified for ignoring the drive-through",
+      "we've just been disqualified for ignoring a drive-through penalty",
+      "okay, mate, we've been disqualified for ignoring a drive-through"
+    ],
+    "new_penalty_drivethrough": [
+      "aw shit, we've just been given a drive-through",
+      "we've just been given a drive-through",
+      "cock, just had a drive-through",
+      "we've just been handed a drive-through penalty",
+      "we've just had a drive-through penalty"
+    ],
+    "stop_go_penalty_overtaking_under_yellow": [
+      "we've just had a stop-go penalty for passing under yellow",
+      "we've just had a stop-go penalty for passing under yellow flag",
+      "we've just had a stop-go penalty for overtaking under yellow"
+    ],
+    "drive_through_false_start": [
+      "we've had a drive-through penalty for a false-start",
+      "we've just had a drive-through for a false-start",
+      "drive-through penalty for a false-start",
+      "we've got a drive-through for a false start",
+      "we've been given a drive-through penalty for a false-start",
+      "we've had a drive-through for a false-start",
+      "we've just had a drive-through for jumping the start"
+    ],
+    "one_more_off_track_before_kick": [
+      "we're on the verge of being disqualified here, keep it clean please",
+      "they're about to disqualify us, keep it clean, no more track limits violations or car bumps",
+      "keep it clean, no more track limits violations or bumps, we'll be disqualified",
+      "we're about to be disqualified from this race, calm down, keep it clean",
+      "concentrate please, we're on the verge of being disqualified here, keep it clean",
+      "one more track limits violation and you're out, you're about to be disqualified",
+      "we're on the verge of being disqualified here, any more cut-tracks and you're out",
+      "calm down please, they're disqualify us for one more track limit violation or bump",
+      "no more collisions or cut tracks please, they're disqualify us if we do"
+    ],
+    "one_lap_to_serve_stop_go": [
+      "we've got 1 lap to serve this stop-go penalty",
+      "we've got 1 lap left to serve this stop-go penalty",
+      "1 lap left to serve this stop-go penalty",
+      "we've got 1 lap left to serve the stop-go penalty"
+    ],
+    "blue_move_now_or_be_penalized": [
+      "blue flag, move now or we'll be penalized",
+      "blue flag, let him go or we'll be penalized",
+      "let this guy through, or we're gonna get penalized",
+      "blue flag, you've got to let this guy through or they'll give us a penalty",
+      "blue flag, let him go or we'll get a penalty",
+      "let this guy through or we'll be penalized, blue flag",
+      "blue flag, move over or we will be penalized"
+    ],
+    "drive_through_overtaking_under_safety_car": [
+      "we've just had a drive-through penalty for passing under the safety car",
+      "we've just had a drive-through for passing under the safety car"
+    ],
+    "possible_track_limits_warning": [
+      "that might be outside track limits",
+      "looks like that was outside track limits",
+      "you were out of track limits there",
+      "we think you might have gone outside of track limits there",
+      "you've just got out of track limits",
+      "you're outside track limits there"
+    ],
+    "cut_track_prac_or_qual_1": [
+      "track limits",
+      "they'll delete this lap, you've cut the track",
+      "this lap won't count, you cut the track",
+      "mind these track limits",
+      "we need to watch the track limits",
+      "track limits, keep it between the lines",
+      "you've gone outside of track limits there",
+      "we need to watch these track limits",
+      "you're outside of track limits there",
+      "they'll delete this lap, track limits",
+      "this lap will be invalidated, watch the track limits",
+      "track limits, they'll invalidate this lap",
+      "they'll invalidate this lap, track limits",
+      "watch the track limits",
+      "track limits, this lap will be deleted"
+    ],
+    "meatball_flag": [
+      "meatball flag, we'll need to come into the pits for repairs",
+      "the stewards have called us into the pits for repairs",
+      "we've been called into the pits for repairs",
+      "we've been called into the pits by the stewards for repairs",
+      "we'll need to pit for repairs, we've been called in by the stewards"
+    ],
+    "stop_go_penalty_false_start": [
+      "we've just had a stop-go penalty for jumping the start",
+      "we've had a stop-go penalty for a false start",
+      "we've got a stop-go penalty for jumping the start"
+    ],
+    "new_penalty_slowdown": [
+      "you'll need to slow down a bit if you don't want a penalty",
+      "you'll need to slow down to give back the time gained",
+      "you'll need to give back the time gained",
+      "you'll need to slow down if you don't want a penalty",
+      "we need to slow down and give back some time"
+    ],
+    "new_penalty_black_flag": [
+      "black flag, we'll need to come into the pits to serve the penalty"
+    ],
+    "stop_go_exitting_pits_on_red": [
+      "we've had a stop-go penalty for exiting the pits under red lights",
+      "we've had a stop-go penalty for exiting the pits under red",
+      "the light was red when we exited the pits, we're gonna have a stop-go penalty",
+      "we've been given a stop-go penalty for exiting the pits under red light",
+      "the light was red when you left the pits, we're gonna get a stop-go penalty"
+    ],
+    "warning_driving_too_slow": [
+      "you're going too slowly, speed up",
+      "we've had a warning for driving too slowly",
+      "we're going too slowly, speed up",
+      "you're driving too slowly"
+    ],
+    "cut_track_prac_or_qual_4": [
+      "come on, keep it between the lines, they'll delete this lap",
+      "track limits, what the hell's wrong with you",
+      "come on, you're still cutting, track limits",
+      "track limits, come on, concentrate",
+      "come on, track limits, you're taking the absolute piss now",
+      "come on, man, watch them track limits, this lap won't count",
+      "lap deleted, this is getting silly",
+      "come on, this is bollocks, stop cutting",
+      "come on, at least try and keep it on the track",
+      "stop fucking cutting",
+      "track limits, come on, this lap will be deleted",
+      "another lap deleted, pay attention",
+      "bloody hell, man, track limits, come on",
+      "track limits, again"
+    ],
+    "cut_track_in_prac_or_qual_next_invalid": [
+      "keep it between the white lines, they'll delete the lap and they'll delete the next one, too",
+      "you've gone out of track limits, they'll delete this lap and the one after it",
+      "track limits, they'll delete the next lap as well as this one",
+      "track limits, come on, they're gonna delete this lap and they'll delete the next one, too",
+      "you've cut the track, they're gonna delete the lap and they'll delete the next one, too",
+      "track limits, come on, concentrate, they're gonna delete the next lap, too",
+      "track limits, they'll delete this lap and the next one",
+      "come on, concentrate, keep it between the white lines, you've lost this lap and the next one"
+    ],
+    "penalty_one_lap_left_drivethrough": [
+      "we need to serve this drive-through penalty on this lap",
+      "come in at the end of this lap for your drive-through penalty",
+      "we need to come in for this drive-through at the end of the lap",
+      "we need to serve this drive-through penalty at the end of this lap"
+    ],
+    "penalty_three_laps_left": [
+      "you've got 3 laps to serve this penalty",
+      "you need to come in for this penalty in the next 3 laps",
+      "you got 3 laps to serve this penalty"
+    ],
+    "cut_track_race_2": [
+      "come on, track limits, keep it between the lines",
+      "we've been warned about track limits",
+      "keep it between the lines, track limits",
+      "you've gone outside track limits, come on, keep it between the lines",
+      "the stewards have warned us about track limits",
+      "keep it between the white lines or we'll get a penalty",
+      "watch those track limits or we'll get a penalty",
+      "watch those track limits, we don't want a penalty",
+      "watch the track limits, we'll get a penalty if we don't",
+      "watch those track limits",
+      "come on, watch these track limits",
+      "watch the track limits, please",
+      "you gotta watch these track limits",
+      "come on, track limits"
+    ],
+    "pit_now_drive_through": [
+      "box now for your drive-through",
+      "box, box, box, serve this drive-through now",
+      "pit now for your drive-through penalty"
+    ],
+    "one_more_collision_before_kick": [
+      "stop driving into people, they'll disqualify us if we do it again",
+      "come on, this ain't banger racing, one more collision and we'll be disqualified",
+      "calm it down please, one more collision and we'll be out",
+      "one more collision and we're out, stop with the banger racing",
+      "you're one collision away from being disqualified, calm down",
+      "we'll be disqualified if we hit another car, calm down"
+    ],
+    "disqualified_ignored_stop_and_go": [
+      "ah, we're disqualified, mate, we ignored a stop-and-go penalty",
+      "you've just been disqualified, you've ignored your stop-and-go penalty",
+      "we've been disqualified for ignoring a stop-and-go penalty",
+      "they've just disqualified us, we've ignored a stop-and-go penalty"
+    ],
+    "cut_track_prac_or_qual_2": [
+      "watch these track limits",
+      "you've gone out of track limits again, they'll delete this lap",
+      "they'll delete this lap, stay within the track limits",
+      "keep it between the white lines",
+      "come on, track limits, that's another cut",
+      "that's another cut, this lap will be deleted",
+      "this lap won't count, track limits",
+      "this lap won't count, watch those track limits",
+      "stay within the track limits",
+      "watch those track limits",
+      "this lap will be deleted, watch the track limits",
+      "track limits, the lap won't count",
+      "that's another cut, track limits",
+      "track limits, they'll delete this lap",
+      "the stewards have warned us for cutting the track, they'll delete this lap"
+    ],
+    "drive_through_overtaking_on_formation_lap": [
+      "we just had a drive-through for overtaking on the formation lap",
+      "we've just had a drive-through penalty for passing on the formation lap",
+      "we just had a drive-through for passing on the formation lap"
+    ],
+    "penalty_served": [
+      "you've served your penalty",
+      "your penalty's completed",
+      "you served your penalty"
+    ],
+    "slow_down_penalty_cutting_track": [
+      "we've just had a slowdown penalty for cutting the track",
+      "we've had a slowdown penalty for cutting the track"
+    ],
+    "stop_go_penalty_overtaking_under_pace_car": [
+      "we've just had a stop-go penalty for passing under the pace car"
+    ],
+    "stop_go_penalty_overtaking_under_safety_car": [
+      "we've just had a stop-go penalty for passing under the safety car",
+      "we've just had a stop-go for passing under the safety car"
+    ],
+    "penalty_not_served": [
+      "you still need to serve your penalty",
+      "you still haven't served this penalty",
+      "you've still got an outstanding penalty"
+    ],
+    "you_have_a_penalty": [
+      "you have a penalty"
+    ],
+    "disqualified_driving_without_headlights": [
+      "we've been disqualified for driving in the dark without headlights",
+      "we've been driving in the dark without headlights, we've been disqualified",
+      "we've just been disqualified for driving in the dark without headlights",
+      "just been disqualified, you've been driving without headlights"
+    ],
+    "stop_go_exceeding_single_stint_time": [
+      "we've had a stop-go penalty, we've exceeded the driver stint time maximum",
+      "you've exceeded the maximum driver stint time, we got a stop-go penalty",
+      "we've just had a stop-go penalty for exceeding the maximum driver stint time",
+      "you've exceeded the driver stint time, you got a stop-go penalty"
+    ],
+    "pit_now_stop_go": [
+      "box, box, box for this stop-go penalty",
+      "box, box, box, pit now for your penalty",
+      "pit for your stop-go penalty now, box, box, box"
+    ],
+    "drive_through_overtaking_under_pace_car": [
+      "we've just had a drive-through for overtaking under the pace car",
+      "we've just had a drive-through for passing under the pace car",
+      "we've just had a drive-through for overtaking under pace car"
+    ],
+    "warning_wrong_way": [
+      "we're going the wrong way",
+      "that's the wrong way, turn around",
+      "you're going the wrong way"
+    ]
+  },
+  "pace_notes": {
+    "recording_started": [
+      "pace notes recording started",
+      "ok, we're now recording pace notes",
+      "pace notes are now recording"
+    ],
+    "playback_ended": [
+      "ok, pace notes are now stopped",
+      "stopping pace notes",
+      "pace notes are stopped"
+    ],
+    "recording_ended": [
+      "pace notes completed",
+      "pace notes recording stopped",
+      "ok, pace notes completed",
+      "ok, pace notes finished"
+    ],
+    "playback_started": [
+      "playing pace notes",
+      "ok, enabling pace notes",
+      "acknowledged, pace notes are now enabled",
+      "ok, pace notes will now play"
+    ]
+  }
+}

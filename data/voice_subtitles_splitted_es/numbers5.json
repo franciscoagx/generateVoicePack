@@ -1,0 +1,61 @@
+{
+  "numbers": {
+    "point00": [
+      "punto cero cero"
+    ],
+    "point01": [
+      "punto cero uno"
+    ],
+    "point02": [
+      "punto cero dos"
+    ],
+    "point03": [
+      "punto cero tres"
+    ],
+    "point04": [
+      "punto cero cuatro"
+    ],
+    "point05": [
+      "punto cero cinco"
+    ],
+    "point06": [
+      "punto cero seis"
+    ],
+    "point07": [
+      "punto cero siete"
+    ],
+    "point08": [
+      "punto cero ocho"
+    ],
+    "point09": [
+      "punto cero nueve"
+    ],
+    "point1seconds": [
+      "punto uno segundos"
+    ],
+    "point2seconds": [
+      "punto dos segundos"
+    ],
+    "point3seconds": [
+      "punto tres segundos"
+    ],
+    "point4seconds": [
+      "punto cuatro segundos"
+    ],
+    "point5seconds": [
+      "punto cinco segundos"
+    ],
+    "point6seconds": [
+      "punto seis segundos"
+    ],
+    "point7seconds": [
+      "punto siete segundos"
+    ],
+    "point8seconds": [
+      "punto ocho segundos"
+    ],
+    "point9seconds": [
+      "punto nueve segundos"
+    ]
+  }
+}

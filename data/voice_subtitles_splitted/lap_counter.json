@@ -1,0 +1,208 @@
+{
+  "lap_counter": {
+    "minutes_you_need_to_get_on_with_it": [
+      "minutes, you really need to get on with it",
+      "minutes, you've not got much time to sort this out",
+      "minutes, you'll need to get on with this"
+    ],
+    "finished_race_last": [
+      "okay, it's over, bloody awful result, mate",
+      "okay, that's the end, let's get out of here, try and forget this one, eh",
+      "that was a fucking waste of time",
+      "there's the checkered flag, that's disappointing",
+      "shit result, mate, hard luck",
+      "there's the checkered flag, shit day, mate, let's just pack up and go home"
+    ],
+    "laps_make_them_count": [
+      "laps, let's make them count",
+      "laps, let's make 'em count",
+      "laps, make 'em count"
+    ],
+    "rejoin_at_back": [
+      "you'll need to wait for the field and rejoin at the back",
+      "you'll need to rejoin at the back of the field",
+      "you'll need to rejoin at the back"
+    ],
+    "manual_formation_lap_mode_disabled": [
+      "understood, no rolling start",
+      "acknowledged, no formation lap"
+    ],
+    "end_of_session": [
+      "that's the end of the session"
+    ],
+    "last_lap": [
+      "one more to go",
+      "last lap",
+      "one more lap to go"
+    ],
+    "finished_race": [
+      "that's the end of the race, bad luck, mate",
+      "there we go, it's over, bring it back round",
+      "okay, we're done",
+      "that's it, we're done",
+      "that's the end of the race, we'll get 'em next time",
+      "that's the end of the race, never mind",
+      "there's the checkered flag",
+      "okay, it's over"
+    ],
+    "end_of_session_pole": [
+      "that's the end of the session, pole position, well done, mate",
+      "that's the end of the session, pole position, nice one",
+      "that's the end of the session, you're on pole, well done"
+    ],
+    "two_to_go_top_three": [
+      "two laps left, we're on for a podium here",
+      "two laps left, come on, you're looking good for a podium",
+      "two to go, keep it together, we'll be on the podium"
+    ],
+    "two_to_go_leading": [
+      "two laps left, you're P1",
+      "two to go, stay focused, we can win this",
+      "two to go, you're in the lead",
+      "two to go, come on, you're the man"
+    ],
+    "give_that_position_back": [
+      "give that position back",
+      "we need to give that position back"
+    ],
+    "hold_this_position_until_start_line": [
+      "stay in this position until the start line",
+      "maintain this position until the start line",
+      "hold this position until the start line"
+    ],
+    "starting_in_right_lane_behind": [
+      "we'll be in the right pace column behind",
+      "we'll be on the right-hand side behind",
+      "we'll be in the right lane behind"
+    ],
+    "leader_has_crossed_start_line": [
+      "the leaders are under green",
+      "the leader's crossed the line",
+      "the race leader's crossed the line"
+    ],
+    "green_green_green": [
+      "go, go, go",
+      "let's go",
+      "green, green, green",
+      "floor it",
+      "go, nail it",
+      "green, let's go, let's go",
+      "floor it, green, green, green",
+      "go"
+    ],
+    "get_ready": [
+      "here we go",
+      "okay, let's try to avoid the turn 1 clusterfuck",
+      "get ready, mate, it's hammer time",
+      "be ready",
+      "okay, get ready",
+      "here we go, get ready",
+      "be ready, watch for the lights",
+      "get ready, mate",
+      "stay calm, focus",
+      "be ready, we're about to go green",
+      "here we go, don't fuck this up",
+      "heads up, we're going green",
+      "concentrate, be ready",
+      "here we go, be ready",
+      "heads up, get ready",
+      "watch for the lights",
+      "let's get this right, no fuck ups",
+      "get ready, keep your nose clean",
+      "nice and neat, stay out of trouble",
+      "get ready",
+      "okay, mate, get ready, relax",
+      "get ready, time to focus",
+      "okay, mate, get ready"
+    ],
+    "manual_formation_lap_mode_enabled": [
+      "okay, rolling start",
+      "acknowledged, manual rolling start",
+      "understood, manual formation lap"
+    ],
+    "leader_has_gone": [
+      "the leader's started",
+      "the leader has gone",
+      "the leader's floored it",
+      "the leader's accelerating",
+      "the leader's gone"
+    ],
+    "hold_your_position": [
+      "hold your position",
+      "you need to hold your position"
+    ],
+    "white_flag_last_lap": [
+      "white flag, one more lap",
+      "white flag, last lap",
+      "white flag, one more to go"
+    ],
+    "starting_in_left_lane_behind": [
+      "we'll be on the left-hand side behind",
+      "we'll be in the left column behind",
+      "we'll be in the left pace line behind"
+    ],
+    "last_lap_leading": [
+      "one more lap for the win, come on",
+      "one more lap to go, stay focused",
+      "one more lap, you're P1",
+      "last lap, keep your shit together, you're not home yet",
+      "one more lap, keep it together, we'll win this"
+    ],
+    "until_start_line": [
+      "until we cross the line",
+      "until the start line"
+    ],
+    "last_lap_top_three": [
+      "one more to go, keep it together, we'll be on the podium",
+      "last lap, bring it on home",
+      "last lap, looking good for a podium"
+    ],
+    "hold_position_behind": [
+      "hold your position behind",
+      "stay behind",
+      "hold position behind"
+    ],
+    "won_race": [
+      "that's a win, great job, well done",
+      "fucking awesome result, mate, well done",
+      "shit, we won, wow",
+      "you won, fantastic drive",
+      "well done, mate, that was absolutely perfect, great win",
+      "perfect drive, absolutely flawless",
+      "great win, you deserve that today",
+      "well done, mate, you made 'em all look silly today"
+    ],
+    "finished_race_good_finish": [
+      "okay, it's over, good drive",
+      "there's the finish, good drive",
+      "okay that's the end, good finish, mate, well done",
+      "there's the finish, well done",
+      "okay, that's the finish, well done, mate",
+      "well done, mate, good finish",
+      "okay, it's over, well done, mate, good finish",
+      "and there's the finish, good result, mate, well done"
+    ],
+    "ok_youre_in": [
+      "okay, we're starting in",
+      "you're in",
+      "okay, you're in",
+      "we're starting in"
+    ],
+    "podium_finish": [
+      "great drive, that's a podium",
+      "well done, decent drive",
+      "podium finish, nice one",
+      "we're on the podium, good drive"
+    ],
+    "form_up_behind": [
+      "form up behind",
+      "take position behind",
+      "line up behind"
+    ],
+    "two_to_go": [
+      "two laps left",
+      "two laps remaining",
+      "two to go"
+    ]
+  }
+}

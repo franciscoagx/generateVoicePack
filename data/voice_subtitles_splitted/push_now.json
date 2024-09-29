@@ -1,0 +1,92 @@
+{
+  "push_now": {
+    "push_to_hold_position": [
+      "you need to push if we're gonna hold this position",
+      "push, push, push, or we'll lose this place",
+      "push now, the guy behind is catching"
+    ],
+    "minutes_to_set_a_lap": [
+      "minutes to set a lap",
+      "minutes to get the job done",
+      "minutes to do the business",
+      "minutes to get a decent lap in"
+    ],
+    "push_to_get_third": [
+      "there's a chance of a podium here, push, push, push",
+      "push harder, we can get a podium here",
+      "push, we might get third here"
+    ],
+    "pits_exit_clear": [
+      "your exit's clear, don't cross the white line",
+      "the pit exit's clear, push",
+      "the pit exit is clear, push now",
+      "your exit is clear, watch the white line",
+      "the pit exit looks clear",
+      "pit exit's clear",
+      "all clear on pit exit",
+      "track's clear, push, push, push",
+      "the pit exit's clear",
+      "pit exit's clear, don't cross the white line",
+      "looks like you're clear on the pit exit",
+      "pit exit's clear, stay behind the white line",
+      "pit exit is clear",
+      "all clear on pit exit, you can push now",
+      "exit's clear, push",
+      "all clear, push now"
+    ],
+    "opponent_exiting_pits": [
+      "heads up, there's a car rejoining",
+      "there's a car leaving the pits",
+      "heads up, there's a car exiting the pits",
+      "there's a car leaving the pits, heads up",
+      "there's a car rejoining",
+      "there's a car leaving the pit lane",
+      "there's a car exiting the pits",
+      "there's a car rejoining in front"
+    ],
+    "pits_exit_traffic_behind": [
+      "there's a car approaching, don't cross the white line",
+      "there's traffic behind, keep your wits about you",
+      "watch your mirrors, there's a car approaching",
+      "take care, there's a car approaching",
+      "there's a car approaching, don't cross the white line, watch your mirrors",
+      "there's a car approaching, stay behind the white line",
+      "there's traffic behind, take care",
+      "there's a car behind, take care rejoining",
+      "there's traffic behind",
+      "car approaching, watch your mirrors",
+      "there's traffic approaching, watch your mirrors",
+      "there's a car approaching, watch your mirrors, stay behind the white line",
+      "there's traffic behind, watch your mirrors"
+    ],
+    "push_to_improve": [
+      "push now, we can catch this guy",
+      "push now, we can catch up here",
+      "push, push, push, we can get this guy",
+      "push push push, we can catch this car",
+      "push, we can get this guy",
+      "push push push, we can get this position"
+    ],
+    "push_to_get_second": [
+      "push now, we might get second place",
+      "push, push, push, we could be second here",
+      "push, we can get second place here"
+    ],
+    "laps_to_get_the_job_done": [
+      "laps, let's get this done",
+      "laps to get the job done, mate",
+      "laps to get the job done",
+      "laps to set a decent time"
+    ],
+    "push_to_get_win": [
+      "push now, we might win this",
+      "push, push, push, we can win this",
+      "push like a bastard, there's a win to be had here",
+      "push, push, push, we're in with a chance of winning this"
+    ],
+    "we_have": [
+      "we have",
+      "we've got"
+    ]
+  }
+}

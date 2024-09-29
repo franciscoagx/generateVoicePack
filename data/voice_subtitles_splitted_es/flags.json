@@ -1,0 +1,40 @@
+{
+  "flags": {
+    "yellow_flag": [
+      "bandera amarilla, mantente alerta, amigo",
+      "bandera amarilla",
+      "bandera amarilla, cuidado"
+    ],
+    "yellow_flag_sector_1": [
+      "bandera amarilla, sector 1",
+      "bandera amarilla en el sector 1",
+      "incidente en el sector 1, el sector 1 está en amarillo",
+      "el sector 1 está en amarillo"
+    ],
+    "yellow_flag_sector_2": [
+      "bandera amarilla en el sector 2",
+      "incidente en el sector 2, el sector 2 está en amarillo",
+      "el sector 2 está en amarillo",
+      "bandera amarilla, sector 2"
+    ],
+    "yellow_flag_sector_3": [
+      "el sector 3 está en amarillo",
+      "bandera amarilla, sector 3",
+      "bandera amarilla en el sector 3",
+      "incidente en el sector 3, el sector 3 está en amarillo"
+    ],
+    "blue_flag": [
+      "bandera azul"
+    ],
+    "black_flag": [
+      "nos muestran la bandera negra",
+      "bandera negra, nos están mostrando la bandera negra",
+      "bandera negra"
+    ],
+    "white_flag": [
+      "bandera blanca, amigo",
+      "bandera blanca",
+      "hay una bandera blanca"
+    ]
+  }
+}

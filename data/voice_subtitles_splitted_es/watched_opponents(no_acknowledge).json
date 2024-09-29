@@ -1,0 +1,75 @@
+{
+  "watched_opponents": {
+    "rival_pitting_from_position": [
+      "tu rival está entrando a boxes desde la posición",
+      "tu rival entra a boxes desde la posición",
+      "tu rival va a boxes desde la posición"
+    ],
+    "is_leaving_pits": [
+      "está saliendo de boxes",
+      "está dejando los pits",
+      "está saliendo de los pits"
+    ],
+    "rival_has_just_done_a": [
+      "tu rival acaba de marcar un",
+      "el tiempo de vuelta de tu rival es",
+      "tu rival ha marcado un tiempo de",
+      "tu rival acaba de hacer un"
+    ],
+    "is_in_position": [
+      "está en la posición",
+      "está colocado en la posición"
+    ],
+    "your_rival": [
+      "tu rival",
+      "tu competidor"
+    ],
+    "has_just_done_a": [
+      "acaba de marcar un",
+      "acaba de hacer un",
+      "ha registrado un"
+    ],
+    "your_team_mate": [
+      "tu compañero de equipo",
+      "tu coequipero"
+    ],
+    "team_mate_pitting_from_position": [
+      "tu compañero de equipo está entrando a boxes desde la posición",
+      "tu coequipero entra a boxes desde la posición",
+      "tu compañero va a boxes desde la posición"
+    ],
+    "acknowledge_stop_watching_rival": [
+      "ok, dejaremos de observar a nuestro rival",
+      "entendido, dejaremos de vigilar a este rival",
+      "entendido, dejaremos de monitorear a nuestro rival",
+      "ok, no más monitoreo de nuestro rival",
+      "confirmado, dejaremos de monitorear a nuestro rival"
+    ],
+    "team_mate_is_now_in_position": [
+      "tu compañero de equipo ahora está en la posición",
+      "tu coequipero está ahora en la posición",
+      "tu compañero está ahora en la posición"
+    ],
+    "rival_is_leaving_pits": [
+      "tu rival está saliendo de los pits",
+      "tu rival está dejando los pits",
+      "tu rival está saliendo de boxes",
+      "tu rival deja los pits"
+    ],
+    "is_now_in_position": [
+      "ahora está en la posición",
+      "se encuentra ahora en la posición"
+    ],
+    "team_mate_has_just_done_a": [
+      "tu compañero de equipo acaba de marcar un",
+      "tu coequipero acaba de registrar un",
+      "tu compañero acaba de hacer un",
+      "tu compañero ha marcado un tiempo de"
+    ],
+    "rival_is_now_in_position": [
+      "tu rival ahora está en la posición",
+      "tu rival está ahora en la posición",
+      "tu rival se encuentra en la posición"
+    ]
+  }
+}

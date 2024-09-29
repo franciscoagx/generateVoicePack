@@ -1,0 +1,38 @@
+{
+  "composite_personalisation_stubs": {
+    "bad_luck": [
+      "mala suerte, Araujo",
+      "qué lástima, Araujo",
+      "no tuvimos suerte esta vez, Araujo",
+      "qué mal, no fue nuestro día, Araujo"
+    ],
+    "come_on": [
+      "vamos, Araujo",
+      "dale, Araujo, podemos hacerlo",
+      "venga, Araujo, no te rindas",
+      "vamos, Araujo, sigue empujando"
+    ],
+    "oh_dear": [
+      "oh, qué mal, Araujo",
+      "vaya, qué desastre, Araujo",
+      "uff, eso no salió bien, Araujo",
+      "oh no, Araujo, qué pena"
+    ],
+    "ok": [
+      "ok, Araujo, entendido",
+      "vale, Araujo, estamos bien",
+      "ok, todo claro, Araujo",
+      "entendido, Araujo, seguimos adelante"
+    ],
+    "please": [
+      "por favor, Araujo",
+      "te lo pido, Araujo, por favor"
+    ],
+    "well_done": [
+      "bien hecho, Araujo",
+      "gran trabajo, Araujo",
+      "excelente, Araujo, lo hiciste genial",
+      "buen trabajo, Araujo, sigue así"
+    ]
+  }
+}

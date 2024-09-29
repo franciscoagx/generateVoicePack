@@ -1,0 +1,219 @@
+{
+  "fuel": {
+    "plenty_of_fuel": [
+      "tienes mucho combustible",
+      "está bien, tienes bastante combustible",
+      "tienes bastante combustible"
+    ],
+    "for": [
+      "para"
+    ],
+    "four_laps_fuel": [
+      "estimamos que quedan 4 vueltas de combustible",
+      "tienes aproximadamente combustible para 4 vueltas"
+    ],
+    "gallons_remaining": [
+      "galones restantes"
+    ],
+    "and_will_close_on_lap": [
+      "terminará en la vuelta",
+      "se cerrará en la vuelta",
+      "y se cerrará en la vuelta",
+      "terminará en la vuelta",
+      "y debería cerrarse en la vuelta"
+    ],
+    "gallon": [
+      "galón"
+    ],
+    "half_a_gallon_remaining": [
+      "queda medio galón de combustible",
+      "medio galón de combustible restante",
+      "te queda medio galón",
+      "medio galón restante"
+    ],
+    "litres_to_get_to_the_end": [
+      "litros para llegar al final de la carrera",
+      "litros para llegar al final",
+      "litros para alcanzar el final"
+    ],
+    "minutes_remaining": [
+      "minutos de combustible restante",
+      "minutos de combustible"
+    ],
+    "litres_remaining": [
+      "litros restantes",
+      "litros restantes"
+    ],
+    "litres_per_lap": [
+      "litros por vuelta"
+    ],
+    "litres": [
+      "litros"
+    ],
+    "five_minutes_fuel": [
+      "quedan 5 minutos de combustible",
+      "5 minutos de combustible restante, 5 minutos",
+      "estimamos que te quedan 5 minutos de combustible"
+    ],
+    "ten_minutes_fuel": [
+      "tienes 10 minutos de combustible restante",
+      "10 minutos de combustible restante"
+    ],
+    "two_minutes_fuel": [
+      "2 minutos de combustible restante",
+      "tienes 2 minutos de combustible restante"
+    ],
+    "we_will_need_to_pit_for_fuel": [
+      "necesitaremos parar para repostar",
+      "necesitaremos repostar",
+      "necesitaremos parar para cargar combustible"
+    ],
+    "half_distance_good_fuel": [
+      "mitad de carrera, tenemos suficiente combustible",
+      "mitad de distancia, el combustible se ve bien",
+      "esa es la mitad de la carrera, vas bien de combustible",
+      "estás a mitad de carrera, tienes bastante combustible",
+      "esa es la mitad de la carrera, los niveles de combustible están bien",
+      "mitad de camino, el combustible se ve bien",
+      "mitad de carrera, el combustible está bien",
+      "esa es la mitad de la carrera, el combustible está bien",
+      "estamos a mitad de carrera, el combustible parece bien",
+      "estamos a mitad de carrera, estamos bien con el combustible",
+      "estás a mitad de carrera, tu combustible está bien"
+    ],
+    "we_will_need_to_add": [
+      "parece que necesitaremos agregar",
+      "necesitaremos agregar",
+      "creemos que necesitaremos agregar",
+      "necesitaremos agregar",
+      "estimamos que necesitaremos agregar"
+    ],
+    "need_to_add_one_gallon_to_get_to_the_end": [
+      "necesitaremos agregar 1 galón para llegar al final",
+      "necesitaremos agregar 1 galón para llegar al final de la carrera",
+      "necesitaremos 1 galón para llegar al final",
+      "necesitaremos agregar 1 galón para llegar al final"
+    ],
+    "one_lap_fuel": [
+      "esta es la última vuelta de combustible",
+      "solo tienes suficiente combustible para esta vuelta",
+      "creemos que te quedarás sin combustible en la próxima vuelta"
+    ],
+    "two_laps_fuel": [
+      "solo quedan 2 vueltas de combustible",
+      "2 vueltas de combustible restantes",
+      "solo quedan 2 vueltas de combustible"
+    ],
+    "we_estimate_we_will_need": [
+      "estimamos que necesitaremos",
+      "creemos que necesitaremos",
+      "estimamos que necesitaremos",
+      "calculamos que necesitaremos aproximadamente",
+      "estimamos que necesitaremos aproximadamente",
+      "deberíamos necesitar aproximadamente",
+      "deberíamos necesitar"
+    ],
+    "gallons": [
+      "galones"
+    ],
+    "one_gallon_remaining": [
+      "te queda 1 galón",
+      "queda 1 galón"
+    ],
+    "pit_window_for_fuel_opens_on_lap": [
+      "la ventana de combustible se abre en la vuelta",
+      "la ventana de parada para repostar debería abrirse alrededor de la vuelta",
+      "la ventana de parada para combustible se abrirá en la vuelta",
+      "predecimos que la ventana de combustible se abrirá en la vuelta",
+      "nuestra ventana de combustible se abre en la vuelta",
+      "tu ventana para repostar se abrirá en la vuelta",
+      "nuestra ventana de repostaje se abre en la vuelta",
+      "creemos que la ventana para repostar se abrirá en la vuelta"
+    ],
+    "gallons_to_get_to_the_end": [
+      "galones para llegar al final de la carrera",
+      "galones para llegar al final",
+      "galones para llegar al final de la carrera"
+    ],
+    "laps_remaining": [
+      "vueltas restantes con este tanque",
+      "vueltas de combustible restantes",
+      "vueltas de combustible restante"
+    ],
+    "pit_window_for_fuel_opens_after": [
+      "nuestra ventana de repostaje se abre después de",
+      "creemos que nuestra ventana de repostaje se abrirá después de",
+      "predecimos que tu ventana para repostar se abrirá después de",
+      "creemos que tu ventana para repostar combustible debería abrirse después de",
+      "creemos que tu ventana para repostar se abrirá después de",
+      "nuestra ventana de combustible se abrirá después de",
+      "nuestra ventana de repostaje se abrirá después de"
+    ],
+    "one_litre_remaining": [
+      "queda un litro"
+    ],
+    "pit_window_for_fuel_closes_on_lap": [
+      "necesitaremos parar para repostar antes de la vuelta",
+      "necesitaremos repostar antes de la vuelta",
+      "necesitaremos parar para repostar antes de la vuelta"
+    ],
+    "gallons_per_lap": [
+      "galones por vuelta"
+    ],
+    "half_tank_warning": [
+      "has usado la mitad de tu combustible",
+      "es la mitad de combustible, has usado la mitad de tu combustible",
+      "te queda la mitad de tu combustible"
+    ],
+    "half_distance_low_fuel": [
+      "esa es la mitad de la carrera, parece que necesitarás ahorrar algo de combustible",
+      "esa es la mitad de la carrera, necesitarás ahorrar combustible",
+      "estás a mitad de carrera, pero no llegarás al final con el combustible"
+    ],
+    "fuel_will_be_tight": [
+      "el combustible estará justo, no estamos seguros de que llegues al final",
+      "el combustible parece justo, podrías llegar al final",
+      "el combustible estará justo, creemos que llegarás al final pero no estamos seguros",
+      "el combustible está justo, podrías necesitar ahorrar algo de combustible para llegar al final",
+      "creemos que el combustible estará justo, podrías necesitar ahorrar algo"
+    ],
+    "will_need_to_stop_again": [
+      "creemos que necesitaremos parar de nuevo",
+      "necesitaremos parar de nuevo para llegar al final",
+      "necesitaremos parar de nuevo"
+    ],
+    "we_estimate": [
+      "estimamos",
+      "debería ser alrededor de",
+      "creemos que será alrededor de"
+    ],
+    "three_laps_fuel": [
+      "quedan 3 vueltas de combustible",
+      "estimamos que quedan 3 vueltas de combustible",
+      "tienes aproximadamente 3 vueltas de combustible restantes"
+    ],
+    "into_the_race": [
+      "en la carrera"
+    ],
+    "and_closes_after": [
+      "y debería cerrarse aproximadamente en",
+      "y se cierra después de",
+      "y se cierra aproximadamente en"
+    ],
+    "about_to_run_out": [
+      "queda muy poco combustible",
+      "estamos rodando con lo justo, amigo"
+    ],
+    "fuel_should_be_ok": [
+      "deberíamos tener suficiente combustible para llegar al final, pero estará justo",
+      "creemos que estás bien de combustible, pero no sobra mucho",
+      "deberíamos tener justo el combustible necesario para llegar al final",
+      "tu combustible debería estar bien si el consumo se mantiene como está",
+      "deberíamos tener justo el combustible necesario para llegar al final",
+      "deberíamos tener justo lo suficiente para llegar al final"
+    ],
+    "litre": [
+      "litro"
+    ]
+  }
+}

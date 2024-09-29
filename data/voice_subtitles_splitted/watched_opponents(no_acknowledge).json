@@ -1,0 +1,66 @@
+{
+  "watched_opponents": {
+    "rival_pitting_from_position": [
+      "your rival is pitting from position",
+      "your rival's pitting from position"
+    ],
+    "is_leaving_pits": [
+      "is exiting the pit",
+      "is leaving the pits",
+      "is exiting the pits"
+    ],
+    "rival_has_just_done_a": [
+      "your rival has just posted a ",
+      "you rival's lap time is a",
+      "you rival has just posted a",
+      "your rival has just done a"
+    ],
+    "is_in_position": [
+      "is in position"
+    ],
+    "your_rival": [
+      "your rival"
+    ],
+    "has_just_done_a": [
+      "has just posted a",
+      "has just done a"
+    ],
+    "your_team_mate": [
+      "your teammate"
+    ],
+    "team_mate_pitting_from_position": [
+      "your teammate is pitting from position",
+      "your teammate's pitting from position"
+    ],
+    "acknowledge_stop_watching_rival": [
+      "OK, we'll stop watching our rival",
+      "understood, we'll stop watching this rival",
+      "understood, we'll stop monitoring our rival",
+      "OK, no more monitoring of our rival",
+      "acknowledged, we'll stop monitoring our rival"
+    ],
+    "team_mate_is_now_in_position": [
+      "your teammate is now in position",
+      "your teammate's now in position"
+    ],
+    "rival_is_leaving_pits": [
+      "your rival's exiting the pits",
+      "your rival's leaving the pits",
+      "your rival is leaving the pits",
+      "your rival is exiting the pits"
+    ],
+    "is_now_in_position": [
+      "is now in position"
+    ],
+    "team_mate_has_just_done_a": [
+      "your teammate's just done a",
+      "your teammate's just posted a",
+      "your teammate has just done a",
+      "your teammate's just posted a "
+    ],
+    "rival_is_now_in_position": [
+      "your rival's now in position",
+      "your rival is now in position"
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "numbers": {
+    "1_01": [
+      "uno, cero uno"
+    ],
+    "1_02": [
+      "uno, cero dos"
+    ],
+    "1_03": [
+      "uno, cero tres"
+    ],
+    "1_04": [
+      "uno, cero cuatro"
+    ],
+    "1_05": [
+      "uno, cero cinco"
+    ],
+    "1_06": [
+      "uno, cero seis"
+    ],
+    "1_07": [
+      "uno, cero siete"
+    ],
+    "1_08": [
+      "uno, cero ocho"
+    ],
+    "1_09": [
+      "uno, cero nueve"
+    ],
+    "1_10": [
+      "uno, diez"
+    ],
+    "1_11": [
+      "uno, once"
+    ],
+    "1_12": [
+      "uno, doce"
+    ],
+    "1_13": [
+      "uno, trece"
+    ],
+    "1_14": [
+      "uno, catorce"
+    ],
+    "1_15": [
+      "uno, quince"
+    ],
+    "1_16": [
+      "uno, dieciséis"
+    ],
+    "1_17": [
+      "uno, diecisiete"
+    ],
+    "1_18": [
+      "uno, dieciocho"
+    ],
+    "1_19": [
+      "uno, diecinueve"
+    ],
+    "1_20": [
+      "uno, veinte"
+    ],
+    "1_21": [
+      "uno, veintiuno"
+    ],
+    "1_22": [
+      "uno, veintidós"
+    ],
+    "1_23": [
+      "uno, veintitrés"
+    ],
+    "1_24": [
+      "uno, veinticuatro"
+    ],
+    "1_25": [
+      "uno, veinticinco"
+    ],
+    "1_26": [
+      "uno, veintiséis"
+    ],
+    "1_27": [
+      "uno, veintisiete"
+    ],
+    "1_28": [
+      "uno, veintiocho"
+    ],
+    "1_29": [
+      "uno, veintinueve"
+    ],
+    "1_30": [
+      "uno, treinta"
+    ],
+    "1_31": [
+      "uno, treinta y uno"
+    ],
+    "1_32": [
+      "uno, treinta y dos"
+    ],
+    "1_33": [
+      "uno, treinta y tres"
+    ],
+    "1_34": [
+      "uno, treinta y cuatro"
+    ],
+    "1_35": [
+      "uno, treinta y cinco"
+    ],
+    "1_36": [
+      "uno, treinta y seis"
+    ],
+    "1_37": [
+      "uno, treinta y siete"
+    ],
+    "1_38": [
+      "uno, treinta y ocho"
+    ],
+    "1_39": [
+      "uno, treinta y nueve"
+    ],
+    "1_40": [
+      "uno, cuarenta"
+    ],
+    "1_41": [
+      "uno, cuarenta y uno"
+    ],
+    "1_42": [
+      "uno, cuarenta y dos"
+    ],
+    "1_43": [
+      "uno, cuarenta y tres"
+    ],
+    "1_44": [
+      "uno, cuarenta y cuatro"
+    ],
+    "1_45": [
+      "uno, cuarenta y cinco"
+    ],
+    "1_46": [
+      "uno, cuarenta y seis"
+    ],
+    "1_47": [
+      "uno, cuarenta y siete"
+    ],
+    "1_48": [
+      "uno, cuarenta y ocho"
+    ],
+    "1_49": [
+      "uno, cuarenta y nueve"
+    ],
+    "1_50": [
+      "uno, cincuenta"
+    ],
+    "1_51": [
+      "uno, cincuenta y uno"
+    ],
+    "1_52": [
+      "uno, cincuenta y dos"
+    ],
+    "1_53": [
+      "uno, cincuenta y tres"
+    ],
+    "1_54": [
+      "uno, cincuenta y cuatro"
+    ],
+    "1_55": [
+      "uno, cincuenta y cinco"
+    ],
+    "1_56": [
+      "uno, cincuenta y seis"
+    ],
+    "1_57": [
+      "uno, cincuenta y siete"
+    ],
+    "1_58": [
+      "uno, cincuenta y ocho"
+    ],
+    "1_59": [
+      "uno, cincuenta y nueve"
+    ],
+    "2": [
+      "dos"
+    ],
+    "2_01": [
+      "dos, cero uno"
+    ],
+    "2_02": [
+      "dos, cero dos"
+    ],
+    "2_03": [
+      "dos, cero tres"
+    ],
+    "2_04": [
+      "dos, cero cuatro"
+    ],
+    "2_05": [
+      "dos, cero cinco"
+    ],
+    "2_06": [
+      "dos, cero seis"
+    ],
+    "2_07": [
+      "dos, cero siete"
+    ],
+    "2_08": [
+      "dos, cero ocho"
+    ],
+    "2_09": [
+      "dos, cero nueve"
+    ],
+    "2_10": [
+      "dos, diez"
+    ],
+    "2_11": [
+      "dos, once"
+    ],
+    "2_12": [
+      "dos, doce"
+    ],
+    "2_13": [
+      "dos, trece"
+    ],
+    "2_14": [
+      "dos, catorce"
+    ],
+    "2_15": [
+      "dos, quince"
+    ],
+    "2_16": [
+      "dos, dieciséis"
+    ],
+    "2_17": [
+      "dos, diecisiete"
+    ],
+    "2_18": [
+      "dos, dieciocho"
+    ],
+    "2_19": [
+      "dos, diecinueve"
+    ],
+    "2_20": [
+      "dos, veinte"
+    ],
+    "2_21": [
+      "dos, veintiuno"
+    ],
+    "2_22": [
+      "dos, veintidós"
+    ],
+    "2_23": [
+      "dos, veintitrés"
+    ],
+    "2_24": [
+      "dos, veinticuatro"
+    ],
+    "2_25": [
+      "dos, veinticinco"
+    ],
+    "2_26": [
+      "dos, veintiséis"
+    ],
+    "2_27": [
+      "dos, veintisiete"
+    ],
+    "2_28": [
+      "dos, veintiocho"
+    ],
+    "2_29": [
+      "dos, veintinueve"
+    ],
+    "2_30": [
+      "dos, treinta"
+    ],
+    "2_31": [
+      "dos, treinta y uno"
+    ],
+    "2_32": [
+      "dos, treinta y dos"
+    ],
+    "2_33": [
+      "dos, treinta y tres"
+    ],
+    "2_34": [
+      "dos, treinta y cuatro"
+    ],
+    "2_35": [
+      "dos, treinta y cinco"
+    ],
+    "2_36": [
+      "dos, treinta y seis"
+    ],
+    "2_37": [
+      "dos, treinta y siete"
+    ],
+    "2_38": [
+      "dos, treinta y ocho"
+    ],
+    "2_39": [
+      "dos, treinta y nueve"
+    ],
+    "2_40": [
+      "dos, cuarenta"
+    ],
+    "2_41": [
+      "dos, cuarenta y uno"
+    ],
+    "2_42": [
+      "dos, cuarenta y dos"
+    ],
+    "2_43": [
+      "dos, cuarenta y tres"
+    ],
+    "2_44": [
+      "dos, cuarenta y cuatro"
+    ],
+    "2_45": [
+      "dos, cuarenta y cinco"
+    ],
+    "2_46": [
+      "dos, cuarenta y seis"
+    ],
+    "2_47": [
+      "dos, cuarenta y siete"
+    ],
+    "2_48": [
+      "dos, cuarenta y ocho"
+    ],
+    "2_49": [
+      "dos, cuarenta y nueve"
+    ],
+    "2_50": [
+      "dos, cincuenta"
+    ],
+    "2_51": [
+      "dos, cincuenta y uno"
+    ],
+    "2_52": [
+      "dos, cincuenta y dos"
+    ],
+    "2_53": [
+      "dos, cincuenta y tres"
+    ],
+    "2_54": [
+      "dos, cincuenta y cuatro"
+    ],
+    "2_55": [
+      "dos, cincuenta y cinco"
+    ],
+    "2_56": [
+      "dos, cincuenta y seis"
+    ],
+    "2_57": [
+      "dos, cincuenta y siete"
+    ],
+    "2_58": [
+      "dos, cincuenta y ocho"
+    ],
+    "2_59": [
+      "dos, cincuenta y nueve"
+    ]
+  }
+}

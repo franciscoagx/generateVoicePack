@@ -1,0 +1,1626 @@
+{
+  "numbers": {
+    "0point1": [
+      "cero punto uno"
+    ],
+    "0point2": [
+      "cero punto dos"
+    ],
+    "0point3": [
+      "cero punto tres"
+    ],
+    "0point4": [
+      "cero punto cuatro"
+    ],
+    "0point5": [
+      "cero punto cinco"
+    ],
+    "0point6": [
+      "cero punto seis"
+    ],
+    "0point7": [
+      "cero punto siete"
+    ],
+    "0point8": [
+      "cero punto ocho"
+    ],
+    "0point9": [
+      "cero punto nueve"
+    ],
+    "1point1": [
+      "uno punto uno"
+    ],
+    "1point2": [
+      "uno punto dos"
+    ],
+    "1point3": [
+      "uno punto tres"
+    ],
+    "1point4": [
+      "uno punto cuatro"
+    ],
+    "1point5": [
+      "uno punto cinco"
+    ],
+    "1point6": [
+      "uno punto seis"
+    ],
+    "1point7": [
+      "uno punto siete"
+    ],
+    "1point8": [
+      "uno punto ocho"
+    ],
+    "1point9": [
+      "uno punto nueve"
+    ],
+    "2point1": [
+      "dos punto uno"
+    ],
+    "2point2": [
+      "dos punto dos"
+    ],
+    "2point3": [
+      "dos punto tres"
+    ],
+    "2point4": [
+      "dos punto cuatro"
+    ],
+    "2point5": [
+      "dos punto cinco"
+    ],
+    "2point6": [
+      "dos punto seis"
+    ],
+    "2point7": [
+      "dos punto siete"
+    ],
+    "2point8": [
+      "dos punto ocho"
+    ],
+    "2point9": [
+      "dos punto nueve"
+    ],
+    "3point1": [
+      "tres punto uno"
+    ],
+    "3point2": [
+      "tres punto dos"
+    ],
+    "3point3": [
+      "tres punto tres"
+    ],
+    "3point4": [
+      "tres punto cuatro"
+    ],
+    "3point5": [
+      "tres punto cinco"
+    ],
+    "3point6": [
+      "tres punto seis"
+    ],
+    "3point7": [
+      "tres punto siete"
+    ],
+    "3point8": [
+      "tres punto ocho"
+    ],
+    "3point9": [
+      "tres punto nueve"
+    ],
+    "4point1": [
+      "cuatro punto uno"
+    ],
+    "4point2": [
+      "cuatro punto dos"
+    ],
+    "4point3": [
+      "cuatro punto tres"
+    ],
+    "4point4": [
+      "cuatro punto cuatro"
+    ],
+    "4point5": [
+      "cuatro punto cinco"
+    ],
+    "4point6": [
+      "cuatro punto seis"
+    ],
+    "4point7": [
+      "cuatro punto siete"
+    ],
+    "4point8": [
+      "cuatro punto ocho"
+    ],
+    "4point9": [
+      "cuatro punto nueve"
+    ],
+    "5point1": [
+      "cinco punto uno"
+    ],
+    "5point2": [
+      "cinco punto dos"
+    ],
+    "5point3": [
+      "cinco punto tres"
+    ],
+    "5point4": [
+      "cinco punto cuatro"
+    ],
+    "5point5": [
+      "cinco punto cinco"
+    ],
+    "5point6": [
+      "cinco punto seis"
+    ],
+    "5point7": [
+      "cinco punto siete"
+    ],
+    "5point8": [
+      "cinco punto ocho"
+    ],
+    "5point9": [
+      "cinco punto nueve"
+    ],
+    "6point1": [
+      "seis punto uno"
+    ],
+    "6point2": [
+      "seis punto dos"
+    ],
+    "6point3": [
+      "seis punto tres"
+    ],
+    "6point4": [
+      "seis punto cuatro"
+    ],
+    "6point5": [
+      "seis punto cinco"
+    ],
+    "6point6": [
+      "seis punto seis"
+    ],
+    "6point7": [
+      "seis punto siete"
+    ],
+    "6point8": [
+      "seis punto ocho"
+    ],
+    "6point9": [
+      "seis punto nueve"
+    ],
+    "7point1": [
+      "siete punto uno"
+    ],
+    "7point2": [
+      "siete punto dos"
+    ],
+    "7point3": [
+      "siete punto tres"
+    ],
+    "7point4": [
+      "siete punto cuatro"
+    ],
+    "7point5": [
+      "siete punto cinco"
+    ],
+    "7point6": [
+      "siete punto seis"
+    ],
+    "7point7": [
+      "siete punto siete"
+    ],
+    "7point8": [
+      "siete punto ocho"
+    ],
+    "7point9": [
+      "siete punto nueve"
+    ],
+    "8point1": [
+      "ocho punto uno"
+    ],
+    "8point2": [
+      "ocho punto dos"
+    ],
+    "8point3": [
+      "ocho punto tres"
+    ],
+    "8point4": [
+      "ocho punto cuatro"
+    ],
+    "8point5": [
+      "ocho punto cinco"
+    ],
+    "8point6": [
+      "ocho punto seis"
+    ],
+    "8point7": [
+      "ocho punto siete"
+    ],
+    "8point8": [
+      "ocho punto ocho"
+    ],
+    "8point9": [
+      "ocho punto nueve"
+    ],
+    "9point1": [
+      "nueve punto uno"
+    ],
+    "9point2": [
+      "nueve punto dos"
+    ],
+    "9point3": [
+      "nueve punto tres"
+    ],
+    "9point4": [
+      "nueve punto cuatro"
+    ],
+    "9point5": [
+      "nueve punto cinco"
+    ],
+    "9point6": [
+      "nueve punto seis"
+    ],
+    "9point7": [
+      "nueve punto siete"
+    ],
+    "9point8": [
+      "nueve punto ocho"
+    ],
+    "9point9": [
+      "nueve punto nueve"
+    ],
+    "10point1": [
+      "diez punto uno"
+    ],
+    "10point2": [
+      "diez punto dos"
+    ],
+    "10point3": [
+      "diez punto tres"
+    ],
+    "10point4": [
+      "diez punto cuatro"
+    ],
+    "10point5": [
+      "diez punto cinco"
+    ],
+    "10point6": [
+      "diez punto seis"
+    ],
+    "10point7": [
+      "diez punto siete"
+    ],
+    "10point8": [
+      "diez punto ocho"
+    ],
+    "10point9": [
+      "diez punto nueve"
+    ],
+    "11point1": [
+      "once punto uno"
+    ],
+    "11point2": [
+      "once punto dos"
+    ],
+    "11point3": [
+      "once punto tres"
+    ],
+    "11point4": [
+      "once punto cuatro"
+    ],
+    "11point5": [
+      "once punto cinco"
+    ],
+    "11point6": [
+      "once punto seis"
+    ],
+    "11point7": [
+      "once punto siete"
+    ],
+    "11point8": [
+      "once punto ocho"
+    ],
+    "11point9": [
+      "once punto nueve"
+    ],
+    "12point1": [
+      "doce punto uno"
+    ],
+    "12point2": [
+      "doce punto dos"
+    ],
+    "12point3": [
+      "doce punto tres"
+    ],
+    "12point4": [
+      "doce punto cuatro"
+    ],
+    "12point5": [
+      "doce punto cinco"
+    ],
+    "12point6": [
+      "doce punto seis"
+    ],
+    "12point7": [
+      "doce punto siete"
+    ],
+    "12point8": [
+      "doce punto ocho"
+    ],
+    "12point9": [
+      "doce punto nueve"
+    ],
+    "13point1": [
+      "trece punto uno"
+    ],
+    "13point2": [
+      "trece punto dos"
+    ],
+    "13point3": [
+      "trece punto tres"
+    ],
+    "13point4": [
+      "trece punto cuatro"
+    ],
+    "13point5": [
+      "trece punto cinco"
+    ],
+    "13point6": [
+      "trece punto seis"
+    ],
+    "13point7": [
+      "trece punto siete"
+    ],
+    "13point8": [
+      "trece punto ocho"
+    ],
+    "13point9": [
+      "trece punto nueve"
+    ],
+    "14point1": [
+      "catorce punto uno"
+    ],
+    "14point2": [
+      "catorce punto dos"
+    ],
+    "14point3": [
+      "catorce punto tres"
+    ],
+    "14point4": [
+      "catorce punto cuatro"
+    ],
+    "14point5": [
+      "catorce punto cinco"
+    ],
+    "14point6": [
+      "catorce punto seis"
+    ],
+    "14point7": [
+      "catorce punto siete"
+    ],
+    "14point8": [
+      "catorce punto ocho"
+    ],
+    "14point9": [
+      "catorce punto nueve"
+    ],
+    "15point1": [
+      "quince punto uno"
+    ],
+    "15point2": [
+      "quince punto dos"
+    ],
+    "15point3": [
+      "quince punto tres"
+    ],
+    "15point4": [
+      "quince punto cuatro"
+    ],
+    "15point5": [
+      "quince punto cinco"
+    ],
+    "15point6": [
+      "quince punto seis"
+    ],
+    "15point7": [
+      "quince punto siete"
+    ],
+    "15point8": [
+      "quince punto ocho"
+    ],
+    "15point9": [
+      "quince punto nueve"
+    ],
+    "16point1": [
+      "dieciséis punto uno"
+    ],
+    "16point2": [
+      "dieciséis punto dos"
+    ],
+    "16point3": [
+      "dieciséis punto tres"
+    ],
+    "16point4": [
+      "dieciséis punto cuatro"
+    ],
+    "16point5": [
+      "dieciséis punto cinco"
+    ],
+    "16point6": [
+      "dieciséis punto seis"
+    ],
+    "16point7": [
+      "dieciséis punto siete"
+    ],
+    "16point8": [
+      "dieciséis punto ocho"
+    ],
+    "16point9": [
+      "dieciséis punto nueve"
+    ],
+    "17point1": [
+      "diecisiete punto uno"
+    ],
+    "17point2": [
+      "diecisiete punto dos"
+    ],
+    "17point3": [
+      "diecisiete punto tres"
+    ],
+    "17point4": [
+      "diecisiete punto cuatro"
+    ],
+    "17point5": [
+      "diecisiete punto cinco"
+    ],
+    "17point6": [
+      "diecisiete punto seis"
+    ],
+    "17point7": [
+      "diecisiete punto siete"
+    ],
+    "17point8": [
+      "diecisiete punto ocho"
+    ],
+    "17point9": [
+      "diecisiete punto nueve"
+    ],
+    "18point1": [
+      "dieciocho punto uno"
+    ],
+    "18point2": [
+      "dieciocho punto dos"
+    ],
+    "18point3": [
+      "dieciocho punto tres"
+    ],
+    "18point4": [
+      "dieciocho punto cuatro"
+    ],
+    "18point5": [
+      "dieciocho punto cinco"
+    ],
+    "18point6": [
+      "dieciocho punto seis"
+    ],
+    "18point7": [
+      "dieciocho punto siete"
+    ],
+    "18point8": [
+      "dieciocho punto ocho"
+    ],
+    "18point9": [
+      "dieciocho punto nueve"
+    ],
+    "19point1": [
+      "diecinueve punto uno"
+    ],
+    "19point2": [
+      "diecinueve punto dos"
+    ],
+    "19point3": [
+      "diecinueve punto tres"
+    ],
+    "19point4": [
+      "diecinueve punto cuatro"
+    ],
+    "19point5": [
+      "diecinueve punto cinco"
+    ],
+    "19point6": [
+      "diecinueve punto seis"
+    ],
+    "19point7": [
+      "diecinueve punto siete"
+    ],
+    "19point8": [
+      "diecinueve punto ocho"
+    ],
+    "19point9": [
+      "diecinueve punto nueve"
+    ],
+    "20point1": [
+      "veinte punto uno"
+    ],
+    "20point2": [
+      "veinte punto dos"
+    ],
+    "20point3": [
+      "veinte punto tres"
+    ],
+    "20point4": [
+      "veinte punto cuatro"
+    ],
+    "20point5": [
+      "veinte punto cinco"
+    ],
+    "20point6": [
+      "veinte punto seis"
+    ],
+    "20point7": [
+      "veinte punto siete"
+    ],
+    "20point8": [
+      "veinte punto ocho"
+    ],
+    "20point9": [
+      "veinte punto nueve"
+    ],
+    "21point1": [
+      "veintiuno punto uno"
+    ],
+    "21point2": [
+      "veintiuno punto dos"
+    ],
+    "21point3": [
+      "veintiuno punto tres"
+    ],
+    "21point4": [
+      "veintiuno punto cuatro"
+    ],
+    "21point5": [
+      "veintiuno punto cinco"
+    ],
+    "21point6": [
+      "veintiuno punto seis"
+    ],
+    "21point7": [
+      "veintiuno punto siete"
+    ],
+    "21point8": [
+      "veintiuno punto ocho"
+    ],
+    "21point9": [
+      "veintiuno punto nueve"
+    ],
+    "22point1": [
+      "veintidós punto uno"
+    ],
+    "22point2": [
+      "veintidós punto dos"
+    ],
+    "22point3": [
+      "veintidós punto tres"
+    ],
+    "22point4": [
+      "veintidós punto cuatro"
+    ],
+    "22point5": [
+      "veintidós punto cinco"
+    ],
+    "22point6": [
+      "veintidós punto seis"
+    ],
+    "22point7": [
+      "veintidós punto siete"
+    ],
+    "22point8": [
+      "veintidós punto ocho"
+    ],
+    "22point9": [
+      "veintidós punto nueve"
+    ],
+    "23point1": [
+      "veintitrés punto uno"
+    ],
+    "23point2": [
+      "veintitrés punto dos"
+    ],
+    "23point3": [
+      "veintitrés punto tres"
+    ],
+    "23point4": [
+      "veintitrés punto cuatro"
+    ],
+    "23point5": [
+      "veintitrés punto cinco"
+    ],
+    "23point6": [
+      "veintitrés punto seis"
+    ],
+    "23point7": [
+      "veintitrés punto siete"
+    ],
+    "23point8": [
+      "veintitrés punto ocho"
+    ],
+    "23point9": [
+      "veintitrés punto nueve"
+    ],
+    "24point1": [
+      "veinticuatro punto uno"
+    ],
+    "24point2": [
+      "veinticuatro punto dos"
+    ],
+    "24point3": [
+      "veinticuatro punto tres"
+    ],
+    "24point4": [
+      "veinticuatro punto cuatro"
+    ],
+    "24point5": [
+      "veinticuatro punto cinco"
+    ],
+    "24point6": [
+      "veinticuatro punto seis"
+    ],
+    "24point7": [
+      "veinticuatro punto siete"
+    ],
+    "24point8": [
+      "veinticuatro punto ocho"
+    ],
+    "24point9": [
+      "veinticuatro punto nueve"
+    ],
+    "25point1": [
+      "veinticinco punto uno"
+    ],
+    "25point2": [
+      "veinticinco punto dos"
+    ],
+    "25point3": [
+      "veinticinco punto tres"
+    ],
+    "25point4": [
+      "veinticinco punto cuatro"
+    ],
+    "25point5": [
+      "veinticinco punto cinco"
+    ],
+    "25point6": [
+      "veinticinco punto seis"
+    ],
+    "25point7": [
+      "veinticinco punto siete"
+    ],
+    "25point8": [
+      "veinticinco punto ocho"
+    ],
+    "25point9": [
+      "veinticinco punto nueve"
+    ],
+    "26point1": [
+      "veintiséis punto uno"
+    ],
+    "26point2": [
+      "veintiséis punto dos"
+    ],
+    "26point3": [
+      "veintiséis punto tres"
+    ],
+    "26point4": [
+      "veintiséis punto cuatro"
+    ],
+    "26point5": [
+      "veintiséis punto cinco"
+    ],
+    "26point6": [
+      "veintiséis punto seis"
+    ],
+    "26point7": [
+      "veintiséis punto siete"
+    ],
+    "26point8": [
+      "veintiséis punto ocho"
+    ],
+    "26point9": [
+      "veintiséis punto nueve"
+    ],
+    "27point1": [
+      "veintisiete punto uno"
+    ],
+    "27point2": [
+      "veintisiete punto dos"
+    ],
+    "27point3": [
+      "veintisiete punto tres"
+    ],
+    "27point4": [
+      "veintisiete punto cuatro"
+    ],
+    "27point5": [
+      "veintisiete punto cinco"
+    ],
+    "27point6": [
+      "veintisiete punto seis"
+    ],
+    "27point7": [
+      "veintisiete punto siete"
+    ],
+    "27point8": [
+      "veintisiete punto ocho"
+    ],
+    "27point9": [
+      "veintisiete punto nueve"
+    ],
+    "28point1": [
+      "veintiocho punto uno"
+    ],
+    "28point2": [
+      "veintiocho punto dos"
+    ],
+    "28point3": [
+      "veintiocho punto tres"
+    ],
+    "28point4": [
+      "veintiocho punto cuatro"
+    ],
+    "28point5": [
+      "veintiocho punto cinco"
+    ],
+    "28point6": [
+      "veintiocho punto seis"
+    ],
+    "28point7": [
+      "veintiocho punto siete"
+    ],
+    "28point8": [
+      "veintiocho punto ocho"
+    ],
+    "28point9": [
+      "veintiocho punto nueve"
+    ],
+    "29point1": [
+      "veintinueve punto uno"
+    ],
+    "29point2": [
+      "veintinueve punto dos"
+    ],
+    "29point3": [
+      "veintinueve punto tres"
+    ],
+    "29point4": [
+      "veintinueve punto cuatro"
+    ],
+    "29point5": [
+      "veintinueve punto cinco"
+    ],
+    "29point6": [
+      "veintinueve punto seis"
+    ],
+    "29point7": [
+      "veintinueve punto siete"
+    ],
+    "29point8": [
+      "veintinueve punto ocho"
+    ],
+    "29point9": [
+      "veintinueve punto nueve"
+    ],
+    "30point1": [
+      "treinta punto uno"
+    ],
+    "30point2": [
+      "treinta punto dos"
+    ],
+    "30point3": [
+      "treinta punto tres"
+    ],
+    "30point4": [
+      "treinta punto cuatro"
+    ],
+    "30point5": [
+      "treinta punto cinco"
+    ],
+    "30point6": [
+      "treinta punto seis"
+    ],
+    "30point7": [
+      "treinta punto siete"
+    ],
+    "30point8": [
+      "treinta punto ocho"
+    ],
+    "30point9": [
+      "treinta punto nueve"
+    ],
+    "31point1": [
+      "treinta y uno punto uno"
+    ],
+    "31point2": [
+      "treinta y uno punto dos"
+    ],
+    "31point3": [
+      "treinta y uno punto tres"
+    ],
+    "31point4": [
+      "treinta y uno punto cuatro"
+    ],
+    "31point5": [
+      "treinta y uno punto cinco"
+    ],
+    "31point6": [
+      "treinta y uno punto seis"
+    ],
+    "31point7": [
+      "treinta y uno punto siete"
+    ],
+    "31point8": [
+      "treinta y uno punto ocho"
+    ],
+    "31point9": [
+      "treinta y uno punto nueve"
+    ],
+    "32point1": [
+      "treinta y dos punto uno"
+    ],
+    "32point2": [
+      "treinta y dos punto dos"
+    ],
+    "32point3": [
+      "treinta y dos punto tres"
+    ],
+    "32point4": [
+      "treinta y dos punto cuatro"
+    ],
+    "32point5": [
+      "treinta y dos punto cinco"
+    ],
+    "32point6": [
+      "treinta y dos punto seis"
+    ],
+    "32point7": [
+      "treinta y dos punto siete"
+    ],
+    "32point8": [
+      "treinta y dos punto ocho"
+    ],
+    "32point9": [
+      "treinta y dos punto nueve"
+    ],
+    "33point1": [
+      "treinta y tres punto uno"
+    ],
+    "33point2": [
+      "treinta y tres punto dos"
+    ],
+    "33point3": [
+      "treinta y tres punto tres"
+    ],
+    "33point4": [
+      "treinta y tres punto cuatro"
+    ],
+    "33point5": [
+      "treinta y tres punto cinco"
+    ],
+    "33point6": [
+      "treinta y tres punto seis"
+    ],
+    "33point7": [
+      "treinta y tres punto siete"
+    ],
+    "33point8": [
+      "treinta y tres punto ocho"
+    ],
+    "33point9": [
+      "treinta y tres punto nueve"
+    ],
+    "34point1": [
+      "treinta y cuatro punto uno"
+    ],
+    "34point2": [
+      "treinta y cuatro punto dos"
+    ],
+    "34point3": [
+      "treinta y cuatro punto tres"
+    ],
+    "34point4": [
+      "treinta y cuatro punto cuatro"
+    ],
+    "34point5": [
+      "treinta y cuatro punto cinco"
+    ],
+    "34point6": [
+      "treinta y cuatro punto seis"
+    ],
+    "34point7": [
+      "treinta y cuatro punto siete"
+    ],
+    "34point8": [
+      "treinta y cuatro punto ocho"
+    ],
+    "34point9": [
+      "treinta y cuatro punto nueve"
+    ],
+    "35point1": [
+      "treinta y cinco punto uno"
+    ],
+    "35point2": [
+      "treinta y cinco punto dos"
+    ],
+    "35point3": [
+      "treinta y cinco punto tres"
+    ],
+    "35point4": [
+      "treinta y cinco punto cuatro"
+    ],
+    "35point5": [
+      "treinta y cinco punto cinco"
+    ],
+    "35point6": [
+      "treinta y cinco punto seis"
+    ],
+    "35point7": [
+      "treinta y cinco punto siete"
+    ],
+    "35point8": [
+      "treinta y cinco punto ocho"
+    ],
+    "35point9": [
+      "treinta y cinco punto nueve"
+    ],
+    "36point1": [
+      "treinta y seis punto uno"
+    ],
+    "36point2": [
+      "treinta y seis punto dos"
+    ],
+    "36point3": [
+      "treinta y seis punto tres"
+    ],
+    "36point4": [
+      "treinta y seis punto cuatro"
+    ],
+    "36point5": [
+      "treinta y seis punto cinco"
+    ],
+    "36point6": [
+      "treinta y seis punto seis"
+    ],
+    "36point7": [
+      "treinta y seis punto siete"
+    ],
+    "36point8": [
+      "treinta y seis punto ocho"
+    ],
+    "36point9": [
+      "treinta y seis punto nueve"
+    ],
+    "37point1": [
+      "treinta y siete punto uno"
+    ],
+    "37point2": [
+      "treinta y siete punto dos"
+    ],
+    "37point3": [
+      "treinta y siete punto tres"
+    ],
+    "37point4": [
+      "treinta y siete punto cuatro"
+    ],
+    "37point5": [
+      "treinta y siete punto cinco"
+    ],
+    "37point6": [
+      "treinta y siete punto seis"
+    ],
+    "37point7": [
+      "treinta y siete punto siete"
+    ],
+    "37point8": [
+      "treinta y siete punto ocho"
+    ],
+    "37point9": [
+      "treinta y siete punto nueve"
+    ],
+
+    "38point1": [
+      "treinta y ocho punto uno"
+    ],
+    "38point2": [
+      "treinta y ocho punto dos"
+    ],
+    "38point3": [
+      "treinta y ocho punto tres"
+    ],
+    "38point4": [
+      "treinta y ocho punto cuatro"
+    ],
+    "38point5": [
+      "treinta y ocho punto cinco"
+    ],
+    "38point6": [
+      "treinta y ocho punto seis"
+    ],
+    "38point7": [
+      "treinta y ocho punto siete"
+    ],
+    "38point8": [
+      "treinta y ocho punto ocho"
+    ],
+    "38point9": [
+      "treinta y ocho punto nueve"
+    ],
+    "39point1": [
+      "treinta y nueve punto uno"
+    ],
+    "39point2": [
+      "treinta y nueve punto dos"
+    ],
+    "39point3": [
+      "treinta y nueve punto tres"
+    ],
+    "39point4": [
+      "treinta y nueve punto cuatro"
+    ],
+    "39point5": [
+      "treinta y nueve punto cinco"
+    ],
+    "39point6": [
+      "treinta y nueve punto seis"
+    ],
+    "39point7": [
+      "treinta y nueve punto siete"
+    ],
+    "39point8": [
+      "treinta y nueve punto ocho"
+    ],
+    "39point9": [
+      "treinta y nueve punto nueve"
+    ],
+    "40point1": [
+      "cuarenta punto uno"
+    ],
+    "40point2": [
+      "cuarenta punto dos"
+    ],
+    "40point3": [
+      "cuarenta punto tres"
+    ],
+    "40point4": [
+      "cuarenta punto cuatro"
+    ],
+    "40point5": [
+      "cuarenta punto cinco"
+    ],
+    "40point6": [
+      "cuarenta punto seis"
+    ],
+    "40point7": [
+      "cuarenta punto siete"
+    ],
+    "40point8": [
+      "cuarenta punto ocho"
+    ],
+    "40point9": [
+      "cuarenta punto nueve"
+    ],
+    "41point1": [
+      "cuarenta y uno punto uno"
+    ],
+    "41point2": [
+      "cuarenta y uno punto dos"
+    ],
+    "41point3": [
+      "cuarenta y uno punto tres"
+    ],
+    "41point4": [
+      "cuarenta y uno punto cuatro"
+    ],
+    "41point5": [
+      "cuarenta y uno punto cinco"
+    ],
+    "41point6": [
+      "cuarenta y uno punto seis"
+    ],
+    "41point7": [
+      "cuarenta y uno punto siete"
+    ],
+    "41point8": [
+      "cuarenta y uno punto ocho"
+    ],
+    "41point9": [
+      "cuarenta y uno punto nueve"
+    ],
+
+    "42point1": [
+      "cuarenta y dos punto uno"
+    ],
+    "42point2": [
+      "cuarenta y dos punto dos"
+    ],
+    "42point3": [
+      "cuarenta y dos punto tres"
+    ],
+    "42point4": [
+      "cuarenta y dos punto cuatro"
+    ],
+    "42point5": [
+      "cuarenta y dos punto cinco"
+    ],
+    "42point6": [
+      "cuarenta y dos punto seis"
+    ],
+    "42point7": [
+      "cuarenta y dos punto siete"
+    ],
+    "42point8": [
+      "cuarenta y dos punto ocho"
+    ],
+    "42point9": [
+      "cuarenta y dos punto nueve"
+    ],
+    "43point1": [
+      "cuarenta y tres punto uno"
+    ],
+    "43point2": [
+      "cuarenta y tres punto dos"
+    ],
+    "43point3": [
+      "cuarenta y tres punto tres"
+    ],
+    "43point4": [
+      "cuarenta y tres punto cuatro"
+    ],
+    "43point5": [
+      "cuarenta y tres punto cinco"
+    ],
+    "43point6": [
+      "cuarenta y tres punto seis"
+    ],
+    "43point7": [
+      "cuarenta y tres punto siete"
+    ],
+    "43point8": [
+      "cuarenta y tres punto ocho"
+    ],
+    "43point9": [
+      "cuarenta y tres punto nueve"
+    ],
+    "44point1": [
+      "cuarenta y cuatro punto uno"
+    ],
+    "44point2": [
+      "cuarenta y cuatro punto dos"
+    ],
+    "44point3": [
+      "cuarenta y cuatro punto tres"
+    ],
+    "44point4": [
+      "cuarenta y cuatro punto cuatro"
+    ],
+    "44point5": [
+      "cuarenta y cuatro punto cinco"
+    ],
+    "44point6": [
+      "cuarenta y cuatro punto seis"
+    ],
+    "44point7": [
+      "cuarenta y cuatro punto siete"
+    ],
+    "44point8": [
+      "cuarenta y cuatro punto ocho"
+    ],
+    "44point9": [
+      "cuarenta y cuatro punto nueve"
+    ],
+    "45point1": [
+      "cuarenta y cinco punto uno"
+    ],
+    "45point2": [
+      "cuarenta y cinco punto dos"
+    ],
+    "45point3": [
+      "cuarenta y cinco punto tres"
+    ],
+    "45point4": [
+      "cuarenta y cinco punto cuatro"
+    ],
+    "45point5": [
+      "cuarenta y cinco punto cinco"
+    ],
+    "45point6": [
+      "cuarenta y cinco punto seis"
+    ],
+    "45point7": [
+      "cuarenta y cinco punto siete"
+    ],
+    "45point8": [
+      "cuarenta y cinco punto ocho"
+    ],
+    "45point9": [
+      "cuarenta y cinco punto nueve"
+    ],
+    "46point1": [
+      "cuarenta y seis punto uno"
+    ],
+    "46point2": [
+      "cuarenta y seis punto dos"
+    ],
+    "46point3": [
+      "cuarenta y seis punto tres"
+    ],
+    "46point4": [
+      "cuarenta y seis punto cuatro"
+    ],
+    "46point5": [
+      "cuarenta y seis punto cinco"
+    ],
+    "46point6": [
+      "cuarenta y seis punto seis"
+    ],
+    "46point7": [
+      "cuarenta y seis punto siete"
+    ],
+    "46point8": [
+      "cuarenta y seis punto ocho"
+    ],
+    "46point9": [
+      "cuarenta y seis punto nueve"
+    ],
+    "47point1": [
+      "cuarenta y siete punto uno"
+    ],
+    "47point2": [
+      "cuarenta y siete punto dos"
+    ],
+    "47point3": [
+      "cuarenta y siete punto tres"
+    ],
+    "47point4": [
+      "cuarenta y siete punto cuatro"
+    ],
+    "47point5": [
+      "cuarenta y siete punto cinco"
+    ],
+    "47point6": [
+      "cuarenta y siete punto seis"
+    ],
+    "47point7": [
+      "cuarenta y siete punto siete"
+    ],
+    "47point8": [
+      "cuarenta y siete punto ocho"
+    ],
+    "47point9": [
+      "cuarenta y siete punto nueve"
+    ],
+    "48point1": [
+      "cuarenta y ocho punto uno"
+    ],
+    "48point2": [
+      "cuarenta y ocho punto dos"
+    ],
+    "48point3": [
+      "cuarenta y ocho punto tres"
+    ],
+    "48point4": [
+      "cuarenta y ocho punto cuatro"
+    ],
+    "48point5": [
+      "cuarenta y ocho punto cinco"
+    ],
+    "48point6": [
+      "cuarenta y ocho punto seis"
+    ],
+    "48point7": [
+      "cuarenta y ocho punto siete"
+    ],
+    "48point8": [
+      "cuarenta y ocho punto ocho"
+    ],
+    "48point9": [
+      "cuarenta y ocho punto nueve"
+    ],
+    "49point1": [
+      "cuarenta y nueve punto uno"
+    ],
+    "49point2": [
+      "cuarenta y nueve punto dos"
+    ],
+    "49point3": [
+      "cuarenta y nueve punto tres"
+    ],
+    "49point4": [
+      "cuarenta y nueve punto cuatro"
+    ],
+    "49point5": [
+      "cuarenta y nueve punto cinco"
+    ],
+    "49point6": [
+      "cuarenta y nueve punto seis"
+    ],
+    "49point7": [
+      "cuarenta y nueve punto siete"
+    ],
+    "49point8": [
+      "cuarenta y nueve punto ocho"
+    ],
+    "49point9": [
+      "cuarenta y nueve punto nueve"
+    ],
+    "50point1": [
+      "cincuenta punto uno"
+    ],
+    "50point2": [
+      "cincuenta punto dos"
+    ],
+    "50point3": [
+      "cincuenta punto tres"
+    ],
+    "50point4": [
+      "cincuenta punto cuatro"
+    ],
+    "50point5": [
+      "cincuenta punto cinco"
+    ],
+    "50point6": [
+      "cincuenta punto seis"
+    ],
+    "50point7": [
+      "cincuenta punto siete"
+    ],
+    "50point8": [
+      "cincuenta punto ocho"
+    ],
+    "50point9": [
+      "cincuenta punto nueve"
+    ],
+    "51point1": [
+      "cincuenta y uno punto uno"
+    ],
+    "51point2": [
+      "cincuenta y uno punto dos"
+    ],
+    "51point3": [
+      "cincuenta y uno punto tres"
+    ],
+    "51point4": [
+      "cincuenta y uno punto cuatro"
+    ],
+    "51point5": [
+      "cincuenta y uno punto cinco"
+    ],
+    "51point6": [
+      "cincuenta y uno punto seis"
+    ],
+    "51point7": [
+      "cincuenta y uno punto siete"
+    ],
+    "51point8": [
+      "cincuenta y uno punto ocho"
+    ],
+    "51point9": [
+      "cincuenta y uno punto nueve"
+    ],
+    "52point1": [
+      "cincuenta y dos punto uno"
+    ],
+    "52point2": [
+      "cincuenta y dos punto dos"
+    ],
+    "52point3": [
+      "cincuenta y dos punto tres"
+    ],
+    "52point4": [
+      "cincuenta y dos punto cuatro"
+    ],
+    "52point5": [
+      "cincuenta y dos punto cinco"
+    ],
+    "52point6": [
+      "cincuenta y dos punto seis"
+    ],
+    "52point7": [
+      "cincuenta y dos punto siete"
+    ],
+    "52point8": [
+      "cincuenta y dos punto ocho"
+    ],
+    "52point9": [
+      "cincuenta y dos punto nueve"
+    ],
+    "53point1": [
+      "cincuenta y tres punto uno"
+    ],
+    "53point2": [
+      "cincuenta y tres punto dos"
+    ],
+    "53point3": [
+      "cincuenta y tres punto tres"
+    ],
+    "53point4": [
+      "cincuenta y tres punto cuatro"
+    ],
+    "53point5": [
+      "cincuenta y tres punto cinco"
+    ],
+    "53point6": [
+      "cincuenta y tres punto seis"
+    ],
+    "53point7": [
+      "cincuenta y tres punto siete"
+    ],
+    "53point8": [
+      "cincuenta y tres punto ocho"
+    ],
+    "53point9": [
+      "cincuenta y tres punto nueve"
+    ],
+    "54point1": [
+      "cincuenta y cuatro punto uno"
+    ],
+    "54point2": [
+      "cincuenta y cuatro punto dos"
+    ],
+    "54point3": [
+      "cincuenta y cuatro punto tres"
+    ],
+    "54point4": [
+      "cincuenta y cuatro punto cuatro"
+    ],
+    "54point5": [
+      "cincuenta y cuatro punto cinco"
+    ],
+    "54point6": [
+      "cincuenta y cuatro punto seis"
+    ],
+    "54point7": [
+      "cincuenta y cuatro punto siete"
+    ],
+    "54point8": [
+      "cincuenta y cuatro punto ocho"
+    ],
+    "54point9": [
+      "cincuenta y cuatro punto nueve"
+    ],
+    "55point1": [
+      "cincuenta y cinco punto uno"
+    ],
+    "55point2": [
+      "cincuenta y cinco punto dos"
+    ],
+    "55point3": [
+      "cincuenta y cinco punto tres"
+    ],
+    "55point4": [
+      "cincuenta y cinco punto cuatro"
+    ],
+    "55point5": [
+      "cincuenta y cinco punto cinco"
+    ],
+    "55point6": [
+      "cincuenta y cinco punto seis"
+    ],
+    "55point7": [
+      "cincuenta y cinco punto siete"
+    ],
+    "55point8": [
+      "cincuenta y cinco punto ocho"
+    ],
+    "55point9": [
+      "cincuenta y cinco punto nueve"
+    ],
+    "56point1": [
+      "cincuenta y seis punto uno"
+    ],
+    "56point2": [
+      "cincuenta y seis punto dos"
+    ],
+    "56point3": [
+      "cincuenta y seis punto tres"
+    ],
+    "56point4": [
+      "cincuenta y seis punto cuatro"
+    ],
+    "56point5": [
+      "cincuenta y seis punto cinco"
+    ],
+    "56point6": [
+      "cincuenta y seis punto seis"
+    ],
+    "56point7": [
+      "cincuenta y seis punto siete"
+    ],
+    "56point8": [
+      "cincuenta y seis punto ocho"
+    ],
+    "56point9": [
+      "cincuenta y seis punto nueve"
+    ],
+    "57point1": [
+      "cincuenta y siete punto uno"
+    ],
+    "57point2": [
+      "cincuenta y siete punto dos"
+    ],
+    "57point3": [
+      "cincuenta y siete punto tres"
+    ],
+    "57point4": [
+      "cincuenta y siete punto cuatro"
+    ],
+    "57point5": [
+      "cincuenta y siete punto cinco"
+    ],
+    "57point6": [
+      "cincuenta y siete punto seis"
+    ],
+    "57point7": [
+      "cincuenta y siete punto siete"
+    ],
+    "57point8": [
+      "cincuenta y siete punto ocho"
+    ],
+    "57point9": [
+      "cincuenta y siete punto nueve"
+    ],
+    "58point1": [
+      "cincuenta y ocho punto uno"
+    ],
+    "58point2": [
+      "cincuenta y ocho punto dos"
+    ],
+    "58point3": [
+      "cincuenta y ocho punto tres"
+    ],
+    "58point4": [
+      "cincuenta y ocho punto cuatro"
+    ],
+    "58point5": [
+      "cincuenta y ocho punto cinco"
+    ],
+    "58point6": [
+      "cincuenta y ocho punto seis"
+    ],
+    "58point7": [
+      "cincuenta y ocho punto siete"
+    ],
+    "58point8": [
+      "cincuenta y ocho punto ocho"
+    ],
+    "58point9": [
+      "cincuenta y ocho punto nueve"
+    ],
+    "59point1": [
+      "cincuenta y nueve punto uno"
+    ],
+    "59point2": [
+      "cincuenta y nueve punto dos"
+    ],
+    "59point3": [
+      "cincuenta y nueve punto tres"
+    ],
+    "59point4": [
+      "cincuenta y nueve punto cuatro"
+    ],
+    "59point5": [
+      "cincuenta y nueve punto cinco"
+    ],
+    "59point6": [
+      "cincuenta y nueve punto seis"
+    ],
+    "59point7": [
+      "cincuenta y nueve punto siete"
+    ],
+    "59point8": [
+      "cincuenta y nueve punto ocho"
+    ],
+    "59point9": [
+      "cincuenta y nueve punto nueve"
+    ]
+  }
+}

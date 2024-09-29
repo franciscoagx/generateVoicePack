@@ -1,0 +1,323 @@
+{
+  "lap_times": {
+    "sector1_and_3_two_tenths_off_pace": [
+      "los sectores 1 y 3 están a 2 décimas del ritmo",
+      "estás 2 décimas abajo en los sectores 1 y 3",
+      "estás a 2 décimas del ritmo en los sectores 1 y 3"
+    ],
+    "sector2_fastest": [
+      "el sector 2 es el más rápido",
+      "eres el más rápido en el sector 2"
+    ],
+    "sector1_and_3_are": [
+      "los sectores 1 y 3 están"
+    ],
+    "sector2_and_3_a_second_off_pace": [
+      "estás a un segundo en los sectores 2 y 3",
+      "pierdes un segundo en los sectores 2 y 3",
+      "los sectores 2 y 3 están a un segundo del ritmo"
+    ],
+    "sector2_two_tenths_off_self_pace": [
+      "el sector 2 está a 2 décimas de tu mejor tiempo",
+      "estás a 2 décimas de tu mejor tiempo en el sector 2"
+    ],
+    "best_lap_in_race_for_class": [
+      "es la vuelta más rápida en tu clase",
+      "es la mejor vuelta en tu clase"
+    ],
+    "sector1_and_3_a_second_off_pace": [
+      "estás a un segundo del ritmo en los sectores 1 y 3",
+      "los sectores 1 y 3 están a un segundo del ritmo"
+    ],
+    "sector1_and_3_a_tenth_off_self_pace": [
+      "los sectores 1 y 3 están a una décima de tu mejor tiempo"
+    ],
+    "gap_intro": [
+      "ahora estás",
+      "actualmente estás",
+      "eso te coloca"
+    ],
+    "quickest_in_class": [
+      "eres el más rápido en tu clase"
+    ],
+    "sector1_a_second_off_pace": [
+      "estás a un segundo en el sector 1",
+      "estás a un segundo del ritmo en el sector 1"
+    ],
+    "sector3_fast": [
+      "el tiempo del sector 3 está bien",
+      "el tiempo del sector 3 es rápido"
+    ],
+    "sector1_is": [
+      "el sector 1 está"
+    ],
+    "sector3_two_tenths_off_self_pace": [
+      "estás a 2 décimas de tu mejor tiempo en el sector 3"
+    ],
+    "need_to_find_a_second": [
+      "necesitamos encontrar un segundo",
+      "necesitamos reducir alrededor de un segundo"
+    ],
+    "sector3_a_second_off_pace": [
+      "el sector 3 está a un segundo del ritmo",
+      "estás a un segundo en el sector 3"
+    ],
+    "sector1_and_2_a_second_off_pace": [
+      "estás a un segundo en los sectores 1 y 2",
+      "los sectores 1 y 2 están a un segundo del ritmo"
+    ],
+    "sector2_a_second_off_pace": [
+      "el sector 2 está a un segundo del ritmo"
+    ],
+    "sector2_fast": [
+      "el tiempo del sector 2 es rápido",
+      "el tiempo del sector 2 está bien"
+    ],
+    "sector1_and_3_a_tenth_off_pace": [
+      "estás a una décima del ritmo en los sectores 1 y 3"
+    ],
+    "sector1_a_tenth_off_pace": [
+      "estás a una décima del ritmo en el sector 1"
+    ],
+    "consistent": [
+      "tus tiempos de vuelta son bastante consistentes",
+      "buena consistencia, sigue así"
+    ],
+    "need_to_find_one_more_tenth": [
+      "necesitamos encontrar solo una décima más",
+      "solo una décima más, eso es todo lo que necesitamos"
+    ],
+    "sector3_two_tenths_off_pace": [
+      "el sector 3 está a 2 décimas del ritmo"
+    ],
+    "sector1_two_tenths_off_pace": [
+      "estás a 2 décimas del ritmo en el sector 1"
+    ],
+    "need_to_find_a_few_more_tenths": [
+      "necesitamos encontrar unas décimas más",
+      "necesitamos reducir unas pocas décimas"
+    ],
+    "sector3_fastest": [
+      "eres el más rápido en el sector 3",
+      "el sector 3 es el más rápido"
+    ],
+    "sector1_and_2_are": [
+      "los sectores 1 y 2 están"
+    ],
+    "sector2_a_tenth_off_pace": [
+      "estás a una décima del ritmo en el sector 2"
+    ],
+    "less_than_a_tenth_off_the_pace": [
+      "estás a menos de una décima del ritmo"
+    ],
+    "sector1_and_2_fast": [
+      "los sectores 1 y 2 son rápidos",
+      "tu ritmo es bueno en los sectores 1 y 2"
+    ],
+    "sector2_and_3_two_tenths_off_self_pace": [
+      "estás a 2 décimas de tu mejor tiempo en los sectores 2 y 3"
+    ],
+    "sector_all_fast": [
+      "los 3 sectores son bastante rápidos",
+      "tus tiempos son buenos en los 3 sectores"
+    ],
+    "pace_good": [
+      "el ritmo es excelente",
+      "el ritmo es perfecto",
+      "el ritmo es realmente bueno"
+    ],
+    "sector1_and_2_a_tenth_off_self_pace": [
+      "los sectores 1 y 2 están a una décima de tu mejor tiempo"
+    ],
+    "need_to_find_more_than_a_second": [
+      "necesitamos mejorar más de un segundo por vuelta",
+      "necesitamos encontrar más de un segundo por vuelta"
+    ],
+    "sector2_is": [
+      "el sector 2 está"
+    ],
+    "gap_outro_off_pace": [
+      "fuera del ritmo",
+      "por detrás del ritmo del líder"
+    ],
+    "sector1_and_3_fastest": [
+      "los sectores 1 y 3 son los más rápidos",
+      "eres el más rápido en los sectores 1 y 3"
+    ],
+    "sector1_and_2_two_tenths_off_self_pace": [
+      "estás a 2 décimas de tu mejor tiempo en los sectores 1 y 2"
+    ],
+    "sector1_and_3_two_tenths_off_self_pace": [
+      "estás a 2 décimas de tu mejor tiempo en los sectores 1 y 3"
+    ],
+    "sector1_a_tenth_off_self_pace": [
+      "el sector 1 está a una décima de tu mejor tiempo"
+    ],
+    "sector2_a_tenth_off_self_pace": [
+      "el sector 2 está a una décima de tu mejor tiempo"
+    ],
+    "sector2_and_3_fast": [
+      "los sectores 2 y 3 son rápidos"
+    ],
+    "matching_race_pace": [
+      "estamos igualando el ritmo de carrera",
+      "estás igualando el ritmo de carrera"
+    ],
+    "sector1_fast": [
+      "el tiempo del sector 1 es rápido"
+    ],
+    "fastest_in_your_class": [
+      "esa es la vuelta más rápida en tu clase"
+    ],
+    "sector_all_a_few_tenths_off_pace": [
+      "estás a unas décimas del ritmo en todos los sectores",
+      "todos los sectores están a unas décimas del ritmo"
+    ],
+    "sector_all_a_second_off_pace": [
+      "todos los sectores están a un segundo del ritmo",
+      "estás a un segundo en todos los sectores"
+    ],
+    "good_lap": [
+      "buena vuelta",
+      "vuelta decente, pero puedes ir más rápido"
+    ],
+    "quicker_than_second_place": [
+      "más rápido que el segundo lugar",
+      "adelante de P2"
+    ],
+    "sector1_two_tenths_off_self_pace": [
+      "estás a 2 décimas de tu mejor tiempo en el sector 1"
+    ],
+    "less_than_a_tenth_off_self_pace": [
+      "estás a menos de una décima de tu propio ritmo"
+    ],
+    "sector2_and_3_a_second_off_self_pace": [
+      "estás a un segundo de tu mejor tiempo en los sectores 2 y 3"
+    ],
+    "sector1_and_2_fastest": [
+      "los sectores 1 y 2 son los más rápidos"
+    ],
+    "time_intro": [
+      "tu tiempo de vuelta fue",
+      "esa vuelta fue de",
+      "el tiempo de tu vuelta fue"
+    ],
+    "quickest_overall": [
+      "eres el más rápido en general"
+    ],
+    "sector2_and_3_fastest": [
+      "eres el más rápido en los sectores 2 y 3",
+      "los sectores 2 y 3 son los más rápidos"
+    ],
+    "sector2_and_3_a_tenth_off_pace": [
+      "estás perdiendo una décima en los sectores 2 y 3"
+    ],
+    "setting_current_race_pace": [
+      "somos los más rápidos en este momento",
+      "estamos marcando el ritmo de carrera"
+    ],
+    "personal_best": [
+      "buena vuelta, es tu mejor tiempo del día",
+      "esa es tu vuelta más rápida hoy"
+    ],
+    "sector2_and_3_are": [
+      "los sectores 2 y 3 están"
+    ],
+    "sector2_and_3_two_tenths_off_pace": [
+      "los sectores 2 y 3 están a 2 décimas del ritmo"
+    ],
+    "sector2_and_3_a_tenth_off_self_pace": [
+      "los sectores 2 y 3 están a una décima de tu mejor tiempo"
+    ],
+    "sector_all_a_tenth_off_pace": [
+      "estás a una décima del ritmo en todos los sectores"
+    ],
+    "worsening": [
+      "tus tiempos están empeorando, vamos, recupéralo",
+      "tus tiempos están bajando, concéntrate"
+    ],
+    "sector_all_a_tenth_off_self_pace": [
+      "estás a una décima de tu mejor tiempo en todos los sectores"
+    ],
+    "off_the_self_pace": [
+      "por debajo de tu mejor tiempo",
+      "más lento que tu mejor tiempo"
+    ],
+    "sector3_a_second_off_self_pace": [
+      "el sector 3 está a un segundo de tu mejor tiempo"
+    ],
+    "sector3_a_tenth_off_self_pace": [
+      "el sector 3 está a una décima de tu mejor tiempo"
+    ],
+    "sector_all_are": [
+      "todos los sectores están"
+    ],
+    "sector3_is": [
+      "el sector 3 está"
+    ],
+    "sector_all_fastest": [
+      "todos los sectores son los más rápidos"
+    ],
+    "improving": [
+      "tus tiempos están mejorando",
+      "tus tiempos están mejorando, sigue así"
+    ],
+    "sector2_two_tenths_off_pace": [
+      "el sector 2 está a 2 décimas del ritmo"
+    ],
+    "sector1_fastest": [
+      "eres el más rápido en el sector 1"
+    ],
+    "sector1_and_2_two_tenths_off_pace": [
+      "estás perdiendo 2 décimas en los sectores 1 y 2"
+    ],
+    "pace_bad": [
+      "realmente necesitamos mejorar",
+      "necesitas volver a encontrar el ritmo"
+    ],
+    "sector1_and_2_a_tenth_off_pace": [
+      "estás a una décima del ritmo en los sectores 1 y 2"
+    ],
+    "sector1_and_3_a_second_off_self_pace": [
+      "estás a un segundo de tu mejor tiempo en los sectores 1 y 3"
+    ],
+    "sector2_a_second_off_self_pace": [
+      "el sector 2 está a un segundo de tu mejor tiempo"
+    ],
+    "sector1_a_second_off_self_pace": [
+      "el sector 1 está a un segundo de tu mejor tiempo"
+    ],
+    "sector_all_a_second_off_self_pace": [
+      "todos los sectores están a un segundo de tu mejor tiempo"
+    ],
+    "best_lap_in_race": [
+      "vuelta más rápida",
+      "esa es la vuelta más rápida de la carrera"
+    ],
+    "sector_all_two_tenths_off_pace": [
+      "todos los sectores están a 2 décimas del ritmo"
+    ],
+    "sector3_a_tenth_off_pace": [
+      "necesitas encontrar una décima en el sector 3"
+    ],
+    "sector1_and_3_fast": [
+      "los sectores 1 y 3 son rápidos",
+      "los sectores 1 y 3 están bien"
+    ],
+    "sector_all_more_than_a_second_off_pace": [
+      "estás a más de un segundo del ritmo en todos los sectores"
+    ],
+    "sector1_and_2_a_second_off_self_pace": [
+      "los sectores 1 y 2 están a un segundo de tu mejor tiempo"
+    ],
+    "off_the_pace": [
+      "fuera del ritmo"
+    ],
+    "sector_all_two_tenths_off_self_pace": [
+      "todos los sectores están a 2 décimas de tu mejor tiempo"
+    ],
+    "pace_ok": [
+      "el ritmo está bien"
+    ]
+  }
+}

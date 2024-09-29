@@ -1,0 +1,110 @@
+{
+  "opponents": {
+    "ahead_is_pitting": [
+      "el de adelante está entrando a boxes",
+      "el coche de enfrente está entrando a boxes"
+    ],
+    "car_exiting_pits_be_careful": [
+      "hay un coche saliendo de los boxes, cuidado",
+      "hay un coche saliendo de los boxes, ten cuidado"
+    ],
+    "is_pitting": [
+      "está entrando a boxes"
+    ],
+    "the_car_behind_has_just_done_a": [
+      "el de atrás acaba de hacer un"
+    ],
+    "the_car_behind_is_pitting": [
+      "el coche de atrás está entrando a boxes",
+      "el coche de atrás está en boxes ahora"
+    ],
+    "the_leader_has_just_done_a": [
+      "el líder acaba de hacer un"
+    ],
+    "rating_intro": [
+      "y su calificación es"
+    ],
+    "the_car_ahead_has_just_done_a": [
+      "el coche de enfrente hizo un tiempo de",
+      "el de adelante acaba de marcar un",
+      "el de enfrente acaba de hacer un"
+    ],
+    "we_are": [
+      "somos nosotros",
+      "estamos"
+    ],
+    "has_just_been_disqualified": [
+      "ha sido descalificado",
+      "acaba de ser descalificado"
+    ],
+    "the_leader_is_now_on": [
+      "el líder está ahora en"
+    ],
+    "next_car_is": [
+      "el coche de adelante está",
+      "el siguiente coche está",
+      "el de enfrente está",
+      "el coche delante de nosotros está"
+    ],
+    "is_now_leading": [
+      "está liderando la carrera",
+      "está ahora en la delantera"
+    ],
+    "car_number": [
+      "coche número"
+    ],
+    "new_fastest_lap_for": [
+      "nueva vuelta rápida para",
+      "la vuelta más rápida es para"
+    ],
+    "the_car_ahead_is_now_on": [
+      "el coche de adelante está en",
+      "el coche de adelante está ahora en"
+    ],
+    "one_lap_ahead": [
+      "una vuelta adelante",
+      "una vuelta al frente"
+    ],
+    "has_just_retired": [
+      "ha abandonado",
+      "ha abandonado la carrera"
+    ],
+    "one_lap_behind": [
+      "una vuelta atrás",
+      "a una vuelta detrás"
+    ],
+    "the_car_behind_is_now_on": [
+      "el coche de atrás está en",
+      "el coche detrás está ahora en"
+    ],
+    "the_leader": [
+      "el líder"
+    ],
+    "reputation_intro": [
+      "su reputación es"
+    ],
+    "slow_car_ahead": [
+      "hay un coche lento adelante",
+      "tienes un coche lento adelante"
+    ],
+    "the_leader_is_pitting": [
+      "el líder está entrando a boxes",
+      "el líder está en boxes ahora"
+    ],
+    "behind_is_pitting": [
+      "el de atrás está entrando a boxes",
+      "el de atrás está en boxes"
+    ],
+    "the_car_ahead_is_pitting": [
+      "el coche de adelante está entrando a boxes",
+      "el coche de enfrente está en boxes"
+    ],
+    "is_now_on": [
+      "está ahora en"
+    ],
+    "cant_pronounce_name": [
+      "no sé cómo se llama",
+      "no puedo pronunciar ese nombre"
+    ]
+  }
+}

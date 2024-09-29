@@ -1,0 +1,256 @@
+{
+  "timings": {
+    "he_is_slower_through_corner": [
+      "they're slow through",
+      "he's pretty slow through",
+      "he's slow through",
+      "they're pretty slow through",
+      "they're slower than us through",
+      "he's slower than us through"
+    ],
+    "below_average_reputation": [
+      "sketchy",
+      "not the cleanest racer"
+    ],
+    "opponent_behind_has_below_average_reputation": [
+      "watch your mirrors here, the guy behind's reputation's not great",
+      "the guy behind's reputation isn't as good as it should be, take care",
+      "the guy behind's had a few incidents recently",
+      "the driver behind is not the cleanest racer, take care here",
+      "the guy behind's had a lot of incidents recently, bear it in mind",
+      "the guy behind's a bit sketchy, watch your mirrors here",
+      "the driver behind's got a sketchy reputation, be careful",
+      "the driver behind's had lots of incidents lately, bare it in mind",
+      "the driver behind's reputation is not good",
+      "watch your mirrors here, the driver behind's reputation is not great",
+      "the driver behind's a bit sketchy, watch your mirrors here",
+      "the guy behind's not the cleanest racer, take care here",
+      "the driver behind's had a few incidents lately, bare it in mind",
+      "the guy behind's got a bit of a sketchy reputation, be careful",
+      "the guy behind doesn't race very clean",
+      "the guy behind isn't the cleanest racer, watch yourself",
+      "the guy behind's reputation isn't great"
+    ],
+    "opponent_ahead_has_below_average_reputation": [
+      "this guy's not got a good reputation, be a bit careful here",
+      "the guys in front's a bit incident prone, be careful here",
+      "the driver in front's reputation isn't great",
+      "this driver's reputation's not great",
+      "this driver's rep is below average, watch yourself",
+      "this guy's reputation's a bit sketchy, bear it in mind",
+      "the driver in front's reputation's not good, take care",
+      "this driver's reputation's a it sketchy, bare it in mind",
+      "the guy in front's had a lot of incidents, give him a wide berth",
+      "the guy in front's reputation is not good, take care",
+      "this guy's had a lot of incidents, bear it in mind",
+      "this guy's rep is below average, watch yourself",
+      "this driver's not got a good reputation, be careful",
+      "this guy's reputation's not great",
+      "the driver in front's not known for playing fair, be careful",
+      "the driver in front's had a lot of incidents, bare it in mind"
+    ],
+    "he_is_faster_entering_corner": [
+      "they're faster than us into",
+      "they're quicker than you entering",
+      "he's faster than you entering",
+      "they're quicker than us entering",
+      "he's faster than you into",
+      "he's quicker than you into"
+    ],
+    "gap_behind_decreasing": [
+      "the car behind is catching, the gap's now",
+      "the gap behind has now decreased to",
+      "the guy behind's catching, the gap is now",
+      "the car behind is reeling you in, the gap is now",
+      "the guy behind's reeling you in, the gap's now"
+    ],
+    "ahead_is_now": [
+      "ahead is now",
+      "in front is now"
+    ],
+    "he_is_slower_entering_corner": [
+      "he's pretty slow into",
+      "they're slower than us into",
+      "they're slow into",
+      "he's slower than us into",
+      "he's slow into",
+      "they're pretty slow into"
+    ],
+    "he_is_faster_through_corner": [
+      "he's quicker than us through",
+      "they're faster than use through",
+      "they're quicker than us through",
+      "he's quicker than us in",
+      "they're faster than us in",
+      "he's faster than you through"
+    ],
+    "seconds": [
+      "seconds"
+    ],
+    "gap_in_front_is_now": [
+      "the gap in front is now",
+      "the gap ahead is now"
+    ],
+    "bad_reputation": [
+      "really accident prone",
+      "accident prone",
+      "poor reputation",
+      "bad reputation",
+      "bad rep"
+    ],
+    "opponent_ahead_has_bad_reputation": [
+      "take care here, the driver in front's not know for playing fair",
+      "take care here, the driver in front's got previous",
+      "this guy's got a bad reputation, watch yourself",
+      "the guy in front's got a bad reputation",
+      "this driver's got a bad reputation, don't expect a fair fight",
+      "take care, this guy's got a bad reputation",
+      "the driver in front's got a bad reputation",
+      "the driver in front's not a clean racer, bare it in mind",
+      "take care, this driver's got a bad rep",
+      "this guy's got a bad reputation, watch yourself when you pass",
+      "this guy's got a bad rep, don't expect a fair fight",
+      "be careful here, the guy in front's not known for playing fair",
+      "be careful with this guy, he's got a bad reputation",
+      "the guy in front's not a clean racer, bear it in mind",
+      "take care, the guy in front's got previous",
+      "this driver's got a bad reputation, watch yourself when you pass"
+    ],
+    "gap_behind_is_now": [
+      "the gap behind is now"
+    ],
+    "youre_reeling": [
+      "you're reeling"
+    ],
+    "behind_is_now": [
+      "behind is now"
+    ],
+    "is_reeling_you_in": [
+      "is closing you down, the gap has come down to",
+      "is getting closer, the gap's come down to",
+      "is reeling you in, the gap's now",
+      "is getting closer, the gap is now",
+      "is getting closer, the gap's now",
+      "is gaining on you, the gap's now",
+      "is closing in, the gap is now",
+      "is closing the gap, it's now",
+      "is gaining on you, the gap is now"
+    ],
+    "opponent_behind_has_bad_reputation": [
+      "the guy behind's really accident-prone, be careful here",
+      "the guy behind's got a poor reputation, prepare for trouble",
+      "the guy behind's got a bad reputation",
+      "the guy behind's not know for driving clean, watch yourself here",
+      "the guy behind's got a bad reputation, take care",
+      "the driver behind is really accident prone, be careful here",
+      "the driver behind's got a poor reputation, expect trouble",
+      "watch your mirrors, this guy's had a lot of incidents",
+      "the guy behind's really accident-prone, be careful",
+      "the driver behind's reputation is really bad, be careful",
+      "the guy behind's got a bad rep",
+      "the guy behind's had loads of incidents, be careful",
+      "the driver behind is not known for driving clean, watch out",
+      "the driver behind has got a bad rep, take care",
+      "the driver behind's had loads of incidents, be careful"
+    ],
+    "behind_is_increasing": [
+      "behind is increasing, it's now"
+    ],
+    "gap_in_front_decreasing": [
+      "you're gaining on this guy, the gap's now",
+      "you're gaining on the guy in front, the gap is",
+      "you're reeling this car in, the gap's now",
+      "you're reeling this guy in, the gap's now",
+      "you're gaining on this car, the gap is",
+      "you're gaining on the car in front, the gap's now"
+    ],
+    "being_held_up": [
+      "stay close, there might be a chance here",
+      "stay close",
+      "you're wasting time behind this guy, get your elbows out and get around him",
+      "keep piling on the pressure, he'll make a mistake",
+      "come on, find a way around, we're losing time",
+      "keep pushing him, there'll be a chance here",
+      "come on, nail him already",
+      "pass the bastard, come on, do it now",
+      "come on, we can have this bastard",
+      "stay close, wait for him to make a mistake",
+      "come on, just send it",
+      "keep the pressure on, don't give him a break",
+      "keep the pressure on, don't give him any respite",
+      "we need to be in front of this guy",
+      "stay close, keep the pressure on",
+      "come on, just fucking send it",
+      "keep putting the pressure on, force a mistake",
+      "okay, mate, watch for a mistake",
+      "stay on him, there'll be a chance",
+      "stay close, see if we can unsettle him",
+      "come on, nail this fucker",
+      "come on, find a gap",
+      "stick with him, keep him under pressure",
+      "okay, mate, we really think you should pass this guy",
+      "don't wait too long, find that gap",
+      "come on, we need to be in front of this guy",
+      "you're losing time here, man, we need to pass him",
+      "come on, man, send it already",
+      "come on, pass him already",
+      "you need to pass this twat, you're losing too much time",
+      "come on, keep pressing him, force that mistake",
+      "we're wasting a lot of time here, get your elbows out and force the pass",
+      "keep him in your sights, force the mistake",
+      "keep searching, you'll find a gap",
+      "we really need to be in front of this car",
+      "you're just gonna have to send it, mate",
+      "this bastard's holding you up, you've gotta find a way past",
+      "come on, stop fannying about, fucking pass him",
+      "that's enough dicking about, come on, send it",
+      "there's gotta be a chance here, keep harrying him",
+      "stay close, wait for him to crack"
+    ],
+    "ahead_is_increasing": [
+      "ahead is increasing, it's now"
+    ],
+    "gap_in_front_increasing": [
+      "the gap in front is increasing, the gap is now",
+      "the gap in front has increased, it's now about",
+      "the gap in front has increased to"
+    ],
+    "in_the_gap_is_now": [
+      "in, the gap is",
+      "in, the gap is now"
+    ],
+    "the_gap_to": [
+      "the gap to"
+    ],
+    "being_pressured": [
+      "he's all over you, keep your exit speeds up, stay smooth",
+      "defend your position, don't let him through",
+      "hold your nerve, just keep it smooth, no mistakes",
+      "this fucker's trying to distract you, don't let him",
+      "don't be pressured, keep your exit speeds up",
+      "make him do all the work, focus on your exits",
+      "keep your concentration, make the bastard work for it",
+      "don't let this guy intimidate you",
+      "ignore that fucker in the mirror, stick to your line, nail those exits",
+      "come on, don't make it easy for him, make him go the long way around",
+      "don't be intimidated by this little shit, make him work for it",
+      "let's see how wide you can make this thing",
+      "hold your nerve, make them do the work",
+      "time to get defensive, mate",
+      "defend hard, make them work for it",
+      "don't be intimidated, keep him behind you",
+      "just ignore him, he'll go away",
+      "don't let this guy distract you",
+      "don't be distracted, defend your position",
+      "use all the track, force them to find the gap",
+      "stick to the plan, don't be intimidated",
+      "use all the track, force him to find the gap",
+      "slow in, fast out, keep the inside line covered"
+    ],
+    "gap_behind_increasing": [
+      "you're pulling away, the gap behind is now",
+      "you're pulling away from the guy behind, the gap's now",
+      "the gap behind's increased to"
+    ]
+  }
+}

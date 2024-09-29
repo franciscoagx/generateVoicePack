@@ -1,0 +1,38 @@
+{
+  "yellow_flag": [
+    "yellow flag, keep your wits about you, mate",
+    "yellow flag",
+    "yellow flag, watch out"
+  ],
+  "yellow_flag_sector_1": [
+    "yellow flag, sector 1",
+    "yellow flag in sector 1",
+    "incident in sector 1, sector 1 is yellow",
+    "sector 1 is yellow"
+  ],
+  "yellow_flag_sector_2": [
+    "yellow flag in sector 2",
+    "incident in sector 2, sector 2 is yellow",
+    "sector 2 is yellow",
+    "yellow flag, sector 2"
+  ],
+  "yellow_flag_sector_3": [
+    "sector 3 is yellow",
+    "yellow flag, sector 3",
+    "yellow flag in sector 3",
+    "incident in sector 3, sector 3 is yellow"
+  ],
+  "blue_flag": [
+    "blue flag"
+  ],
+  "black_flag": [
+    "we're shown the black flag",
+    "black flag, we're being shown the black flag",
+    "black flag"
+  ],
+  "white_flag": [
+    "white flag, mate",
+    "white flag",
+    "there's a white flag"
+  ]
+}

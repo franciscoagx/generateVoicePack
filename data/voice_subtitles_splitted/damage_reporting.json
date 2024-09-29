@@ -1,0 +1,262 @@
+{
+  "damage_reporting": {
+    "busted_engine": [
+      "we've lost the engine, it's over",
+      "the engine's fucked, nicely done, mate",
+      "ah shit, that engine's completely gone, no chance of fixing that, mate",
+      "that engine's toast, mate, you're gonna have to wait for a tow"
+    ],
+    "busted_transmission": [
+      "switch it off, mate, there's nothing left of the transmission, we're done here",
+      "transmission's completely screwed, that's our race done",
+      "no chance of getting back to the pits with the transmission in that state, mate, you fucked it"
+    ],
+    "severe_transmission_damage": [
+      "your transmission's in a bad way, mate, you might not make it to the end",
+      "your transmission looks fucked, I don't think you'll get to the end with that",
+      "you made a right mess of this transmission, mate"
+    ],
+    "no_damage": [
+      "car looks fine, no significant damage",
+      "there's no significant damage",
+      "the car's looking good, no damage"
+    ],
+    "are_you_ok_first_try": [
+      "that looked bad, can you confirm that you're all right?",
+      "that looked like a bad one, are you okay?",
+      "are you all right, that was a big one?",
+      "are you all right, mate?",
+      "that looked bad, you okay?",
+      "fucking hell, that looked like it hurt, are you all right?",
+      "are you okay, mate?",
+      "shit, mate, that was bad, are you okay?",
+      "that was a big one, are you okay?",
+      "can you confirm you're okay?"
+    ],
+    "severe_suspension_damage": [
+      "you got some serious suspension damage there",
+      "your suspension's gonna need sorting, you'll need to come in",
+      "your suspension's looking pretty bad, mate"
+    ],
+    "acknowledge_driver_is_ok_not_understood": [
+      "good to hear you're okay",
+      "no idea what you just said, but at least it was something",
+      "I assume that means you're okay, thanks, mate",
+      "didn't really catch that, but at least you're talking",
+      "okay, sounds like you're all right",
+      "sounds like you're okay, thanks, mate"
+    ],
+    "right_front_puncture": [
+      "your right front's punctured",
+      "right front puncture"
+    ],
+    "trivial_aero_damage": [
+      "it's just a scratch, ignore it",
+      "tiny bit of aero damage there, you probably won't even feel it",
+      "that's barely a scratch, mate, just ignore it",
+      "it'll polish out, mate, forget about it",
+      "forget about that, it'll probably just polish out",
+      "tiny bit of aero damage, just ignore it",
+      "ignore that aero damage, it's nothing",
+      "you've taken a tiny bit of bodywork damage, but you won't feel it",
+      "it's fine mate, it's just a scrape",
+      "that's barely a scratch, just ignore it",
+      "you got a tiny bit of bodywork damage there, just ignore it"
+    ],
+    "severe_engine_damage": [
+      "that engine's in a bad way, just take it easy, let's see if we can get it to the finish",
+      "the engine's on its last legs, mate, try and give it some breathing space",
+      "the engine sounded absolutely terrible, just do what you can, mate"
+    ],
+    "minor_engine_damage": [
+      "your engine's running a bit rough, mate",
+      "that engine doesn't sound right, mate, we'll keep an eye on it",
+      "go easy on the engine or it's not gonna last the distance"
+    ],
+    "severe_brake_damage": [
+      "pit now, we need to fix these brakes",
+      "your brakes are looking really bad, come in",
+      "we're gonna have to fix these brakes, come in"
+    ],
+    "acknowledge_driver_is_ok": [
+      "just sit tight, help's on the way",
+      "that's good to know, thanks, mate",
+      "okay, just sit tight, the team's on it's way",
+      "okay, mate, just sit tight, the medical team are coming",
+      "okay, mate, thanks for the update",
+      "thanks for the update",
+      "that's a relief",
+      "that's good to know"
+    ],
+    "are_you_ok_third_try": [
+      "shit, I hope it's just the radio that's knackered",
+      "if you can hear me, help's coming",
+      "fucking hell, man, I hope you're okay",
+      "if you can hear me, help's on the way",
+      "you got us all really worried here, man",
+      "there's a garage full of people turning blue, here"
+    ],
+    "minor_suspension_damage_general": [
+      "you've had a bit of suspension damage",
+      "we're seeing some minor suspension damage",
+      "you've got some minor suspension damage there",
+      "it looks like your suspension's a little bit off",
+      "there's some minor suspension damage",
+      "you've got a little bit of suspension damage",
+      "we're seeing a little bit of suspension damage",
+      "you got a little bit of suspension damage"
+    ],
+    "stopped_upside_down": [
+      "that looked like a big one, are you all right?",
+      "that looked pretty bad, are you okay?",
+      "are you all right?",
+      "are you okay there?",
+      "are you okay, mate?",
+      "are you okay?",
+      "that looked bad, are you okay?"
+    ],
+    "no_suspension_damage": [
+      "your suspension looks fine, mate",
+      "we're not seeing any suspension damage",
+      "your suspension's fine"
+    ],
+    "minor_aero_damage_general": [
+      "we're seeing a little bit of bodywork damage there",
+      "you picked up some minor aero damage",
+      "looks like you got some minor bodywork damage",
+      "we're seeing a little bit of aero damage",
+      "you've got a little bit of bodywork damage there",
+      "you've picked up a little bit of bodywork damage",
+      "some minor aero damage",
+      "we're seeing some minor aero damage",
+      "you picked up a bit of aero damage",
+      "you've had a bit of bodywork damage there"
+    ],
+    "minor_suspension_damage": [
+      "you've had a bit of suspension damage",
+      "you've had a bit of suspension damage, it's probably all right",
+      "we're seeing some minor suspension damage",
+      "you've got some minor suspension damage there",
+      "you've had some suspension damage there, stay out",
+      "it looks like your suspension's a little bit off",
+      "there's some minor suspension damage",
+      "you've got a little bit of suspension damage",
+      "we're seeing a little bit of suspension damage",
+      "you got a little bit of suspension damage"
+    ],
+    "are_you_ok_second_try": [
+      "come on, don't do this, tell us you're okay",
+      "answer me if you can?",
+      "can you hear me? Respond please",
+      "are you okay? Answer me if you can",
+      "come on, we're all shitting ourselves here, tell us you're okay",
+      "come on, are you okay?",
+      "can you hear me, respond, please, are you okay?",
+      "can you respond, please, are you all right?",
+      "come on, mate, are you okay? respond",
+      "come on, respond, please"
+    ],
+    "left_front_puncture": [
+      "front left puncture",
+      "flat front left"
+    ],
+    "trivial_aero_damage_general": [
+      "tiny bit of aero damage there, you probably won't even feel it",
+      "tiny bit of aero damage, just ignore it",
+      "ignore that aero damage, it's nothing",
+      "you've taken a tiny bit of bodywork damage, but you won't feel it",
+      "you got a tiny bit of bodywork damage there, just ignore it"
+    ],
+    "acknowledge_driver_is_ok_no_speech": [
+      "okay, mate, I think that radio's had it",
+      "I think the radio's fucked",
+      "can't hear anything, mate, think you've knackered the radio",
+      "can't hear anything, think the radio's gone",
+      "okay, I can't hear you, maybe the radio's gone"
+    ],
+    "minor_transmission_damage": [
+      "careful with those gearshifts or the transmission ain't gonna last the race",
+      "watch those downshifts, go easy on the transmission",
+      "go easy on the transmission"
+    ],
+    "no_brake_damage": [
+      "your brakes are good",
+      "your brakes look good from here",
+      "your brakes are absolutely fine, mate"
+    ],
+    "no_aero_damage": [
+      "your bodywork's fine",
+      "your bodywork's okay",
+      "your bodywork looks good"
+    ],
+    "busted_suspension": [
+      "your suspension's completely knackered, there's nothing we can do there",
+      "we can't fix our suspension, mate, that's your day over",
+      "the suspension's boogered"
+    ],
+    "minor_brake_damage": [
+      "there's something not right with those brakes, mate",
+      "we're seeing some minor brake damage",
+      "you've got a bit of brake damage"
+    ],
+    "left_rear_puncture": [
+      "left rear puncture",
+      "your left rear is punctured",
+      "rear left puncture"
+    ],
+    "busted_brakes": [
+      "see if you can get it back to the pits and we can do what we can with these brakes",
+      "them brakes are fucked, mate",
+      "there's nothing left of these brakes, mate, come back into the pit if you can"
+    ],
+    "no_engine_damage": [
+      "engine looks okay",
+      "engine looks good, mate",
+      "engine looks fine"
+    ],
+    "missing_wheel": [
+      "you're missing a wheel, mate, let's see if you can get it back to the pits",
+      "you're missing a wheel, you might be able to limp back, but I don't know if we can sort it",
+      "you've lost a wheel, it's not looking good, mate"
+    ],
+    "rolling": [
+      "try the other way up",
+      "it goes quicker when it's on its wheels, mate",
+      "shit, that looked painful, how's your head",
+      "that looks painful",
+      "no, now you've gone upside-down there",
+      "it's quicker the other way up",
+      "unlucky mate, that looks painful",
+      "that's not right, it should be the other way up, I'm sure"
+    ],
+    "no_transmission_damage": [
+      "the transmission looks fine",
+      "the transmission's okay",
+      "the transmission looks fine, mate"
+    ],
+    "right_rear_puncture": [
+      "right rear puncture",
+      "your right rear's punctured",
+      "you got a right rear puncture"
+    ],
+    "severe_aero_damage": [
+      "the bodywork's in pretty bad shape, we might need to fix that",
+      "you've had quite a lot of aero damage, you might need to come and get it fixed",
+      "you've had a lot of aero damage there, mate, the bodywork looks pretty fucked"
+    ],
+    "minor_aero_damage": [
+      "you've had a bit of bodywork damage, stay out, it's not too bad",
+      "we're seeing a little bit of bodywork damage there",
+      "you picked up some minor aero damage",
+      "we're seeing a little bit of aero damage",
+      "looks like you got some minor bodywork damage",
+      "you had some minor aero damage, stay out, it's not that bad",
+      "you've got a little bit of bodywork damage there",
+      "some minor aero damage",
+      "we're seeing some minor aero damage",
+      "you picked up a big of aero damage",
+      "you picked up a little bit of bodywork damage",
+      "you've had a bit of bodywork damage there"
+    ]
+  }
+}

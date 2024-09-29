@@ -1,6 +1,6 @@
 .env
 /venv
-/utils
 /voice
 /history
-/examples
+/reduced_examples
+/utils_deprecated

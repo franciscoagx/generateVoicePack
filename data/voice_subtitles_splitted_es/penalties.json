@@ -1,0 +1,151 @@
+{
+  "penalties": {
+    "stop_go_penalty_speeding_in_pit_lane": [
+      "tenemos una penalización stop-go por exceso de velocidad en el carril de boxes",
+      "acabamos de recibir una penalización stop-go por exceso de velocidad en el pit lane"
+    ],
+    "penalty_one_lap_left_stopgo": [
+      "entra a boxes para cumplir la penalización stop-go en esta vuelta",
+      "tenemos que cumplir la penalización stop-go en esta vuelta",
+      "entra para cumplir la penalización stop-go al final de esta vuelta"
+    ],
+    "points_will_be_awarded_this_lap": [
+      "se otorgarán puntos de penalización en esta vuelta"
+    ],
+    "drive_through_overtaking_under_yellow": [
+      "acabamos de recibir una penalización drive-through por adelantar bajo bandera amarilla",
+      "acabamos de recibir una penalización drive-through por pasar bajo amarilla",
+      "acabamos de tener una penalización drive-through por adelantar bajo bandera amarilla"
+    ],
+    "drive_through_speeding_in_pit_lane": [
+      "acabamos de recibir una penalización drive-through por exceso de velocidad en el carril de boxes",
+      "acabamos de tener una penalización drive-through por exceso de velocidad en el pit lane",
+      "acabamos de recibir una penalización drive-through por ir demasiado rápido en el carril de boxes"
+    ],
+    "cut_track_in_prac_or_qual": [
+      "vamos, mantén el coche dentro de las líneas blancas, eliminarán esta vuelta",
+      "mantén el coche entre las líneas blancas",
+      "límites de pista, vamos, eliminarán esta vuelta",
+      "límites de pista, vamos, mantén el coche dentro de las líneas blancas",
+      "eliminarán esta vuelta, cuidado con los límites de pista",
+      "esta vuelta no contará, has cortado la pista",
+      "vamos, hombre, vigila los límites de pista, esta vuelta no contará",
+      "esta vuelta no contará, límites de pista",
+      "esta vuelta será invalidada, cuidado con los límites de pista",
+      "límites de pista, invalidarán esta vuelta",
+      "límites de pista, la vuelta no contará",
+      "vamos, vigila los límites de pista, esta vuelta será eliminada",
+      "eliminarán esta vuelta, has cortado la pista",
+      "vamos, mantén el coche dentro de las líneas blancas, esta vuelta no contará",
+      "límites de pista, esta vuelta será eliminada",
+      "has salido de los límites de la pista",
+      "esta vuelta no contará, cuidado con esos límites de pista",
+      "límites de pista, vamos, esta vuelta no contará",
+      "vigila esos límites de pista",
+      "vigila esos límites de pista, eliminarán esta vuelta",
+      "los comisarios nos han advertido por cortar la pista, eliminarán esta vuelta"
+    ],
+    "stop_go_penalty_cutting_track": [
+      "acabamos de recibir una penalización stop-go por cortar la pista"
+    ],
+    "lap_deleted": [
+      "eliminarán esta vuelta, cortaste la pista",
+      "acabas de salirte de los límites de la pista, eliminarán esta vuelta",
+      "has cortado la pista, eliminarán la vuelta",
+      "vamos, límites de pista, esta vuelta no contará",
+      "mantén el coche dentro de las líneas blancas, esta vuelta ha sido invalidada",
+      "esta vuelta ha sido invalidada, cuidado con esos límites de pista",
+      "esta vuelta no contará, cortaste la pista",
+      "esta vuelta no contará, has cortado la pista"
+    ],
+    "time_penalty": [
+      "acabamos de recibir una penalización de tiempo",
+      "nos acaban de dar una penalización de tiempo",
+      "¡maldita sea!, acabamos de recibir una penalización de tiempo",
+      "acabamos de tener una penalización de tiempo"
+    ],
+    "drive_through_ignored_blue": [
+      "hemos tenido una penalización drive-through por ignorar las banderas azules",
+      "hemos recibido una penalización drive-through por ignorar las banderas azules",
+      "acabamos de recibir una penalización drive-through por ignorar las banderas azules"
+    ],
+    "one_lap_to_serve_drive_through": [
+      "tenemos 1 vuelta para cumplir la penalización drive-through",
+      "1 vuelta para cumplir la penalización drive-through",
+      "tenemos 1 vuelta para cumplir la penalización drive-through",
+      "nos queda 1 vuelta para cumplir la penalización drive-through"
+    ],
+    "cut_track_in_race": [
+      "límites de pista, vamos",
+      "nos han advertido sobre los límites de pista",
+      "vamos, límites de pista, mantén el coche dentro de las líneas",
+      "acabamos de recibir una advertencia por cortar la pista",
+      "mantén el coche dentro de los límites de pista",
+      "mantén el coche dentro de las líneas, límites de pista",
+      "has salido de los límites de la pista, vamos, mantén el coche dentro de las líneas",
+      "los comisarios nos han advertido por cortar la pista, mantén el coche dentro de las líneas blancas",
+      "los comisarios nos han advertido sobre los límites de pista",
+      "mantén el coche dentro de las líneas blancas o recibiremos una penalización",
+      "cuidado con esos límites de pista o recibiremos una penalización",
+      "vigila esos límites de pista, no queremos una penalización",
+      "cuidado con los límites de pista, recibiremos una penalización si no lo hacemos",
+      "vigila esos límites de pista",
+      "límites de pista, vamos, mantén el coche dentro de las líneas blancas",
+      "cuidado con los límites de pista",
+      "vamos, límites de pista",
+      "los comisarios nos han advertido sobre los límites de pista, mantén el coche dentro de las líneas"
+    ],
+    "warning_unsportsmanlike_driving": [
+      "hemos recibido una advertencia por conducción antideportiva",
+      "mantén la calma, amigo, hemos recibido una advertencia por conducción antideportiva",
+      "acabamos de recibir una advertencia por conducción antideportiva, vamos, cálmate",
+      "acabamos de recibir una advertencia por conducción antideportiva, vamos, mantén la calma",
+      "bájale un poco, amigo, hemos recibido una advertencia por conducción antideportiva",
+      "hemos recibido una advertencia por conducción antideportiva, vamos, concéntrate",
+      "acabamos de recibir una advertencia por conducción antideportiva"
+    ],
+    "too_many_car_to_car_collisions": [
+      "vamos amigo, esto no es una carrera de demolición",
+      "ten cuidado, no estás corriendo en autos chocadores",
+      "vamos, deja de chocar con la gente",
+      "vamos, esto no es un juego de autos chocones"
+    ],
+    "new_penalty_stopgo": [
+      "acabamos de recibir una penalización stop-go",
+      "nos acaban de dar una penalización stop-go",
+      "¡mierda!, acabamos de recibir una penalización stop-go",
+      "acabamos de recibir una penalización stop-go",
+      "¡maldita sea!, nos han dado una penalización stop-go"
+    ],
+    "car_to_car_collision": [
+      "ten cuidado, por favor",
+      "vamos, despierta",
+      "ten cuidado",
+      "cuídate, por favor",
+      "vamos, ten cuidado"
+    ],
+    "cut_track_race_1": [
+      "nos han advertido sobre los límites de pista",
+      "límites de pista",
+      "acabamos de cortar la pista",
+      "acabamos de recibir una advertencia por cortar la pista",
+      "nos hemos salido de los límites de la pista, mantén el coche dentro de las líneas blancas",
+      "mantén el coche dentro de los límites de pista",
+      "límites de pista, vigila esas líneas",
+      "los comisarios nos han advertido por cortar la pista, mantén el coche dentro de las líneas blancas",
+      "hemos recibido una advertencia por cortar la pista, mantén el coche en orden",
+      "mantente entre las líneas",
+      "presta atención a los límites de pista",
+      "los comisarios nos han advertido sobre los límites de pista, mantén el coche dentro de las líneas",
+      "has cortado la pista, mantén el coche en orden"
+    ],
+    "drive_through_cutting_track": [
+      "hemos recibido una penalización drive-through por violar los límites de pista",
+      "acabamos de recibir una penalización drive-through por cortar la pista",
+      "hemos recibido una penalización drive-through por cortar la pista",
+      "hemos recibido una penalización drive-through por cortar la pista",
+      "hemos recibido una penalización drive-through por violar los límites de pista",
+      "acabamos de recibir una penalización drive-through por cortar la pista"
+    ]
+  }
+}

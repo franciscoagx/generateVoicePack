@@ -1,0 +1,92 @@
+{
+  "push_now": {
+    "push_to_hold_position": [
+      "necesitas empujar si queremos mantener esta posición",
+      "empuja, empuja, o perderemos este lugar",
+      "empuja ahora, el coche de atrás se está acercando"
+    ],
+    "minutes_to_set_a_lap": [
+      "minutos para marcar una vuelta",
+      "minutos para completar el trabajo",
+      "minutos para hacer una buena vuelta",
+      "minutos para lograr un buen tiempo"
+    ],
+    "push_to_get_third": [
+      "hay posibilidad de podio aquí, empuja, empuja, empuja",
+      "empuja más fuerte, podemos lograr el podio",
+      "empuja, podemos conseguir el tercer lugar"
+    ],
+    "pits_exit_clear": [
+      "la salida está despejada, no cruces la línea blanca",
+      "la salida de pits está despejada, empuja",
+      "la salida de pits está libre, empuja ahora",
+      "la salida está despejada, cuida la línea blanca",
+      "parece que la salida de pits está libre",
+      "la salida de pits está despejada",
+      "todo despejado en la salida de pits",
+      "la pista está libre, empuja, empuja, empuja",
+      "salida de pits despejada",
+      "salida de pits despejada, no cruces la línea blanca",
+      "parece que la salida de pits está libre",
+      "salida de pits despejada, mantente detrás de la línea blanca",
+      "salida de pits libre",
+      "todo despejado en la salida de pits, puedes empujar ahora",
+      "salida despejada, empuja",
+      "todo despejado, empuja ahora"
+    ],
+    "opponent_exiting_pits": [
+      "atento, hay un coche reincorporándose",
+      "hay un coche saliendo de pits",
+      "atención, hay un coche saliendo de los pits",
+      "hay un coche saliendo de los pits, atento",
+      "hay un coche reincorporándose",
+      "hay un coche saliendo de la calle de pits",
+      "hay un coche saliendo de los pits",
+      "hay un coche reincorporándose delante"
+    ],
+    "pits_exit_traffic_behind": [
+      "se aproxima un coche, no cruces la línea blanca",
+      "hay tráfico detrás, mantente alerta",
+      "vigila tus espejos, se acerca un coche",
+      "ten cuidado, se aproxima un coche",
+      "se aproxima un coche, no cruces la línea blanca, vigila tus espejos",
+      "se aproxima un coche, mantente detrás de la línea blanca",
+      "hay tráfico detrás, ten cuidado",
+      "hay un coche detrás, ten cuidado al reincorporarte",
+      "hay tráfico detrás",
+      "se aproxima un coche, vigila tus espejos",
+      "hay tráfico aproximándose, vigila tus espejos",
+      "se aproxima un coche, vigila tus espejos, mantente detrás de la línea blanca",
+      "hay tráfico detrás, vigila tus espejos"
+    ],
+    "push_to_improve": [
+      "empuja ahora, podemos alcanzar a este tipo",
+      "empuja ahora, podemos recortar aquí",
+      "empuja, empuja, empuja, podemos alcanzarlo",
+      "empuja, empuja, podemos alcanzar este coche",
+      "empuja, podemos pasar a este tipo",
+      "empuja, empuja, empuja, podemos conseguir esta posición"
+    ],
+    "push_to_get_second": [
+      "empuja ahora, podemos conseguir el segundo lugar",
+      "empuja, empuja, empuja, podemos ser segundos",
+      "empuja, podemos lograr el segundo lugar"
+    ],
+    "laps_to_get_the_job_done": [
+      "vueltas, hagámoslo",
+      "vueltas para completar el trabajo, amigo",
+      "vueltas para hacer el trabajo",
+      "vueltas para marcar un buen tiempo"
+    ],
+    "push_to_get_win": [
+      "empuja ahora, podemos ganar esto",
+      "empuja, empuja, empuja, podemos ganar",
+      "empuja con todo, hay una victoria en juego aquí",
+      "empuja, empuja, empuja, tenemos chance de ganar"
+    ],
+    "we_have": [
+      "tenemos",
+      "contamos con"
+    ]
+  }
+}

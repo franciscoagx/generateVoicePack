@@ -1,0 +1,256 @@
+{
+  "timings": {
+    "he_is_slower_through_corner": [
+      "es más lento a través de",
+      "va bastante lento por",
+      "es más lento que nosotros en",
+      "están bastante lentos por",
+      "van más lentos que nosotros a través de",
+      "va más lento que nosotros por"
+    ],
+    "below_average_reputation": [
+      "peligroso",
+      "no es el piloto más limpio",
+      "tiene una reputación dudosa"
+    ],
+    "opponent_behind_has_below_average_reputation": [
+      "cuidado con los espejos, el piloto de atrás no tiene buena reputación",
+      "el piloto de atrás no tiene la mejor reputación, ten cuidado",
+      "el de atrás ha tenido varios incidentes últimamente",
+      "el piloto detrás no es el más limpio, ten cuidado aquí",
+      "el de atrás ha tenido muchos incidentes recientemente, tenlo en mente",
+      "el de atrás es un poco peligroso, vigila tus espejos",
+      "el piloto de atrás tiene una reputación dudosa, ten cuidado",
+      "el de atrás ha tenido muchos incidentes últimamente, tenlo en cuenta",
+      "el piloto de atrás no tiene una buena reputación",
+      "vigila los espejos, el de atrás no tiene buena reputación",
+      "el piloto de atrás no es el más limpio, ten cuidado aquí",
+      "el de atrás ha tenido algunos incidentes últimamente, tenlo en cuenta",
+      "el de atrás tiene una reputación dudosa, cuidado",
+      "el piloto de atrás no corre muy limpio, ten cuidado",
+      "el piloto de atrás no es el más limpio, vigílate",
+      "el de atrás no tiene muy buena reputación"
+    ],
+    "opponent_ahead_has_below_average_reputation": [
+      "este piloto no tiene buena reputación, ten cuidado",
+      "el de adelante tiene tendencia a incidentes, cuidado aquí",
+      "el piloto de adelante no tiene buena reputación",
+      "este piloto tiene mala fama",
+      "la reputación de este piloto es baja, ten cuidado",
+      "la reputación de este tipo es dudosa, tenlo en cuenta",
+      "el piloto de adelante no tiene buena fama, ten cuidado",
+      "este piloto tiene una reputación dudosa, tenlo en cuenta",
+      "el de adelante ha tenido muchos incidentes, mantén la distancia",
+      "el de adelante tiene mala reputación, ten cuidado",
+      "este tipo ha tenido muchos incidentes, tenlo presente",
+      "la reputación de este piloto es baja, vigílate",
+      "este piloto no tiene buena fama, ten cuidado",
+      "este piloto tiene mala reputación",
+      "el de adelante no es conocido por ser limpio, ten cuidado",
+      "el piloto de adelante ha tenido muchos incidentes, tenlo en cuenta"
+    ],
+    "he_is_faster_entering_corner": [
+      "es más rápido que nosotros entrando en",
+      "va más rápido que tú entrando en",
+      "es más rápido que tú entrando en",
+      "son más rápidos que nosotros entrando en",
+      "es más rápido que tú en",
+      "va más rápido que tú en"
+    ],
+    "gap_behind_decreasing": [
+      "el coche de atrás está alcanzándote, la distancia es ahora de",
+      "la brecha con el de atrás ha disminuido a",
+      "el de atrás te está alcanzando, la distancia es ahora de",
+      "el coche de atrás te está alcanzando, la distancia es de",
+      "el de atrás te está acortando distancias, ahora la brecha es de"
+    ],
+    "ahead_is_now": [
+      "adelante está ahora a",
+      "el de adelante está ahora a"
+    ],
+    "he_is_slower_entering_corner": [
+      "es bastante lento entrando en",
+      "va más lento que nosotros entrando en",
+      "van lentos entrando en",
+      "es más lento que nosotros entrando en",
+      "es lento entrando en",
+      "van bastante lento entrando en"
+    ],
+    "he_is_faster_through_corner": [
+      "es más rápido que nosotros a través de",
+      "son más rápidos que nosotros a través de",
+      "son más rápidos que nosotros en",
+      "es más rápido que nosotros en",
+      "van más rápido que nosotros por",
+      "es más rápido que tú a través de"
+    ],
+    "seconds": [
+      "segundos"
+    ],
+    "gap_in_front_is_now": [
+      "la brecha con el de adelante es ahora de",
+      "la distancia con el de adelante es ahora de"
+    ],
+    "bad_reputation": [
+      "tendencia a accidentes",
+      "propenso a accidentes",
+      "mala reputación",
+      "mala fama",
+      "fama de problemático"
+    ],
+    "opponent_ahead_has_bad_reputation": [
+      "cuidado aquí, el piloto de adelante no es conocido por ser limpio",
+      "cuidado aquí, el de adelante tiene antecedentes",
+      "este tipo tiene mala fama, vigílate",
+      "el de adelante tiene mala reputación",
+      "este piloto tiene mala reputación, no esperes una lucha justa",
+      "cuidado, este piloto tiene mala fama",
+      "el piloto de adelante tiene mala reputación",
+      "el de adelante no es un piloto limpio, tenlo en cuenta",
+      "cuidado, este piloto tiene mala fama",
+      "este tipo tiene mala reputación, ten cuidado cuando lo pases",
+      "este tipo tiene mala fama, no esperes una lucha justa",
+      "ten cuidado, el de adelante no juega limpio",
+      "ten cuidado con este tipo, tiene mala reputación",
+      "el piloto de adelante no es un piloto limpio, tenlo en cuenta",
+      "cuidado, el de adelante tiene antecedentes",
+      "este piloto tiene mala fama, vigílate al pasarlo"
+    ],
+    "gap_behind_is_now": [
+      "la brecha con el de atrás es ahora de"
+    ],
+    "youre_reeling": [
+      "estás alcanzando a"
+    ],
+    "behind_is_now": [
+      "el de atrás está ahora a"
+    ],
+    "is_reeling_you_in": [
+      "te está alcanzando, la distancia ha bajado a",
+      "se está acercando, la distancia ha disminuido a",
+      "te está alcanzando, la brecha es ahora de",
+      "se está acercando, la distancia es ahora de",
+      "se está acercando, la brecha es ahora de",
+      "te está recortando distancias, la brecha es ahora de",
+      "se está acercando, la brecha es ahora de",
+      "está cerrando la distancia, ahora es de",
+      "te está recortando distancias, la distancia es ahora de"
+    ],
+    "opponent_behind_has_bad_reputation": [
+      "el de atrás es muy propenso a accidentes, ten cuidado",
+      "el de atrás tiene mala reputación, prepárate para problemas",
+      "el de atrás tiene mala reputación",
+      "el de atrás no es conocido por correr limpio, ten cuidado aquí",
+      "el de atrás tiene mala reputación, ten cuidado",
+      "el piloto de atrás es muy propenso a accidentes, ten cuidado aquí",
+      "el piloto de atrás tiene mala reputación, espera problemas",
+      "vigila tus espejos, este tipo ha tenido muchos incidentes",
+      "el de atrás es muy propenso a accidentes, ten cuidado",
+      "el piloto de atrás tiene muy mala reputación, ten cuidado",
+      "el de atrás tiene mala fama",
+      "el de atrás ha tenido muchos incidentes, ten cuidado",
+      "el piloto de atrás no es conocido por correr limpio, ten cuidado",
+      "el piloto de atrás tiene mala fama, ten cuidado",
+      "el piloto de atrás ha tenido muchos incidentes, ten cuidado"
+    ],
+    "behind_is_increasing": [
+      "la distancia con el de atrás está aumentando, ahora es de"
+    ],
+    "gap_in_front_decreasing": [
+      "estás alcanzando a este tipo, la brecha es ahora de",
+      "estás alcanzando al de adelante, la distancia es",
+      "estás recortando distancias con este coche, la brecha es ahora de",
+      "estás alcanzando a este tipo, la distancia es ahora de",
+      "estás recortando distancias con este coche, la distancia es",
+      "estás recortando distancias con el de adelante, la brecha es ahora de"
+    ],
+    "being_held_up": [
+      "mantente cerca, podría haber una oportunidad aquí",
+      "mantente cerca",
+      "estás perdiendo tiempo detrás de este tipo, saca los codos y adelántalo",
+      "sigue presionando, cometerá un error",
+      "vamos, busca una forma de adelantar, estamos perdiendo tiempo",
+      "sigue presionándolo, habrá una oportunidad aquí",
+      "vamos, adelántalo ya",
+      "adelanta a ese cabrón, vamos, hazlo ya",
+      "vamos, podemos con este tipo",
+      "mantente cerca, espera a que cometa un error",
+      "vamos, lánzate ya",
+      "mantén la presión, no le des tregua",
+      "mantén la presión, no le des respiro",
+      "necesitamos estar delante de este tipo",
+      "mantente cerca, sigue presionando",
+      "vamos, lánzate de una vez",
+      "sigue presionando, fuerza el error",
+      "vale, amigo, espera un error",
+      "mantente cerca de él, habrá una oportunidad",
+      "mantente cerca, ve si podemos desestabilizarlo",
+      "vamos, adelanta a este cabrón",
+      "vamos, encuentra un hueco",
+      "mantente con él, mantenlo bajo presión",
+      "vale, amigo, creemos que deberías adelantar a este tipo",
+      "no esperes demasiado, encuentra ese hueco",
+      "vamos, tenemos que estar delante de este tipo",
+      "estás perdiendo tiempo aquí, hombre, tenemos que adelantarlo",
+      "vamos, lánzate ya, hombre",
+      "vamos, adelántalo ya",
+      "tienes que adelantar a este imbécil, estás perdiendo demasiado tiempo",
+      "vamos, sigue presionándolo, fuerza el error",
+      "estamos perdiendo mucho tiempo aquí, saca los codos y fuerza el adelantamiento",
+      "mantenlo en la mira, fuerza el error",
+      "sigue buscando, encontrarás un hueco",
+      "realmente necesitamos estar delante de este coche",
+      "tendrás que lanzarte, amigo",
+      "este cabrón te está frenando, tienes que encontrar una forma de adelantar",
+      "vamos, deja de perder el tiempo y adelántalo",
+      "basta de tonterías, vamos, lánzate",
+      "debe haber una oportunidad aquí, sigue presionándolo",
+      "mantente cerca, espera a que se quiebre"
+    ],
+    "ahead_is_increasing": [
+      "la distancia con el de adelante está aumentando, ahora es de"
+    ],
+    "gap_in_front_increasing": [
+      "la brecha con el de adelante está aumentando, ahora es de",
+      "la brecha con el de adelante ha aumentado, ahora es de",
+      "la brecha con el de adelante ha aumentado a"
+    ],
+    "in_the_gap_is_now": [
+      "en, la brecha es",
+      "en, la brecha es ahora de"
+    ],
+    "the_gap_to": [
+      "la distancia con"
+    ],
+    "being_pressured": [
+      "te está presionando, mantén tus salidas limpias, sigue siendo suave",
+      "defiende tu posición, no lo dejes pasar",
+      "mantén la calma, sigue suave, sin errores",
+      "este cabrón está tratando de distraerte, no lo permitas",
+      "no te dejes presionar, mantén tus salidas limpias",
+      "haz que él haga todo el trabajo, enfócate en tus salidas",
+      "mantén la concentración, haz que se lo gane",
+      "no dejes que este tipo te intimide",
+      "ignora a ese cabrón en el espejo, sigue tu línea, clava esas salidas",
+      "vamos, no se lo pongas fácil, haz que pase por fuera",
+      "no te dejes intimidar por este idiota, haz que se lo gane",
+      "veamos qué tan ancho puedes hacer este coche",
+      "mantén la calma, haz que ellos hagan el trabajo",
+      "es hora de ponerse a la defensiva, amigo",
+      "defiende con fuerza, haz que se lo ganen",
+      "no te dejes intimidar, mantenlo detrás de ti",
+      "solo ignóralo, eventualmente se irá",
+      "no dejes que este tipo te distraiga",
+      "no te distraigas, defiende tu posición",
+      "usa toda la pista, haz que busquen el hueco",
+      "sigue el plan, no te dejes intimidar",
+      "usa toda la pista, haz que encuentre el hueco",
+      "lento en la entrada, rápido en la salida, cubre el interior"
+    ],
+    "gap_behind_increasing": [
+      "te estás alejando, la brecha con el de atrás es ahora de",
+      "te estás alejando del de atrás, la distancia es ahora de",
+      "la brecha con el de atrás ha aumentado a"
+    ]
+  }
+}

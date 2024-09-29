@@ -1,0 +1,134 @@
+{
+  "opponents": {
+    "ahead_is_pitting": [
+      "ahead is pitting",
+      "in front is pitting"
+    ],
+    "car_exiting_pits_be_careful": [
+      "there's a car exiting the pits, be careful",
+      "there's a car exiting the pits, take care",
+      "there's a car leaving the pits, be careful"
+    ],
+    "is_pitting": [
+      "is pitting"
+    ],
+    "the_car_behind_has_just_done_a": [
+      "the guy behind has just done a"
+    ],
+    "the_car_behind_is_pitting": [
+      "the car behind's pitting",
+      "the car behind's pitting now",
+      "the car behind is pitting"
+    ],
+    "the_leader_has_just_done_a": [
+      "the leader has just done a"
+    ],
+    "rating_intro": [
+      "and their rating is"
+    ],
+    "the_car_ahead_has_just_done_a": [
+      "the car in front's lap time is a",
+      "the car in front has just done a",
+      "the guy ahead's lap time is a",
+      "the guy ahead has just posted a",
+      "the guy in front has just done a",
+      "the guy ahead has just done a",
+      "the car ahead has just done a",
+      "the guy ahead's last lap time is a",
+      "the car in front has just posted a"
+    ],
+    "we_are": [
+      "that's us",
+      "we are"
+    ],
+    "has_just_been_disqualified": [
+      "has just been disqualified",
+      "has been disqualified"
+    ],
+    "the_leader_is_now_on": [
+      "the leader is now on"
+    ],
+    "next_car_is": [
+      "the car in front is",
+      "the car ahead is",
+      "the guy ahead is",
+      "the car in front of us is",
+      "the next car is",
+      "right, the guy ahead of us is",
+      "the guy in front is",
+      "the car in front of us is now",
+      "the driver in front of us is"
+    ],
+    "is_now_leading": [
+      "is leading the race",
+      "is now leading",
+      "is now in the lead"
+    ],
+    "car_number": [
+      "car number"
+    ],
+    "new_fastest_lap_for": [
+      "that's a new fastest lap for",
+      "new fastest lap for",
+      "fastest lap for"
+    ],
+    "the_car_ahead_is_now_on": [
+      "the car ahead is on",
+      "the car ahead is now on",
+      "the car ahead's now on"
+    ],
+    "one_lap_ahead": [
+      "one lap ahead",
+      "one lap in front"
+    ],
+    "has_just_retired": [
+      "has now retired",
+      "has retired",
+      "has retired from the race",
+      "has just retired from the race",
+      "has just retired"
+    ],
+    "one_lap_behind": [
+      "a lap behind",
+      "one lap behind"
+    ],
+    "the_car_behind_is_now_on": [
+      "the car behind is now on",
+      "the car behind is on"
+    ],
+    "the_leader": [
+      "the leader"
+    ],
+    "reputation_intro": [
+      "their reputation is"
+    ],
+    "slow_car_ahead": [
+      "there's a slow car ahead",
+      "you got a slow car ahead"
+    ],
+    "the_leader_is_pitting": [
+      "lead car's pitting",
+      "the leader is pitting now",
+      "the leader's pitting now"
+    ],
+    "behind_is_pitting": [
+      "behind is pitting",
+      "behind is pitting no"
+    ],
+    "the_car_ahead_is_pitting": [
+      "the car ahead's pitting now",
+      "the car ahead's pitting",
+      "the car in front is pitting"
+    ],
+    "is_now_on": [
+      "is now on"
+    ],
+    "cant_pronounce_name": [
+      "I don't know his name",
+      "I don't know",
+      "I can't pronounce the name, mate",
+      "I really don't know",
+      "I can't pronounce that"
+    ]
+  }
+}
